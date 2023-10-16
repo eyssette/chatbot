@@ -8,6 +8,7 @@
 > 1. [Comment on organise son temps ?](Temps)
 > 2. [Que doit-on faire comme travail au brouillon ?](Brouillon)
 > 3. [Comment faut-il faire pour rédiger la dissertation ?](Rédaction)
+> 4. [Comment ma copie va-t-elle être évaluée ?](Évaluation)
 
 ## Temps
 - temps
@@ -354,6 +355,8 @@ Voici un exemple de conclusion rédigée sur le sujet « Le bonheur n'est-il qu'
 
 _[On reprend le sujet]_ Le bonheur n'est-il qu'un idéal ? _[On synthétise son développement avec les transitions entre parties]_ Le concept de bonheur semble indéterminé, nos désirs ont tendance à nous emprisonner dans un cycle d'insatisfactions et le tragique de l'existence pourrait sembler insurmontable. Cependant, un art d'être heureux n'est-il pas malgré tout possible ? Sans prétendre parvenir à une science du bonheur, nous pouvons chercher à retrouver le simple plaisir d'exister et parvenir à accepter ce qui ne dépend pas de nous. Peut-on pour autant réduire l'idéal du bonheur à un tel mode de vie ? Le plaisir simple d'exister ne suffit pas car nous désirons vivre une vie riche et pleine de sens, et nous voulons nous inscrire dans le réel plutôt que simplement l'accepter. [On finit par une réponse claire au sujet] Le bonheur n'est en définitive pas qu'un idéal : nous avons défendu ici l'idée qu'il se trouve dans l'exercice de nos facultés et notre engagement dans des formes de participation au réel et d'enrichissement de l'existence.
 
+1. [OK, j'ai compris comment rédiger chaque moment en particulier de la dissertation. Mais quels sont en général les conseils utiles à suivre pour bien rédiger ?](Rédaction conseils généraux)
+2. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluer)
 
 ## Rédaction conseils généraux
 - conseils pour rédiger
@@ -372,6 +375,7 @@ Voici quelques conseils généraux pour la rédaction de la copie :
 
 1. [J'ai aussi des questions sur le style, la manière d'écrire](Rédaction style)
 2. [Je veux revoir comment on rédige chaque moment de la dissertation](Rédaction)
+3. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluer)
 
 ## Rédaction style
 - style
@@ -388,6 +392,8 @@ Au niveau du style :
 5. On ne dit pas "on a vu dans le cours que" : on utilise directement ce qu'on a vu dans le cours
 6. On n'hésite pas à utiliser souvent des questions pour relancer la réflexion
 
+1. [Je veux revoir comment on rédige chaque moment de la dissertation](Rédaction)
+2. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluer)
 
 ## Utiliser le je
 - utiliser le je
@@ -398,13 +404,38 @@ Au niveau du style :
 Il faut éviter d’utiliser le “je”, car le risque c’est d’en rester à une simple affirmation sans arguments. Mais on a le droit de l'utiliser si on a une argumentation solide, ou si le "je" ne fait pas référence à soi en particulier, mais à toute personne.
 
 1. [J'aimerais revoir les autres conseils sur le style](Rédaction style)
-
+2. [Je veux revoir comment on rédige chaque moment de la dissertation](Rédaction)
+3. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluer)
 
 ## Évaluation
 - est évalué
 - évaluation
 - note
-- critères d'évaluation
+- noter
 - noté
+- critères d'évaluation
 
-<!--TODO-->
+Une copie en philosophie est évaluée sur deux types de critères.
+
+### Des critères qui portent sur la forme
+- La présentation et la formulation
+- L'organisation logique des idées
+- Le lien avec le sujet
+- La méthode
+
+### Des critères qui portent sur le contenu
+- La pertinence des idées
+- L'analyse et l'argumentation
+- La mobilisation de connaissances : références théoriques et exemples concrets
+
+1. [OK, mais concrètement on peut s'attendre à quoi comme note selon le type de copie qu'on rend ?](Échelle de notes)
+
+## Échelle de notes
+
+On peut proposer l'échelle de notes suivante pour donner une idée de ce qu'on observe généralement dans les copies, même si bien sûr chaque copie va être évaluée à part entière sans plaquer une grille de correction sur la copie :
+
+- 0 : plagiat, fraude, ou refus de faire l’exercice.
+- Entre 1 et 6 : devoir très court, très peu de contenu, pas de méthode.
+- Entre 7 et 10 : devoir généralement court, un peu de méthode, un peu de contenu mais du hors sujet ou des banalités ou pas de développement pertinent.
+- Entre 11 et 14 : devoir construit, de la méthode, une réflexion sur certains enjeux du sujet, des éléments de contenu et de connaissance.
+- Entre 15 et 20 : devoir très bien construit, méthode maîtrisée, une réflexion développée sur le sujet, des éléments précis de connaissance bien mobilisés.
