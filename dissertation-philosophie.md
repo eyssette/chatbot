@@ -42,7 +42,20 @@ Il va falloir prendre le temps de bien analyser le sujet, afin de trouver des id
 - analyse
 - hors sujet
 
-<!--TODO-->
+Pour analyser le sujet, il faut penser à analyser :
+- les 2 notions importantes du sujet
+- mais aussi les autres termes du sujet (attention chaque terme est important)
+
+Il y a plusieurs stratégies possibles d'analyse :
+- On peut d'abord simplement noter ce à quoi ça nous fait penser : on note des synonymes, des expressions, des situations et des idées associées à cette notion
+- On pense aussi au contraire de la notion, aux opposés, à des distinctions, des différences
+- On essaie de trouver des exemples d'application de la notion (à quoi ça renvoie concrètement ?)
+- On essaie de trouver des connaissances utiles sur cette notion (qu'est-ce qu'on a vu dans le cours à ce propos ? Y a-t-il des philosophes, des courants philosophiques, du vocabulaire technique qu'on pourrait mobiliser ?)
+- On essaie de définir la notion en dégageant ses caractéristiques fondamentales et spécifiques (qui la distinguent d'autres notions)
+
+Dans tous les cas, il faut travailler au brouillon à l'écrit, avec son stylo, et pas seulement dans sa tête, en notant bien toutes ses idées (même si on a l'impression que c'est nul : cela va au contraire nous permettre de débloquer notre pensée !).
+
+1. [J'ai bien analysé le sujet, mais comment je trouve des idées maintenant pour répondre à la question posée ?](Trouver des idées)
 
 ## Trouver des idées
 - trouver des idées
@@ -53,7 +66,18 @@ Il va falloir prendre le temps de bien analyser le sujet, afin de trouver des id
 - pas d'inspiration
 - inspiration
 
-<!--TODO-->
+Pour trouver des idées, il y a plusieurs pistes possibles de réflexion :
+
+- On part de la notion principale du sujet, et on cherche à construire un chemin vers l’autre notion importante
+- On explore un maximum d’arguments possibles :
+	- pour cela , on explore les types de réponses : réponses “oui” et réponses “non”, réponses opposées à notre point de vue, réponses radicales …
+	- on explore les différents domaines et niveaux d’analyse : éthique, politique, individuel, sociaux-culturels …
+	- on explore les différents sens possibles des notions du sujet
+- On approfondit au maximum chaque argument : avec une analyse précise des termes employés ; en mobilisant des connaissances, des références théoriques et des exemples
+- On laisse de côté les banalités. On garde seulement les arguments les plus pertinents et ceux qu’on peut développer avec des connaissances précises.
+- On cherche des objections, des critiques possibles et pour chaque critique, on cherche des réponses possibles, etc.
+
+1. [J'ai plein d'idées, mais je dois maintenant les organiser. Comment faire un plan ?](Faire un plan)
 
 ## Faire un plan
 - plan
