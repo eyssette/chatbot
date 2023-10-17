@@ -198,6 +198,46 @@ Pour faire son plan détaillé au brouillon :
 1. [J'aimerais revoir comment on fait un plan de manière générale](Faire un plan)
 2. [Je veux voir maintenant comment on rédige](Rédaction)
 
+## Combien par partie ou par sous-partie
+- combien
+- par partie
+- par sous-partie
+- beaucoup
+
+Quel est le sens de votre question ?
+
+1. [Combien d'arguments faut-il avoir par parties ? Combien on fait de sous-parties ?](Combien d'arguments)
+2. [Combien de références philosophiques faut-il avoir par sous-parties ?](Combien de références)
+3. [Combien d'exemples faut-il avoir par sous-parties ?](Combien d'exemples)
+
+## Combien d'arguments
+- combien d'argument
+- beaucoup d'argument
+- combien de sous-parties
+
+Dans chaque partie, il doit y avoir au moins deux sous-parties qui correspondent le plus souvent à deux arguments, ou parfois à deux étapes dans un argument complexe.
+Au maximum, on met 4 arguments dans une partie (donc on a maximum 4 sous-parties)
+
+## Combien de références
+- combien de références
+- combien d'auteurs
+- combien de thèses
+- beaucoup de références
+- beaucoup d'auteurs
+- beaucoup de thèses
+
+Dans chaque sous-partie, on s'efforce d'utiliser une (et une seule) référence philosophique. 
+Le but est de pouvoir approfondir son idée avec la pensée d'un⋅e philosophie, ou avec un courant philosophique, ou de manière plus générale avec des connaissances philosophiques (des définitions, des distinctions conceptuelles).
+Au minimum, il faudrait avoir une référence par partie.
+
+## Combien d'exemples
+- combien d'exemples
+- beaucoup d'exemples
+
+Dans chaque sous-partie, on essaie de mobiliser un (et un seul) exemple concret précis. 
+Le but est de dégager le sens concret de son idée en montrant comme l'idée s'applique dans la réalité.
+Au minmum, il faudrait avoir un exemple précis par partie.
+
 ## Rédaction
 - rédaction
 - rédiger
