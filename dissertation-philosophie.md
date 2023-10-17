@@ -41,7 +41,6 @@ Il va falloir prendre le temps de bien analyser le sujet, afin de trouver des id
 - analyser le sujet
 - analyse du sujet
 - analyse
-- hors sujet
 
 Pour analyser le sujet, il faut penser à analyser :
 - les 2 notions importantes du sujet
@@ -57,6 +56,17 @@ Il y a plusieurs stratégies possibles d'analyse :
 Dans tous les cas, il faut travailler au brouillon à l'écrit, avec son stylo, et pas seulement dans sa tête, en notant bien toutes ses idées (même si on a l'impression que c'est nul : cela va au contraire nous permettre de débloquer notre pensée !).
 
 1. [J'ai bien analysé le sujet, mais comment je trouve des idées maintenant pour répondre à la question posée ?](Trouver des idées)
+
+## Hors sujet
+- hors sujet
+- éviter le hors sujet
+- faire du hors sujet
+- rester dans le sujet
+
+Pour éviter le hors-sujet dans une dissertation philosophique, il faut bien analyser le sujet lors du travail au brouillon et toujours vérifier le lien avec la question posée quand on rédige.
+
+1. [Comment bien analyser le sujet ?](Analyser le sujet)
+2. [Comment on rédige ?](Rédaction)
 
 ## Trouver des idées
 - trouver des idées
