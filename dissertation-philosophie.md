@@ -47,7 +47,7 @@ Pour analyser le sujet, il faut penser à analyser :
 - mais aussi les autres termes du sujet (attention chaque terme est important)
 
 Il y a plusieurs stratégies possibles d'analyse :
-- On peut d'abord simplement noter ce à quoi ça nous fait penser : on note des synonymes, des expressions, des situations et des idées associées à cette notion
+- On peut d'abord simplement noter ce à quoi ça nous fait penser : on note des synonymes, des expressions, des situations et des idées associées à cette notion. On part de ses représentations spontanées (ce qui nous vient immédiatement à l'esprit).
 - On pense aussi au contraire de la notion, aux opposés, à des distinctions, des différences
 - On essaie de trouver des exemples d'application de la notion (à quoi ça renvoie concrètement ?)
 - On essaie de trouver des connaissances utiles sur cette notion (qu'est-ce qu'on a vu dans le cours à ce propos ? Y a-t-il des philosophes, des courants philosophiques, du vocabulaire technique qu'on pourrait mobiliser ?)
