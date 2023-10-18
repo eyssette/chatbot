@@ -638,3 +638,19 @@ C'est vrai que faire une dissertation en philosophie est un exercice difficile.
 Au niveau du contenu, la philosophie peut paraître complexe, mais c'est précisément cette complexité qui la rend stimulante et enrichissante. Il ne faut pas hésiter à demander de l'aide, à poser des questions si certains points restentobscurs.
 La méthode quant à elle n'est pas très compliquée dans ses principes, il s'agit plutôt de s'entraîner régulièrement afin de bien comprendre comment la mettre en œuvre.
 Dans tous les cas, il ne faut surtout pas se décourager. Des progrès, parfois fulgurants, sont tout à fait possibles !
+
+## Merci
+- merci
+- remercier
+- remercie
+- félicitations
+- félicit
+- bravo
+- super
+- excellent
+- génial
+- wow
+- chouette
+- sympa
+
+Merci ! Si vous aimez ce travail, vous aimerez peut-être aussi les autres outils ou sites que je propose sur [mon site perso](https://eyssette.github.io).
