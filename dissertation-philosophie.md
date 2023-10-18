@@ -203,6 +203,7 @@ Pour faire son plan détaillé au brouillon :
 - par partie
 - par sous-partie
 - beaucoup
+- mettre combien
 
 Quel est le sens de votre question ?
 
@@ -214,6 +215,10 @@ Quel est le sens de votre question ?
 - combien d'argument
 - beaucoup d'argument
 - combien de sous-parties
+- combien on doit mettre d'arguments
+- combien il faut mettre d'arguments
+- combien il doit y avoir d'arguments
+- il faut en mettre combien des arguments
 
 Dans chaque partie, il doit y avoir au moins deux sous-parties qui correspondent le plus souvent à deux arguments, ou parfois à deux étapes dans un argument complexe.
 Au maximum, on met 4 arguments dans une partie (donc on a maximum 4 sous-parties)
@@ -225,6 +230,19 @@ Au maximum, on met 4 arguments dans une partie (donc on a maximum 4 sous-parties
 - beaucoup de références
 - beaucoup d'auteurs
 - beaucoup de thèses
+- combien on doit mettre de références
+- combien il faut mettre de références
+- combien il doit y avoir de références
+- il faut en mettre combien des références
+- combien on doit mettre d'auteurs
+- combien il faut mettre d'auteurs
+- combien il doit y avoir d'auteurs
+- il faut en mettre combien des auteurs
+- combien on doit mettre de thèses
+- combien il faut mettre de thèses
+- combien il doit y avoir de thèses
+- il faut en mettre combien des thèses
+- beaucoup de connaissances
 
 Dans chaque sous-partie, on s'efforce d'utiliser une (et une seule) référence philosophique. 
 Le but est de pouvoir approfondir son idée avec la pensée d'un⋅e philosophie, ou avec un courant philosophique, ou de manière plus générale avec des connaissances philosophiques (des définitions, des distinctions conceptuelles).
@@ -233,6 +251,10 @@ Au minimum, il faudrait avoir une référence par partie.
 ## Combien d'exemples
 - combien d'exemples
 - beaucoup d'exemples
+- combien on doit mettre d'exemples
+- combien il faut mettre d'exemples
+- combien il doit y avoir d'exemples
+- il faut en mettre combien des exemples
 
 Dans chaque sous-partie, on essaie de mobiliser un (et un seul) exemple concret précis. 
 Le but est de dégager le sens concret de son idée en montrant comme l'idée s'applique dans la réalité.
