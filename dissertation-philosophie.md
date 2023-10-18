@@ -89,8 +89,57 @@ Pour trouver des idées, il y a plusieurs pistes possibles de réflexion :
 - On laisse de côté les banalités. On garde seulement les arguments les plus pertinents et ceux qu’on peut développer avec des connaissances précises.
 - On cherche des objections, des critiques possibles et pour chaque critique, on cherche des réponses possibles, etc.
 
-1. [J'ai des idées, mais je ne parviens pas à cerner ma problématique](Problématiser le sujet)
-2. [J'ai cerné une problématique, mais comment puis-je organiser mes idées et faire un plan ?](Faire un plan)
+1. [Je n'ai pas bien compris comment argumenter](Argumenter)
+2. [Comment on peut trouver des objections ?](Objections)
+3. [J'ai des idées, mais je ne parviens pas à cerner ma problématique](Problématiser le sujet)
+4. [J'ai cerné une problématique, mais comment puis-je organiser mes idées et faire un plan ?](Faire un plan)
+
+## Argument
+- argument
+
+Quel est le sens de votre question ?
+
+1. [Je veux savoir comment on fait pour argumenter](Argumenter) 
+2. [J'aimerais comprendre combien il faut d'arguments par partie](Combien d'arguments)
+
+## Argumenter
+- comment argumenter
+- pour argumenter
+- qu'est-ce qu'un argument
+- c'est quoi un argumenter
+- c'est quoi argumenter
+- ce qu'est un argument
+- prémisse
+
+Un argument, c'est un ensemble de prémisses, c'est-à-dire d'idées qui forment le point de départ de l'argument, à partir desquelles on en tire, par un lien logique, une conclusion.
+
+Pour bien argumenter :
+- il faut que les prémisses soient acceptables : si le point de départ n'est pas bon, la conclusion ne peut pas être justifiée par les prémisses (ce qui ne signifie pas qu'elle est fausse : on pourrait la justifier par d'autres idées)
+- il doit y avoir un lien logique entre les prémisses et la conclusion : les prémisses doivent conduire logiquement à la conclusion, elles doivent suffire pour qu'on puisse en tirer la conclusion.
+
+Quand on construit son raisonnement, on doit donc : 
+- vérifier le point de départ de son argumentation : ce que je dis est-il acceptable ?
+- vérifier ce qui nous fait passer d'une idée à une autre : y a-t-il un lien logique ?
+
+1. [OK, mais comment on fait pour critiquer une idée ?](Objection)
+2. [J'aimerais revoir comment on fait pour trouver des idées](Trouver des idées)
+
+## Objection
+- objection
+- critiquer un argument
+- critiquer une idée
+
+Pour critiquer une idée, on peut soit critiquer directement l'idée en trouvant un argument contre cette idée, soit critiquer les arguments qui prétendent justifier cette idée.
+
+Pour critiquer un argument, il y a principalement deux stratégies
+- La stratégie "Ah bon … ?" : on montre qu'une des prémisses n'est pas acceptable, qu'elle est fausse ou au moins très discutable.
+- La stratégie "Et alors !" : on montre que même si les prémisses sont vraies, cela ne justifie pas pour autant la conclusion.
+
+On peut parfois faire appel à une troisième stratégie :
+- La stratégie "Euh... c'est quoi l'argument ?" : on montre qu'il y a une prémisse qui n'a pas de sens, qui est hors sujet, ou bien qui ne fait que répéter ou supposer la conclusion.
+
+1. [J'aimerais revoir comment on argumente][Argumenter]
+2. [J'aimerais revoir comment on fait pour trouver des idées](Trouver des idées)
 
 ## Problématiser le sujet
 - problématiser
@@ -253,6 +302,8 @@ Quel est le sens de votre question ?
 Dans chaque partie, il doit y avoir au moins deux sous-parties qui correspondent le plus souvent à deux arguments, ou parfois à deux étapes dans un argument complexe.
 Au maximum, on met 4 arguments dans une partie (donc on a maximum 4 sous-parties)
 
+1. [J'aimerais revoir comment on fait un plan](Faire un plan)
+
 ## Combien de références
 - combien de références
 - combien d'auteurs
@@ -278,6 +329,8 @@ Dans chaque sous-partie, on s'efforce d'utiliser une (et une seule) référence 
 Le but est de pouvoir approfondir son idée avec la pensée d'un⋅e philosophie, ou avec un courant philosophique, ou de manière plus générale avec des connaissances philosophiques (des définitions, des distinctions conceptuelles).
 Au minimum, il faudrait avoir une référence par partie.
 
+1. [J'aimerais revoir comment on fait un plan](Faire un plan)
+
 ## Combien d'exemples
 - combien d'exemples
 - beaucoup d'exemples
@@ -289,6 +342,8 @@ Au minimum, il faudrait avoir une référence par partie.
 Dans chaque sous-partie, on essaie de mobiliser un (et un seul) exemple concret précis. 
 Le but est de dégager le sens concret de son idée en montrant comme l'idée s'applique dans la réalité.
 Au minmum, il faudrait avoir un exemple précis par partie.
+
+1. [J'aimerais revoir comment on fait un plan](Faire un plan)
 
 ## Rédaction
 - rédaction
