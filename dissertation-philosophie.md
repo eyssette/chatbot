@@ -42,6 +42,7 @@ Il va falloir prendre le temps de bien analyser le sujet, afin de trouver des id
 - analyser le sujet
 - analyse du sujet
 - analyse
+- comment on analyse
 
 Pour analyser le sujet, il faut penser à analyser :
 - les 2 notions importantes du sujet
@@ -104,6 +105,7 @@ Quel est le sens de votre question ?
 
 ## Argumenter
 - comment argumenter
+- comment on argumente
 - pour argumenter
 - qu'est-ce qu'un argument
 - c'est quoi un argumenter
@@ -144,6 +146,7 @@ On peut parfois faire appel à une troisième stratégie :
 ## Problématiser le sujet
 - problématiser
 - problématique
+- comment on problématise
 
 Problématiser le sujet, c'est dégager ce qui fait problème dans la question posée. Il s'agit de montrer que ce n'est pas si simple de répondre à cette question.
 Le meilleur moyen est de dégager une tension entre une première réponse spontanée à cette question, qui semble justifiée, et une autre réponse, opposée, qui semble elle aussi justifiée.
@@ -624,3 +627,14 @@ Le plagiat est :
 3. Distinguez bien la phase de recherche et la phase d'écriture de votre devoir. Lors de la phase de recherche, vous pouvez consulter toutes les ressources que vous voulez, mais lors de la phase d'écriture, laissez toutes ces ressources de côté, vous aurez ainsi la garantie que vous rédigerez vraiment par vous-même.
 4. Si vous voulez reprendre un court extrait d'un document qui semble particulièrement pertinent pour votre réflexion, il faut citer ce document en bonne et due forme.
 5. Prenez confiance en vous : vous êtes capables de réussir ! C'est en vous confrontant par vous-mêmes aux exigences du travail demandé que vous arriverez à faire des progrès.
+
+## Difficile
+- difficile
+- trop difficile
+- compliqué
+- complexe
+
+C'est vrai que faire une dissertation en philosophie est un exercice difficile.
+Au niveau du contenu, la philosophie peut paraître complexe, mais c'est précisément cette complexité qui la rend stimulante et enrichissante. Il ne faut pas hésiter à demander de l'aide, à poser des questions si certains points restentobscurs.
+La méthode quant à elle n'est pas très compliquée dans ses principes, il s'agit plutôt de s'entraîner régulièrement afin de bien comprendre comment la mettre en œuvre.
+Dans tous les cas, il ne faut surtout pas se décourager. Des progrès, parfois fulgurants, sont tout à fait possibles !
