@@ -138,7 +138,7 @@ Pour critiquer un argument, il y a principalement deux stratégies
 On peut parfois faire appel à une troisième stratégie :
 - La stratégie "Euh... c'est quoi l'argument ?" : on montre qu'il y a une prémisse qui n'a pas de sens, qui est hors sujet, ou bien qui ne fait que répéter ou supposer la conclusion.
 
-1. [J'aimerais revoir comment on argumente][Argumenter]
+1. [J'aimerais revoir comment on argumente](Argumenter)
 2. [J'aimerais revoir comment on fait pour trouver des idées](Trouver des idées)
 
 ## Problématiser le sujet
@@ -341,7 +341,7 @@ Au minimum, il faudrait avoir une référence par partie.
 
 Dans chaque sous-partie, on essaie de mobiliser un (et un seul) exemple concret précis. 
 Le but est de dégager le sens concret de son idée en montrant comme l'idée s'applique dans la réalité.
-Au minmum, il faudrait avoir un exemple précis par partie.
+Au minimum, il faudrait avoir un exemple précis par partie.
 
 1. [J'aimerais revoir comment on fait un plan](Faire un plan)
 
