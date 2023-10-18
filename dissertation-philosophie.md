@@ -34,8 +34,9 @@ Il va falloir prendre le temps de bien analyser le sujet, afin de trouver des id
 
 1. [Comment on fait pour analyser le sujet ?](Analyser le sujet)
 2. [Comment on trouve des idées ?](Trouver des idées)
-3. [Comment on fait un plan ?](Faire un plan)
-4. [Combien de temps il faut prendre pour le travail au brouillon ?](Temps)
+3. [Comment on problématise le sujet ?](Problématiser le sujet)
+4. [Comment on fait un plan ?](Faire un plan)
+5. [Combien de temps il faut prendre pour le travail au brouillon ?](Temps)
 
 ## Analyser le sujet
 - analyser le sujet
@@ -88,7 +89,36 @@ Pour trouver des idées, il y a plusieurs pistes possibles de réflexion :
 - On laisse de côté les banalités. On garde seulement les arguments les plus pertinents et ceux qu’on peut développer avec des connaissances précises.
 - On cherche des objections, des critiques possibles et pour chaque critique, on cherche des réponses possibles, etc.
 
-1. [J'ai plein d'idées, mais je dois maintenant les organiser. Comment faire un plan ?](Faire un plan)
+1. [J'ai des idées, mais je ne parviens pas à cerner ma problématique](Problématiser le sujet)
+2. [J'ai cerné une problématique, mais comment puis-je organiser mes idées et faire un plan ?](Faire un plan)
+
+## Problématiser le sujet
+- problématiser
+- problématique
+
+Problématiser le sujet, c'est dégager ce qui fait problème dans la question posée. Il s'agit de montrer que ce n'est pas si simple de répondre à cette question.
+Le meilleur moyen est de dégager une tension entre une première réponse spontanée à cette question, qui semble justifiée, et une autre réponse, opposée, qui semble elle aussi justifiée.
+L'idée est de saisir le débat essentiel autour de la question posée et de repérer les grands enjeux de la question, c'est-à-dire les points importants qui mettent en jeu des grands aspects de notre existence.
+C'est autour de ce débat fondamental que vous allez pouvoir construire votre plan.
+
+1. [Comment repérer les enjeux d'une question ?](Enjeux)
+2. [Comment faire un plan ?](Faire un plan)
+
+## Enjeux
+- enjeux
+- repérer les enjeux
+
+Pour repérer les enjeux d'une question, on peut s'aider de l'acronyme VELIBs, car les enjeux sont souvent liés à l'une de ces grandes notions : 
+- la vérité
+- l'éthique
+- la liberté
+- l'identité personnelle
+- le bonheur
+- la société
+
+On peut aussi s'aider de la distinction entre les enjeux théoriques, liées à la connaissance, et les enjeux pratiques, liés à l'action.
+
+On peut enfin s'aider de la distinction entre les enjeux relatifs à notre rapport au monde, à notre rapport aux autres, ou au rapport à soi.
 
 ## Faire un plan
 - plan
