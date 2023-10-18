@@ -511,3 +511,31 @@ On peut proposer l'échelle de notes suivante pour donner une idée de ce qu'on 
 - Entre 7 et 10 : devoir généralement court, un peu de méthode, un peu de contenu mais du hors sujet ou des banalités ou pas de développement pertinent.
 - Entre 11 et 14 : devoir construit, de la méthode, une réflexion sur certains enjeux du sujet, des éléments de contenu et de connaissance.
 - Entre 15 et 20 : devoir très bien construit, méthode maîtrisée, une réflexion développée sur le sujet, des éléments précis de connaissance bien mobilisés.
+
+## Plagiat
+- qu'est-ce que le plagiat ?
+- plagiat
+- éviter le plagiat
+
+
+### La tentation du plagiat
+
+Les ressources que l'on consulte doivent aider à approfondir sa pensée, mais ne peuvent se substituer à son propre questionnement et à son propre travail. Il ne faut pas tomber dans le plagiat : il faut être auteur de son devoir (attention recopier en changeant quelques mots, c'est aussi une forme de plagiat). 
+
+Le copier-coller est devenu une habitude sur internet, et le plagiat peut être tentant lorsqu'on fait son devoir au dernier moment, ou bien quand on a l'impression qu'on n'arrivera pas à faire soi-même le travail demandé. 
+
+### Pourquoi faut-il éviter le plagiat ?
+
+Le plagiat est :
+- une infraction au règlement intérieur (susceptible de sanctions) ;
+- une tricherie inutile, puisque les professeurs détectent facilement les cas de plagiat ;
+- un manque d'honnêteté intellectuelle (on vole les idées d'autrui qu'on fait passer pour siennes) ;
+- et surtout : un acte contraire à l'esprit même de la philosophie, qui suppose de penser par soi-même !
+
+### Comment éviter le plagiat ?
+
+1. Organisez-vous afin de ne pas faire vos devoirs au dernier moment.
+2. N'hésitez pas à poser vos questions au professeur, à travailler en groupe (n'attendez pas le dernier moment là aussi pour solliciter de l'aide).
+3. Distinguez bien la phase de recherche et la phase d'écriture de votre devoir. Lors de la phase de recherche, vous pouvez consulter toutes les ressources que vous voulez, mais lors de la phase d'écriture, laissez toutes ces ressources de côté, vous aurez ainsi la garantie que vous rédigerez vraiment par vous-même.
+4. Si vous voulez reprendre un court extrait d'un document qui semble particulièrement pertinent pour votre réflexion, il faut citer ce document en bonne et due forme.
+5. Prenez confiance en vous : vous êtes capables de réussir ! C'est en vous confrontant par vous-mêmes aux exigences du travail demandé que vous arriverez à faire des progrès.
