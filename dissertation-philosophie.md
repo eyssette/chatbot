@@ -692,6 +692,27 @@ Pour vous entraîner sur la méthode de la dissertation en philosophie, vous pou
 - voir les [archives des sujets du baccalauréat](https://eyssette.forge.aeif.fr/sujets-philosophie-bac/)
 - consulter une [base de données de sujets de dissertation](https://eyssette.forge.aeif.fr/sujets-philosophie/)
 
+## Faire des progrès
+- faire des progrès
+- s'améliorer
+- m'améliorer
+- devenir meilleur
+- plus performant
+- meilleure note
+- meilleures notes
+- faire mieux
+
+Pour faire des progrès en philosophie, il faut :
+- bien comprendre la méthode, c'est-à-dire le travail à faire au brouillon et lors de la rédaction
+- arriver à saisir ce qui fait que parfois on bloque
+- s'entraîner sur des exemples de sujets de dissertation
+
+1. [Je veux revoir le travail qu'il faut faire au brouillon](Brouillon)
+2. [Je veux revoir comment on rédige une dissertation](Rédiger)
+3. [Je bloque : que puis-je faire ?](Je bloque)
+4. [Je veux m'entraîner sur un exemple de sujet de dissertation](S'entraîner)
+
+
 ## Je bloque
 - bloquer
 - bloque
