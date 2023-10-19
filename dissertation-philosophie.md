@@ -306,6 +306,20 @@ Pour faire son plan détaillé au brouillon :
 1. [J'aimerais revoir comment on fait un plan de manière générale](Faire un plan)
 2. [Je veux voir maintenant comment on rédige](Rédiger)
 
+## Thèse antithèse synthèse
+- thèse antithèse syntèse
+- antithèse
+- synthèse
+- plan dialectique
+
+Le plan "thèse antithèse synthèse", parfois appelé "plan dialectique", est plutôt mal nommé, car il donne l'impression qu'on va simplement dire oui, puis non, et ensuite … on ne voit pas trop ou alors une sorte de réponse très vague (un peu oui, un peu non).
+Ce n'est pas ce qu'il faut faire !
+Même si dans la plupart des plans, on va en passer par une critique des arguments précédents, ce qui fait que cela ressemble à une "antithèse", il vaut mieux penser son plan comme une progression logique d'une partie à une autre et construire à partir de là son plan.
+
+1. [Une progression logique : qu'est-ce que cela veut dire ?](Types de progression)
+2. [Comment on construit un plan à partir de là ?](Construction du plan)
+3. [N'y a-t-il pas malgré tout des types de plan classiques ?](Plans classiques)
+
 ## Combien par partie ou par sous-partie
 - combien
 - par partie
