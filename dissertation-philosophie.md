@@ -210,6 +210,10 @@ On peut enfin s'aider de la distinction entre les enjeux relatifs à notre rappo
 - parties
 - faire son plan
 - construire son plan
+- articuler son plan
+- construire mon plan
+- organiser mes idées
+- articulations de mon plan
 
 On fait 2 ou 3 parties. On essaie de faire 3 parties, mais si le plan est en 2 parties, il faudra davantage développer chaque partie.
 
@@ -502,9 +506,21 @@ Voici un exemple de sous-partie rédigée sur le sujet « Le bonheur n'est-il qu
 
 _[On fait un paragraphe (250-500 mots) qui suit idéalement le modèle ARES, plus une transition, le cas échéant, vers la sous-partie suivante]_  **(A : argument fondé sur une analyse)** **[on construit un raisonnement avec des étapes claires et logiques, sans aller trop vite ; on fait un alinéa en début de paragraphe]** Le bonheur semble être un idéal impossible, en raison tout d'abord de la nature même du bonheur. L'objectif que nous poursuivons lorsque nous sommes en quête du bonheur n'est pas clairement défini. Nous voulons tous être heureux, mais nous ne savons pas vraiment ce que nous recherchons, car le bonheur n'est pas un simple moment de plaisir facile à identifier, mais un état global de satisfaction. **(R : référence théorique)** _[on utilise une référence (une seule) pour approfondir : une référence, c'est soit un·e philosophe, soit un courant philosophique, soit un travail sur du vocabulaire philosophique]_ C'est justement ce que montre Kant lorsqu'il affirme que « le bonheur est un idéal, non de la raison, mais de l'imagination » _[une référence n'est pas nécessairement une citation : c'est l'idée qui compte ; si on fait une citation, elle doit être courte et on doit l'expliquer]_. Si le bonheur relève de l'imagination et non de la raison, [on explique en détail la référence, on utilise du vocabulaire philosophique précis, des distinctions] cela signifie que nous ne pouvons pas former une conception précise, claire et cohérente du bonheur : nous avons seulement une image vague, confuse et potentiellement contradictoire de la vie heureuse. On ne sait pas trop ce qu'on veut. Rechercher le bonheur, ce n'est pas, en effet, rechercher un objet précisément délimité. Nous nous projetons dans le futur avec l'espoir d'avoir compris ce qui fait notre bonheur, mais il n'y a pas de méthode infaillible en ce domaine et nous pouvons toujours faire l'expérience d'une déception profonde. **(E : exemple concret)** _[on donne un exemple (un seul), en restant concret sans trop de détails qui seraient inutiles]_ Prenons par exemple le film <u>Les Noces rebelles</u> _[on souligne les titres]_. Dans ce film, un jeune couple américain a réussi à obtenir tout ce qu'ils souhaitaient : une situation économique confortable, une maison agréable, des enfants, et pourtant ils ne sont pas heureux _[on commence par décrire rapidement l'exemple, puis on l'analyse]_. La déception qu'ils ressentent n'est pas un sentiment d'échec de ne pas avoir trouvé les moyens de parvenir à leur objectif. C'est une désillusion sur la finalité elle-même qu'ils poursuivaient : ils se rendent compte qu'ils se sont trompés dans l'idée qu'ils se faisaient du bonheur. **(S : synthèse)** _[on répond clairement à la question posée en reprenant les termes qui sont dans le sujet, et en leur donnant un sens précis]_ Le bonheur n'est ainsi qu'un idéal, c'est-à-dire le produit de l'imagination façonné par une certaine image du bonheur toujours potentiellement trompeuse.
 
-1. [J'aimerais aussi voir un exemple de rédaction d'une fin de partie](Rédiger partie fin exemple)
-2. [Je voudrais revoir la manière dont on rédige le développement](Rédiger développement)
-3. [Comment faut-il rédiger la conclusion ?](Rédiger conclusion)
+1. [Comment on fait pour les transitions d'une idée à une autre](Rédiger une transition)
+2. [J'aimerais aussi voir un exemple de rédaction d'une fin de partie](Rédiger partie fin exemple)
+3. [Je voudrais revoir la manière dont on rédige le développement](Rédiger développement)
+4. [Comment faut-il rédiger la conclusion ?](Rédiger conclusion)
+
+## Rédiger une transition
+- rédiger une transition
+- transition
+- articulations
+
+C'est important de faire des transitions entre ses idées afin de bien montrer qu'on est en train de suivre une progression logique et qu'il n'y a pas seulement une succession chronologique d'idées sans organisation (ça et puis ça, et puis ça …)
+
+Pour rédiger une transition, on peut : 
+- s'aider d'une distinction conceptuelle qui va permettre d'articuler ses deux idées (par exemple passer du niveau individuel au niveau social, ou du plan théorique de la connaissance au plan pratique de l'action)
+- formuler sous forme de question ce qui reste insuffisant dans son idée, ce qui nécessite un questionnement plus approfondi, qui correspondra justement à la suite de notre réflexion
 
 ## Rédiger partie fin exemple
 - exemple de fin de partie rédigée
