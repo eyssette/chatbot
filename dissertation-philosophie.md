@@ -21,6 +21,12 @@ detectBadWords: true
 - ça dure
 - durée
 - organise son temps
+- organiser mon temps
+- j'organise mon temps
+- je m'organise
+- comment s'organiser
+- pour s'organiser
+- s'organiser
 
 Le jour du baccalauréat, l'épreuve dure 4h. 
 Il faut idéalement compter environ 1h30 (2h maximum) pour le travail au brouillon et le reste du temps pour la rédaction.
