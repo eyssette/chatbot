@@ -1,3 +1,8 @@
+---
+searchInContent: true
+detectBadWords: true
+---
+
 # La dissertation en philosophie
  
 > Je suis un chatbot programmé pour vous aider à comprendre la méthode de la dissertation en philosophie (niveau terminale).
