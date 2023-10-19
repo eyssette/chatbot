@@ -667,11 +667,16 @@ Le plagiat est :
 - trop difficile
 - compliqué
 - complexe
+- trop dur
+- pas facile
 
 C'est vrai que faire une dissertation en philosophie est un exercice difficile.
 Au niveau du contenu, la philosophie peut paraître complexe, mais c'est précisément cette complexité qui la rend stimulante et enrichissante. Il ne faut pas hésiter à demander de l'aide, à poser des questions si certains points restentobscurs.
 La méthode quant à elle n'est pas très compliquée dans ses principes, il s'agit plutôt de s'entraîner régulièrement afin de bien comprendre comment la mettre en œuvre.
 Dans tous les cas, il ne faut surtout pas se décourager. Des progrès, parfois fulgurants, sont tout à fait possibles !
+
+1. [OK, mais je bloque !](Je bloque)
+2. [Je veux m'entraîner sur des exemples de sujet de dissertation](S'entraîner)
 
 ## S'entraîner
 - s'entraîner
@@ -687,7 +692,7 @@ Pour vous entraîner sur la méthode de la dissertation en philosophie, vous pou
 - voir les [archives des sujets du baccalauréat](https://eyssette.forge.aeif.fr/sujets-philosophie-bac/)
 - consulter une [base de données de sujets de dissertation](https://eyssette.forge.aeif.fr/sujets-philosophie/)
 
-## Bloquer
+## Je bloque
 - bloquer
 - bloque
 - pas quoi faire
