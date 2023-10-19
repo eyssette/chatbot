@@ -515,6 +515,7 @@ _[On fait un paragraphe (250-500 mots) qui suit idéalement le modèle ARES, plu
 - rédiger une transition
 - transition
 - articulations
+- articuler
 
 C'est important de faire des transitions entre ses idées afin de bien montrer qu'on est en train de suivre une progression logique et qu'il n'y a pas seulement une succession chronologique d'idées sans organisation (ça et puis ça, et puis ça …)
 
