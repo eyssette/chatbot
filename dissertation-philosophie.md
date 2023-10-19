@@ -639,6 +639,20 @@ Au niveau du contenu, la philosophie peut paraître complexe, mais c'est précis
 La méthode quant à elle n'est pas très compliquée dans ses principes, il s'agit plutôt de s'entraîner régulièrement afin de bien comprendre comment la mettre en œuvre.
 Dans tous les cas, il ne faut surtout pas se décourager. Des progrès, parfois fulgurants, sont tout à fait possibles !
 
+## S'entraîner
+- s'entraîner
+- entraîner
+- des sujets
+- exemple de sujet
+- exemples de sujet
+- sujets du bac
+- sujets du baccalauréat
+
+Pour vous entraîner sur la méthode de la dissertation en philosophie, vous pouvez :
+- voir les [archives des sujets du baccalauréat](https://eyssette.forge.aeif.fr/sujets-philosophie-bac/)
+- consulter une [base de données de sujets de dissertation](https://eyssette.forge.aeif.fr/sujets-philosophie/)
+
+
 ## Merci
 - merci
 - remercier
