@@ -50,6 +50,7 @@ Il va falloir prendre le temps de bien analyser le sujet, afin de trouver des id
 - comment on analyse
 - termes du sujet
 - comment analyser le sujet
+- comment je dois analyser
 
 Il est important de bien analyser le sujet.
 
@@ -98,6 +99,8 @@ Pour éviter le hors-sujet dans une dissertation philosophique, il faut bien ana
 - pas inspiré
 - pas d'inspiration
 - inspiration
+- je trouve pas d'idées
+- je ne trouve pas d'idées
 
 Pour trouver des idées, il y a plusieurs pistes possibles de réflexion :
 
@@ -132,6 +135,7 @@ Quel est le sens de votre question ?
 - c'est quoi argumenter
 - ce qu'est un argument
 - prémisse
+- comment j'argumente
 
 Un argument, c'est un ensemble de prémisses, c'est-à-dire d'idées qui forment le point de départ de l'argument, à partir desquelles on en tire, par un lien logique, une conclusion.
 
@@ -167,6 +171,8 @@ On peut parfois faire appel à une troisième stratégie :
 - problématiser
 - problématique
 - comment on problématise
+- comment je problématise
+- comment je peux problématiser
 
 Problématiser le sujet, c'est dégager ce qui fait problème dans la question posée. Il s'agit de montrer que ce n'est pas si simple de répondre à cette question.
 Le meilleur moyen est de dégager une tension entre une première réponse spontanée à cette question, qui semble justifiée, et une autre réponse, opposée, qui semble elle aussi justifiée.
@@ -321,6 +327,7 @@ Quel est le sens de votre question ?
 - combien il faut mettre d'arguments
 - combien il doit y avoir d'arguments
 - il faut en mettre combien des arguments
+- combien je dois mettre d'arguments
 
 Dans chaque partie, il doit y avoir au moins deux sous-parties qui correspondent le plus souvent à deux arguments, ou parfois à deux étapes dans un argument complexe.
 Au maximum, on met 4 arguments dans une partie (donc on a maximum 4 sous-parties)
@@ -335,14 +342,17 @@ Au maximum, on met 4 arguments dans une partie (donc on a maximum 4 sous-parties
 - beaucoup d'auteurs
 - beaucoup de thèses
 - combien on doit mettre de références
+- combien je dois mettre de références
 - combien il faut mettre de références
 - combien il doit y avoir de références
 - il faut en mettre combien des références
 - combien on doit mettre d'auteurs
+- combien je dois mettre d'auteurs
 - combien il faut mettre d'auteurs
 - combien il doit y avoir d'auteurs
 - il faut en mettre combien des auteurs
 - combien on doit mettre de thèses
+- combien je dois mettre de thèses
 - combien il faut mettre de thèses
 - combien il doit y avoir de thèses
 - il faut en mettre combien des thèses
@@ -358,6 +368,7 @@ Au minimum, il faudrait avoir une référence par partie.
 - combien d'exemples
 - beaucoup d'exemples
 - combien on doit mettre d'exemples
+- combien je dois mettre d'exemples
 - combien il faut mettre d'exemples
 - combien il doit y avoir d'exemples
 - il faut en mettre combien des exemples
@@ -575,7 +586,7 @@ Au niveau du style :
 1. [Je veux revoir comment on rédige chaque moment de la dissertation](Rédiger)
 2. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluer)
 
-## Utiliser le je
+## Dire je
 - utiliser le je
 - dire je
 - le je
@@ -594,6 +605,7 @@ Il faut éviter d’utiliser le “je”, car le risque c’est d’en rester à
 - noter
 - noté
 - critères d'évaluation
+- notes
 
 Une copie en philosophie est évaluée sur deux types de critères.
 
@@ -663,6 +675,7 @@ Dans tous les cas, il ne faut surtout pas se décourager. Des progrès, parfois 
 
 ## S'entraîner
 - s'entraîner
+- m'entraîner
 - entraîner
 - des sujets
 - exemple de sujet
@@ -676,6 +689,7 @@ Pour vous entraîner sur la méthode de la dissertation en philosophie, vous pou
 
 ## Bloquer
 - bloquer
+- bloque
 - pas quoi faire
 - perdu
 - je n'y arrive pas
@@ -691,6 +705,7 @@ Qu'est-ce qui bloque ?
 
 ## Développer ses idées
 - développer ses idées
+- développer mes idées
 
 Pour développer ses idées, il faut penser à :
 - bien dégager progressivement les étapes de son raisonnement au lieu d'aller trop vite dune idée à une autre
@@ -705,6 +720,8 @@ Pour développer ses idées, il faut penser à :
 ## Utiliser ses connaissances
 - comment utiliser ses connaissances
 - comment utiliser son cours
+- comment utiliser mon cours
+- comment utiliser mes connaissances
 
 Il est important d'utiliser ses connaissances, d'utiliser son cours.
 Le cours est là principalement pour vous aider à :
