@@ -604,6 +604,8 @@ On peut proposer l'échelle de notes suivante pour donner une idée de ce qu'on 
 - qu'est-ce que le plagiat ?
 - plagiat
 - éviter le plagiat
+- triche
+- tricherie
 
 
 ### La tentation du plagiat
