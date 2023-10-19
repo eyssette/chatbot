@@ -12,7 +12,7 @@ detectBadWords: true
 > 
 > 1. [Comment on organise son temps ?](Temps)
 > 2. [Que doit-on faire comme travail au brouillon ?](Brouillon)
-> 3. [Comment faut-il faire pour rédiger la dissertation ?](Rédaction)
+> 3. [Comment faut-il faire pour rédiger la dissertation ?](Rédiger)
 > 4. [Comment ma copie va-t-elle être évaluée ?](Évaluation)
 
 ## Temps
@@ -26,7 +26,7 @@ Le jour du baccalauréat, l'épreuve dure 4h.
 Il faut idéalement compter environ 1h30 (2h maximum) pour le travail au brouillon et le reste du temps pour la rédaction.
 
 1. [Comment on fait un brouillon ?](Brouillon)
-2. [Comment on rédige ?](Rédaction)
+2. [Comment on rédige ?](Rédiger)
 
 
 ## Brouillon
@@ -48,6 +48,10 @@ Il va falloir prendre le temps de bien analyser le sujet, afin de trouver des id
 - analyse du sujet
 - analyse
 - comment on analyse
+- termes du sujet
+- comment analyser le sujet
+
+Il est important de bien analyser le sujet.
 
 Pour analyser le sujet, il faut penser à analyser :
 - les 2 notions importantes du sujet
@@ -64,6 +68,17 @@ Dans tous les cas, il faut travailler au brouillon à l'écrit, avec son stylo, 
 
 1. [J'ai bien analysé le sujet, mais comment je trouve des idées maintenant pour répondre à la question posée ?](Trouver des idées)
 
+## Stratégies d'analyse
+- n'arrive pas à analyser une idée
+- comment analyser une idée
+
+Il y a plusieurs stratégies possibles d'analyse :
+- On peut d'abord simplement noter ce à quoi ça nous fait penser : on note des synonymes, des expressions, des situations et des idées associées à cette notion. On part de ses représentations spontanées (ce qui nous vient immédiatement à l'esprit).
+- On pense aussi au contraire de la notion, aux opposés, à des distinctions, des différences
+- On essaie de trouver des exemples d'application de la notion (à quoi ça renvoie concrètement ?)
+- On essaie de trouver des connaissances utiles sur cette notion (qu'est-ce qu'on a vu dans le cours à ce propos ? Y a-t-il des philosophes, des courants philosophiques, du vocabulaire technique qu'on pourrait mobiliser ?)
+- On essaie de définir la notion en dégageant ses caractéristiques fondamentales et spécifiques (qui la distinguent d'autres notions)
+
 ## Hors sujet
 - hors sujet
 - éviter le hors sujet
@@ -73,7 +88,7 @@ Dans tous les cas, il faut travailler au brouillon à l'écrit, avec son stylo, 
 Pour éviter le hors-sujet dans une dissertation philosophique, il faut bien analyser le sujet lors du travail au brouillon et toujours vérifier le lien avec la question posée quand on rédige.
 
 1. [Comment bien analyser le sujet ?](Analyser le sujet)
-2. [Comment on rédige ?](Rédaction)
+2. [Comment on rédige ?](Rédiger)
 
 ## Trouver des idées
 - trouver des idées
@@ -248,7 +263,7 @@ Il y a bien sûr d'autres types de plan possibles. L'important c'est d'avoir une
 1. [Je veux bien revoir de manière générale comment on fait un plan](Faire un plan)
 2. [Je veux revoir les types de plan classiques](Plans classiques)
 3. [Je veux plutôt comprendre comment on construit son plan détaillé, avec les sous-parties ?](Plan détaillé)
-4. [Je veux passer à la rédaction maintenant. Comment faire ?](Rédaction)
+4. [Je veux passer à la rédaction maintenant. Comment faire ?](Rédiger)
 
 ## Plans classiques
 - types de plan
@@ -271,7 +286,7 @@ Ce type de plan est le plus souvent la brique de base à partir de laquelle on p
 Il y a bien sûr d'autres types de plan possibles. L'important c'est d'avoir une progression logique d'une partie à une autre.
 
 1. [OK, mais comment on construit son plan détaillé, avec les sous-parties ?](Plan détaillé)
-2. [Je veux passer à la rédaction maintenant. Comment faire ?](Rédaction)
+2. [Je veux passer à la rédaction maintenant. Comment faire ?](Rédiger)
 
 ## Plan détaillé
 - plan détaillé
@@ -283,7 +298,7 @@ Pour faire son plan détaillé au brouillon :
 - Pour chaque argument, on note de manière synthétique : les éléments d'analyse, la référence théorique, l'exemple concret qu'on va utiliser afin de bien vérifier que ce qu'on va dire va être pertinent, et afin d'avoir une feuille de route claire lors de la rédaction (on sait de quoi on va parler et ce qu'on va utiliser comme connaissances).
 
 1. [J'aimerais revoir comment on fait un plan de manière générale](Faire un plan)
-2. [Je veux voir maintenant comment on rédige](Rédaction)
+2. [Je veux voir maintenant comment on rédige](Rédiger)
 
 ## Combien par partie ou par sous-partie
 - combien
@@ -353,19 +368,19 @@ Au minimum, il faudrait avoir un exemple précis par partie.
 
 1. [J'aimerais revoir comment on fait un plan](Faire un plan)
 
-## Rédaction
+## Rédiger
 - rédaction
 - rédiger
 - rédige
 
 Que voulez-vous savoir plus précisément ?
 
-1. [Comment on rédige l'introduction ?](Rédaction introduction)
-2. [Comment on rédige le développement ?](Rédaction développement)
-3. [Comment on rédige la conclusion ?](Rédaction conclusion)
-4. [Quels sont en général les conseils utiles à suivre pour bien rédiger ?](Rédaction conseils généraux)
+1. [Comment on rédige l'introduction ?](Rédiger introduction)
+2. [Comment on rédige le développement ?](Rédiger développement)
+3. [Comment on rédige la conclusion ?](Rédiger conclusion)
+4. [Quels sont en général les conseils utiles à suivre pour bien rédiger ?](Rédiger conseils généraux)
 
-## Rédaction introduction
+## Rédiger introduction
 - rédige l'introduction
 - rédaction de l'introduction
 - introduction
@@ -387,12 +402,12 @@ Quelques précisions :
 - Il doit y avoir un véritable problème de dégagé : R1 et R2 doivent véritablement être opposées et pas simplement complémentaires, et on doit cibler les enjeux les plus importants, pas des questions secondaires et périphériques.
 - Attention, on peut vite tomber dans le hors sujet dès l'introduction : on ne doit pas dévier vers un autre sujet. On vérifie qu'on reste bien dans la question qui est posée, qu'on ne l'a pas trop restreinte ou trop élargie dans sa signification.
 
-1. [J'aimerais voir un exemple d'introduction rédigée](Rédaction introduction exemple)
-2. [OK, mais comment on rédige le développement ?](Rédaction développement)
-3. [Comment on rédige la conclusion ?](Rédaction conclusion)
-4. [Quels sont en général les conseils utiles à suivre pour bien rédiger ?](Rédaction conseils généraux)
+1. [J'aimerais voir un exemple d'introduction rédigée](Rédiger introduction exemple)
+2. [OK, mais comment on rédige le développement ?](Rédiger développement)
+3. [Comment on rédige la conclusion ?](Rédiger conclusion)
+4. [Quels sont en général les conseils utiles à suivre pour bien rédiger ?](Rédiger conseils généraux)
 
-## Rédaction introduction exemple
+## Rédiger introduction exemple
 - exemple d'introduction rédigée
 - exemple d'introduction
 
@@ -403,10 +418,10 @@ Voici un exemple d'introduction rédigée sur le sujet « Le bonheur n'est-il qu
 **[PROBLÈME]** _[On pose le problème sous la forme d'un débat entre deux réponses : « R1 ? Ou bien R2 ? ». R2 doit être opposée à R1. On ne répète pas le sujet : on utilise des éléments d'analyse]_ Le problème se pose donc ainsi : _(R1)_ l'objectif de parvenir à un état de satisfaction global et durable est-il une simple visée, inaccessible, de notre imagination ? Le désir d'être heureux est-il irréalisable et voué à l'échec ? Ou bien _(R2)_ est-il possible de concevoir une méthode qui nous permettrait de faire du bonheur une réalité ? Y a-t-il un art d'être heureux ?
 **[PLAN]** _[On annonce son plan : on formule clairement l'idée directrice de chaque partie et le type de progression d'une partie à une autre]_ Dans un premier temps, nous montrerons que le bonheur semble être une quête impossible. Cette thèse est cependant contestable et nous verrons en deuxième partie qu'un art d'être heureux est possible à condition de changer notre attitude face à l'existence. Cependant, le bonheur se trouve-t-il dans une simple attitude intérieure ? Nous défendrons l'idée que le bonheur est possible mais que la réflexion sur soi ne suffit pas pour parvenir au bonheur.
 
-1. [J'aimerais revoir les principes à suivre pour la rédaction d'une introduction](Rédaction introduction)
-2. [J'ai compris comment rédiger une introduction, je veux voir comment on rédige le développement](Rédaction développement)
+1. [J'aimerais revoir les principes à suivre pour la rédaction d'une introduction](Rédiger introduction)
+2. [J'ai compris comment rédiger une introduction, je veux voir comment on rédige le développement](Rédiger développement)
 
-## Rédaction développement
+## Rédiger développement
 - rédige le développement
 - rédaction du développement
 - développement
@@ -422,13 +437,13 @@ En fin de sous-partie (sauf pour la dernière), on fait une transition avec l'id
 
 En fin de partie (sauf dans la dernière partie), on rappelle les arguments examinés et on rédige une transition vers la partie suivante, sous la forme d'une question qui montre que ce n'est pas si simple et qu'il faut poursuivre la réflexion.
 
-1. [Comment peut-on rédiger une sous-partie ? J'ai entendu parler du modèle ARES : qu'est-ce que c'est ?](Rédaction sous-partie)
-2. [J'aimerais voir un exemple de rédaction d'une fin de partie](Rédaction partie fin exemple)
-3. [J'ai compris pour le développement, mais comment on rédige la conclusion ?](Rédaction conclusion)
-4. [Je veux revoir comment on rédige l'introduction](Rédaction introduction)
-5. [Quels sont en général les conseils utiles à suivre pour bien rédiger ?](Rédaction conseils généraux)
+1. [Comment peut-on rédiger une sous-partie ? J'ai entendu parler du modèle ARES : qu'est-ce que c'est ?](Rédiger sous-partie)
+2. [J'aimerais voir un exemple de rédaction d'une fin de partie](Rédiger partie fin exemple)
+3. [J'ai compris pour le développement, mais comment on rédige la conclusion ?](Rédiger conclusion)
+4. [Je veux revoir comment on rédige l'introduction](Rédiger introduction)
+5. [Quels sont en général les conseils utiles à suivre pour bien rédiger ?](Rédiger conseils généraux)
 
-## Rédaction sous-partie
+## Rédiger sous-partie
 - ARES
 - rédige une sous-partie
 - rédaction d'une sous-partie
@@ -443,10 +458,10 @@ On organise chaque sous-partie en utilisant de préférence le modèle ARES :
 - E : et/ou un exemple (mais pas plus) ; ne pas en rester à une simple évocation vague, mais ne pas se perdre dans des détails inutiles ; 
 - S : reprendre les termes du sujet, leur donner un sens précis et formuler clairement une réponse au sujet.
 
-1. [J'aimerais voir un exemple de rédaction d'une sous-partie avec le modèle ARES](Rédaction sous-partie exemple)
-2. [En fin de partie, comment on rédige le bilan et la transition, j'aimerais voir un exemple](Rédaction partie fin exemple)
+1. [J'aimerais voir un exemple de rédaction d'une sous-partie avec le modèle ARES](Rédiger sous-partie exemple)
+2. [En fin de partie, comment on rédige le bilan et la transition, j'aimerais voir un exemple](Rédiger partie fin exemple)
 
-## Rédaction sous-partie exemple
+## Rédiger sous-partie exemple
 - exemple de sous-partie rédigée
 - exemple de sous-partie
 - exemple pour le modèle ARES
@@ -456,11 +471,11 @@ Voici un exemple de sous-partie rédigée sur le sujet « Le bonheur n'est-il qu
 
 _[On fait un paragraphe (250-500 mots) qui suit idéalement le modèle ARES, plus une transition, le cas échéant, vers la sous-partie suivante]_  **(A : argument fondé sur une analyse)** **[on construit un raisonnement avec des étapes claires et logiques, sans aller trop vite ; on fait un alinéa en début de paragraphe]** Le bonheur semble être un idéal impossible, en raison tout d'abord de la nature même du bonheur. L'objectif que nous poursuivons lorsque nous sommes en quête du bonheur n'est pas clairement défini. Nous voulons tous être heureux, mais nous ne savons pas vraiment ce que nous recherchons, car le bonheur n'est pas un simple moment de plaisir facile à identifier, mais un état global de satisfaction. **(R : référence théorique)** _[on utilise une référence (une seule) pour approfondir : une référence, c'est soit un·e philosophe, soit un courant philosophique, soit un travail sur du vocabulaire philosophique]_ C'est justement ce que montre Kant lorsqu'il affirme que « le bonheur est un idéal, non de la raison, mais de l'imagination » _[une référence n'est pas nécessairement une citation : c'est l'idée qui compte ; si on fait une citation, elle doit être courte et on doit l'expliquer]_. Si le bonheur relève de l'imagination et non de la raison, [on explique en détail la référence, on utilise du vocabulaire philosophique précis, des distinctions] cela signifie que nous ne pouvons pas former une conception précise, claire et cohérente du bonheur : nous avons seulement une image vague, confuse et potentiellement contradictoire de la vie heureuse. On ne sait pas trop ce qu'on veut. Rechercher le bonheur, ce n'est pas, en effet, rechercher un objet précisément délimité. Nous nous projetons dans le futur avec l'espoir d'avoir compris ce qui fait notre bonheur, mais il n'y a pas de méthode infaillible en ce domaine et nous pouvons toujours faire l'expérience d'une déception profonde. **(E : exemple concret)** _[on donne un exemple (un seul), en restant concret sans trop de détails qui seraient inutiles]_ Prenons par exemple le film <u>Les Noces rebelles</u> _[on souligne les titres]_. Dans ce film, un jeune couple américain a réussi à obtenir tout ce qu'ils souhaitaient : une situation économique confortable, une maison agréable, des enfants, et pourtant ils ne sont pas heureux _[on commence par décrire rapidement l'exemple, puis on l'analyse]_. La déception qu'ils ressentent n'est pas un sentiment d'échec de ne pas avoir trouvé les moyens de parvenir à leur objectif. C'est une désillusion sur la finalité elle-même qu'ils poursuivaient : ils se rendent compte qu'ils se sont trompés dans l'idée qu'ils se faisaient du bonheur. **(S : synthèse)** _[on répond clairement à la question posée en reprenant les termes qui sont dans le sujet, et en leur donnant un sens précis]_ Le bonheur n'est ainsi qu'un idéal, c'est-à-dire le produit de l'imagination façonné par une certaine image du bonheur toujours potentiellement trompeuse.
 
-1. [J'aimerais aussi voir un exemple de rédaction d'une fin de partie](Rédaction partie fin exemple)
-2. [Je voudrais revoir la manière dont on rédige le développement](Rédaction développement)
-3. [Comment faut-il rédiger la conclusion ?](Rédaction conclusion)
+1. [J'aimerais aussi voir un exemple de rédaction d'une fin de partie](Rédiger partie fin exemple)
+2. [Je voudrais revoir la manière dont on rédige le développement](Rédiger développement)
+3. [Comment faut-il rédiger la conclusion ?](Rédiger conclusion)
 
-## Rédaction partie fin exemple
+## Rédiger partie fin exemple
 - exemple de fin de partie rédigée
 - exemple de fin de partie
 
@@ -468,8 +483,8 @@ Voici un exemple de fin de partie rédigée sur le sujet « Le bonheur n'est-il 
 
 **[Bilan]** _[on rappelle les arguments examinés]_ Le bonheur semble être une quête impossible en raison de la nature indéterminée du bonheur, du caractère insatiable du désir, et du tragique de l'existence. **[Transition]** _[on montre que ce n'est pas si simple, sous la forme d'une question]_ Mais, ne peut-on pas malgré tout trouver un certain art d’être heureux ? Ne pouvons-nous pas maîtriser nos désirs et affronter le tragique de l'existence ?
 
-1. [Je voudrais revoir la manière dont on rédige le développement](Rédaction développement)
-2. [Comment faut-il rédiger la conclusion ?](Rédaction conclusion)
+1. [Je voudrais revoir la manière dont on rédige le développement](Rédiger développement)
+2. [Comment faut-il rédiger la conclusion ?](Rédiger conclusion)
 
 ## Sous-parties
 - sous-parties
@@ -477,7 +492,7 @@ Voici un exemple de fin de partie rédigée sur le sujet « Le bonheur n'est-il 
 Quel est le sens de votre question ?
 
 1. [Je veux comprendre comment on fait un plan détaillé avec des parties et des sous-parties](Plan détaillé)
-2. [Je veux comprendre comment on rédige une sous-partie](Rédaction sous-partie)
+2. [Je veux comprendre comment on rédige une sous-partie](Rédiger sous-partie)
 
 
 ## Développement
@@ -486,9 +501,9 @@ Quel est le sens de votre question ?
 Quel est le sens de votre question ?
 
 1. [Je veux savoir comment organiser mes idées dans le développement et faire un plan](Faire un plan)
-2. [Je veux savoir comment je dois rédiger mon développement](Rédaction développement)
+2. [Je veux savoir comment je dois rédiger mon développement](Rédiger développement)
 
-## Rédaction conclusion
+## Rédiger conclusion
 - rédige la conclusion
 - rédaction de la conclusion
 - pour la conclusion
@@ -507,12 +522,12 @@ Quelques remarques :
 3. On doit finir avec une vraie réponse : on ne finit pas par une fausse réponse vague (on évite notamment "il faut trouver un juste milieu", "dans certains cas, oui, dans certains cas, non", "ça dépend de chacun", "la question est très difficile et on ne peut pas vraiment répondre").
 4. La réponse avec laquelle on termine doit correspondre à ce qu'on a dit dans la dernière partie. On doit juste souligner l'intérêt de la progression logique qui nous a mené jusqu'à cette réponse finale.
 
-1. [J'aimerais voir un exemple de conclusion rédigée](Rédaction conclusion exemple)
-2. [Je veux revoir comment on rédige l'introduction](Rédaction introduction)
-3. [Je veux revoir comment on rédige le développement](Rédaction développement)
-4. [Quels sont en général les conseils utiles à suivre pour bien rédiger ?](Rédaction conseils généraux)
+1. [J'aimerais voir un exemple de conclusion rédigée](Rédiger conclusion exemple)
+2. [Je veux revoir comment on rédige l'introduction](Rédiger introduction)
+3. [Je veux revoir comment on rédige le développement](Rédiger développement)
+4. [Quels sont en général les conseils utiles à suivre pour bien rédiger ?](Rédiger conseils généraux)
 
-## Rédaction conclusion exemple
+## Rédiger conclusion exemple
 - exemple de conclusion rédigée
 - exemple de conclusion
 
@@ -520,10 +535,10 @@ Voici un exemple de conclusion rédigée sur le sujet « Le bonheur n'est-il qu'
 
 _[On reprend le sujet]_ Le bonheur n'est-il qu'un idéal ? _[On synthétise son développement avec les transitions entre parties]_ Le concept de bonheur semble indéterminé, nos désirs ont tendance à nous emprisonner dans un cycle d'insatisfactions et le tragique de l'existence pourrait sembler insurmontable. Cependant, un art d'être heureux n'est-il pas malgré tout possible ? Sans prétendre parvenir à une science du bonheur, nous pouvons chercher à retrouver le simple plaisir d'exister et parvenir à accepter ce qui ne dépend pas de nous. Peut-on pour autant réduire l'idéal du bonheur à un tel mode de vie ? Le plaisir simple d'exister ne suffit pas car nous désirons vivre une vie riche et pleine de sens, et nous voulons nous inscrire dans le réel plutôt que simplement l'accepter. [On finit par une réponse claire au sujet] Le bonheur n'est en définitive pas qu'un idéal : nous avons défendu ici l'idée qu'il se trouve dans l'exercice de nos facultés et notre engagement dans des formes de participation au réel et d'enrichissement de l'existence.
 
-1. [OK, j'ai compris comment rédiger chaque moment en particulier de la dissertation. Mais quels sont en général les conseils utiles à suivre pour bien rédiger ?](Rédaction conseils généraux)
+1. [OK, j'ai compris comment rédiger chaque moment en particulier de la dissertation. Mais quels sont en général les conseils utiles à suivre pour bien rédiger ?](Rédiger conseils généraux)
 2. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluer)
 
-## Rédaction conseils généraux
+## Rédiger conseils généraux
 - conseils pour rédiger
 - conseils généraux pour la rédaction
 - manière d'écrire
@@ -538,11 +553,11 @@ Voici quelques conseils généraux pour la rédaction de la copie :
 2. Il faut relire régulièrement ce que l’on vient d’écrire (pour vérifier que c’est clair et correct du point de vue linguistique). On fait une relecture finale pour l’orthographe en faisant attention aux accents, aux terminaisons, à l’écriture des termes vus en cours et à ses erreurs fréquentes.
 3. Il faut imaginer qu'on écrit à une personne qui n’a jamais fait de philosophie : cela force à tout expliquer.
 
-1. [J'ai aussi des questions sur le style, la manière d'écrire](Rédaction style)
-2. [Je veux revoir comment on rédige chaque moment de la dissertation](Rédaction)
+1. [J'ai aussi des questions sur le style, la manière d'écrire](Rédiger style)
+2. [Je veux revoir comment on rédige chaque moment de la dissertation](Rédiger)
 3. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluer)
 
-## Rédaction style
+## Rédiger style
 - style
 - rédaction
 - rédiger
@@ -557,7 +572,7 @@ Au niveau du style :
 5. On ne dit pas "on a vu dans le cours que" : on utilise directement ce qu'on a vu dans le cours
 6. On n'hésite pas à utiliser souvent des questions pour relancer la réflexion
 
-1. [Je veux revoir comment on rédige chaque moment de la dissertation](Rédaction)
+1. [Je veux revoir comment on rédige chaque moment de la dissertation](Rédiger)
 2. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluer)
 
 ## Utiliser le je
@@ -568,8 +583,8 @@ Au niveau du style :
 
 Il faut éviter d’utiliser le “je”, car le risque c’est d’en rester à une simple affirmation sans arguments. Mais on a le droit de l'utiliser si on a une argumentation solide, ou si le "je" ne fait pas référence à soi en particulier, mais à toute personne.
 
-1. [J'aimerais revoir les autres conseils sur le style](Rédaction style)
-2. [Je veux revoir comment on rédige chaque moment de la dissertation](Rédaction)
+1. [J'aimerais revoir les autres conseils sur le style](Rédiger style)
+2. [Je veux revoir comment on rédige chaque moment de la dissertation](Rédiger)
 3. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluer)
 
 ## Évaluation
@@ -659,6 +674,47 @@ Pour vous entraîner sur la méthode de la dissertation en philosophie, vous pou
 - voir les [archives des sujets du baccalauréat](https://eyssette.forge.aeif.fr/sujets-philosophie-bac/)
 - consulter une [base de données de sujets de dissertation](https://eyssette.forge.aeif.fr/sujets-philosophie/)
 
+## Bloquer
+- bloquer
+- pas quoi faire
+- perdu
+- je n'y arrive pas
+
+Qu'est-ce qui bloque ?
+
+1. [Je n'arrive pas à analyser le sujet](Analyser le sujet)
+2. [Je n'arrive pas à trouver des idées](Trouver des idées)
+3. [Je n'arrive pas à argumenter](Argumenter)
+5. [Je n'arrive pas à développer mes idées](Développer ses idées)
+6. [Je n'arrive pas à faire mon plan](Faire un plan)
+7. [Je n'arrive pas à rédiger](Rédiger)
+
+## Développer ses idées
+- développer ses idées
+
+Pour développer ses idées, il faut penser à :
+- bien dégager progressivement les étapes de son raisonnement au lieu d'aller trop vite dune idée à une autre
+- bien penser aux objections possibles à ses idées afin d'essayer de développer son argumentation en cherchant à répondre aux critiques possibles
+- bien analyser les notions qu'on utilise : les définir, utiliser des distinctions conceptuelles
+- utiliser son cours et des connaissances pour approfondir : à la fois des références théoriques et des exemples concrets.
+
+1. [Comment argumenter ?](Argumenter)
+2. [Comment analyser ?](Stratégies d'analyse)
+3. [Comment utiliser ses connaissances](Utiliser ses connaissances)
+
+## Utiliser ses connaissances
+- comment utiliser ses connaissances
+- comment utiliser son cours
+
+Il est important d'utiliser ses connaissances, d'utiliser son cours.
+Le cours est là principalement pour vous aider à :
+- approndir votre analyse :
+	- mobilisez les définitions, les distinctions conceptuelles, le vocabulaire technique vus en cours
+- vous donner des éléments théoriques sur les grandes problématiques philosophiques :
+	- mobilisez les problèmes vus en cours pour trouver des articulations dans votre plan et envisager d'autres perspectives ;
+	- mobilisez les arguments et les objections vus en cours pour étoffer votre propre argumentation
+	- mobilisez les références philosophiques vus en cours pour développer une idée
+- vous donner des exemples : utilisez les cas concrets vus en cours pour mieux comprendre les enjeux et donner davantage d'épaisseur à votre réflexion en la confrontant avec la réalité
 
 ## Merci
 - merci
