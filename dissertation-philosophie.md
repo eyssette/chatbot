@@ -414,6 +414,18 @@ Que voulez-vous savoir plus précisément ?
 2. [Comment on rédige le développement ?](Rédiger développement)
 3. [Comment on rédige la conclusion ?](Rédiger conclusion)
 4. [Quels sont en général les conseils utiles à suivre pour bien rédiger ?](Rédiger conseils généraux)
+5. [Je voudrais voir un exemple de dissertation rédigée](Exemple de dissertation rédigée)
+
+## Exemple de dissertation rédigée
+- exemple de dissertation
+- exemple rédigé de dissertation
+
+Voici des exemples pour comprendre il faut rédiger sa dissertation :
+
+1. [Exemple d'introduction](Rédiger introduction exemple)
+2. [Exemple de sous-partie](Rédiger sous-partie exemple)
+3. [Exemple de fin de partie](Rédiger partie fin exemple)
+4. [Exemple de conclusion](Rédiger conclusion exemple)
 
 ## Rédiger introduction
 - rédige l'introduction
