@@ -681,6 +681,15 @@ Quelques remarques :
 3. [Je veux revoir comment on rédige le développement](Rédiger développement)
 4. [Quels sont en général les conseils utiles à suivre pour bien rédiger ?](Rédiger conseils généraux)
 
+## Ouverture en conclusion
+- ouverture en conclusion
+- ouverture dans la conclusion
+
+En conclusion … il faut conclure ! Cela ne sert à rien de faire une ouverture sur autre chose et de manière générale, on n'ajoute rien de nouveau dans sa conclusion : tout ce qu'on dit dans la conclusion doit avoir été dit dans le développement. Donc pas de nouvelles idées, de nouvel argument, de nouvel auteur …
+
+1. [J'aimerais voir d'autres conseils à propos de la conclusion](Rédiger conclusion)
+
+
 ## Rédiger conclusion exemple
 - exemple de conclusion rédigée
 - exemple de conclusion
