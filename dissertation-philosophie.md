@@ -612,6 +612,15 @@ Voici un exemple de fin de partie rédigée sur le sujet « Le bonheur n'est-il 
 1. [Je voudrais revoir la manière dont on rédige le développement](Rédiger développement)
 2. [Comment faut-il rédiger la conclusion ?](Rédiger conclusion)
 
+## Connecteurs logiques
+- connecteurs logiques
+- connecteur logique
+
+Il est important quand vous rédigez de bien articuler vos idées entre elles et de bien souligner les liens logiques qui vous font passer d'une idée à une autre.
+
+Il faut éviter en revanche de commencer une partie ou une sous-partie par un connecteur logique. Le lien logique avec la partie ou la sous-partie précédente doit se faire dans la transition (à mettre en fin de partie ou sous-partie précédente).
+
+
 ## Sous-parties
 - sous-parties
 
