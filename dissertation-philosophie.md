@@ -57,6 +57,8 @@ Il va falloir prendre le temps de bien analyser le sujet, afin de trouver des id
 - termes du sujet
 - comment analyser le sujet
 - comment je dois analyser
+- bien comprendre le sujet
+- comprendre le sujet
 
 Il est important de bien analyser le sujet.
 
@@ -179,6 +181,7 @@ On peut parfois faire appel à une troisième stratégie :
 - comment on problématise
 - comment je problématise
 - comment je peux problématiser
+- trouver une problématique
 
 Problématiser le sujet, c'est dégager ce qui fait problème dans la question posée. Il s'agit de montrer que ce n'est pas si simple de répondre à cette question.
 Le meilleur moyen est de dégager une tension entre une première réponse spontanée à cette question, qui semble justifiée, et une autre réponse, opposée, qui semble elle aussi justifiée.
@@ -187,6 +190,18 @@ C'est autour de ce débat fondamental que vous allez pouvoir construire votre pl
 
 1. [Comment repérer les enjeux d'une question ?](Enjeux)
 2. [Comment faire un plan ?](Faire un plan)
+
+## Reformuler le sujet
+- reformuler le sujet
+- reformuler la question
+- reformuler
+- reformulation
+
+On entend parfois l'idée qu'il faudrait arriver à reformuler le sujet.
+Plus exactement, ce qu'il faut arriver à faire, c'est "problématiser le sujet", c'est-à-dire dépasser la simple formulation de question posée pour voir ce qu'il y a derrière comme problème fondamental et comme enjeux importants.
+
+1. [Comment problématiser le sujet ?](Problématiser le sujet)
+2. [Comment dégager les enjeux ?](Enjeux)
 
 ## Enjeux
 - enjeux
@@ -214,6 +229,8 @@ On peut enfin s'aider de la distinction entre les enjeux relatifs à notre rappo
 - construire mon plan
 - organiser mes idées
 - articulations de mon plan
+- construire un plan
+- faire un plan
 
 On fait 2 ou 3 parties. On essaie de faire 3 parties, mais si le plan est en 2 parties, il faudra davantage développer chaque partie.
 
