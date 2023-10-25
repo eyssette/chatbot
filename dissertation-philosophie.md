@@ -405,6 +405,9 @@ Au maximum, on met 4 arguments dans une partie (donc on a maximum 4 sous-parties
 - combien il doit y avoir de thèses
 - il faut en mettre combien des thèses
 - beaucoup de connaissances
+- utiliser des références
+- utiliser des auteurs
+- utiliser des thèses
 
 Dans chaque sous-partie, on s'efforce d'utiliser une (et une seule) référence philosophique.
 Le but est de pouvoir approfondir son idée avec la pensée d'un⋅e philosophie, ou avec un courant philosophique, ou de manière plus générale avec des connaissances philosophiques (des définitions, des distinctions conceptuelles).
@@ -642,6 +645,7 @@ Il faut aussi que vous fassiez bien attention aux connecteurs logiques.
 1. [J'aimerais avoir plus de précisions sur l'utilisation des connecteurs logiques](Connecteurs logiques)
 
 ## Formules à éviter
+- formules à éviter
 - formulations à éviter
 - éviter certaines formulations
 - éviter certaines formules
