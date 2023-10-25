@@ -538,8 +538,8 @@ En fin de partie (sauf dans la dernière partie), on rappelle les arguments exam
 
 On organise chaque sous-partie en utilisant de préférence le modèle ARES :
 - A : On commence par formuler son argument, fondé sur l'analyse des notions ; on ne va pas trop vite, on construit progressivement son raisonnement étape par étape.
-- R : utiliser une référence 
-- E : et/ou un exemple (mais pas plus) ; ne pas en rester à une simple évocation vague, mais ne pas se perdre dans des détails inutiles ; 
+- R : utiliser une référence théorique (une seule) pour approfondir son idée
+- E : utiliser un exemple concret (un seul) pour montrer comment son idée s'applique au réel
 - S : reprendre les termes du sujet, leur donner un sens précis et formuler clairement une réponse au sujet.
 
 1. [J'aimerais voir un exemple de rédaction d'une sous-partie avec le modèle ARES](Rédiger sous-partie exemple)
