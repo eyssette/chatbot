@@ -492,6 +492,34 @@ Quelques précisions :
 3. [Comment on rédige la conclusion ?](Rédiger conclusion)
 4. [Quels sont en général les conseils utiles à suivre pour bien rédiger ?](Rédiger conseils généraux)
 
+## Introduction accroche
+- accroche
+
+Il n'est pas nécessaire de commencer son introduction par une accroche et c'est souvent difficile de faire une bonne accroche, raison pour laquelle il est souvent préférable de s'abstenir de faire une accroche.
+
+1. [OK, mais comment on fait son introduction ?](Rédiger introduction)
+
+## Introduction références
+- références en introduction
+- références dans l'introduction
+
+Il vaut mieux éviter de mettre des références philosophiques dans l'introduction. Les auteurs, les citations, les courants philosophiques, le vocabulaire philosophique spécialisé : tout cela servira plutôt à approfondir vos idées dans le développement.
+
+1. [D'accord, mais que faut-il faire alors dans l'introduction ?](Rédiger introduction)
+
+## Introduction par quoi on commence
+- par quoi on commence son devoir
+- par quoi on commence son introduction
+- par quoi on commence dans l'introduction
+- par quoi on commence l'intro
+
+On commence son introduction directement par l'analyse de la notion principale du sujet.
+Par exemple, si le sujet porte sur le bonheur, on pourrait commencer son devoir ainsi : « À première vue, le bonheur est …… ».
+On tire ensuite de cette analyse une première réponse à la question posée, qu'on va ensuite problématiser.
+
+1. [Je ne suis pas sûr d'avoir compris, j'aimerais avoir plus de détails](Rédiger introduction)
+
+
 ## Rédiger introduction exemple
 - exemple d'introduction rédigée
 - exemple d'introduction
