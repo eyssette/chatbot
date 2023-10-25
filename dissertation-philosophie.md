@@ -436,7 +436,7 @@ Attention, dans ce cas :
 - il faut en mettre combien des exemples
 
 Dans chaque sous-partie, on essaie de mobiliser un (et un seul) exemple concret précis. 
-Le but est de dégager le sens concret de son idée en montrant comme l'idée s'applique dans la réalité.
+Un exemple n'est pas une preuve. Le but est simplement de dégager le sens concret de son idée en montrant comme l'idée s'applique dans la réalité.
 Au minimum, il faudrait avoir un exemple précis par partie.
 
 1. [J'aimerais revoir comment on fait un plan](Faire un plan)
