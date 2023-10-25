@@ -660,6 +660,32 @@ Il faut éviter d’utiliser le “je”, car le risque c’est d’en rester à
 2. [Je veux revoir comment on rédige chaque moment de la dissertation](Rédiger)
 3. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluer)
 
+## Combien de pages
+- combien de pages
+- nombre de pages
+- combien de feuilles
+- taille d'une copie
+- pages
+- taille
+
+Étant donné que chaque personne a une écriture différente, il est difficile d'indiquer un nombre de pages qu'il faudrait atteindre.
+
+Il faudrait plutôt compter en nombre de mots. On peut alors proposer les indications suivantes :
+
+- Pour l'introduction : environ 180-300 mots.
+- Pour le développement : environ 1500-2700 mots
+	- Une partie : environ 600-900 mots
+	- Une sous-partie : environ 300-500 mots
+- Pour la conclusion : environ 120-180 mots
+
+Au total, une bonne copie devrait faire entre 1800 et 3000 mots.
+
+Bien sûr il ne s'agit que d'indications et c'est toujours la qualité qui compte et non la quantité : cela ne sert à rien d'ajouter des mots simplement pour faire un devoir plus long.
+Cependant, on ne peut prétendre à un devoir de qualité si la copie est trop courte : on ne doit pas en rester à des intuitions ou des remarques vagues, il faut s'efforcer de développer.
+
+Pour compter le nombre de mots dans votre copie, ce n'est pas la peine de compter tous les mots, vous pouvez compter le nombre de mots en moyenne que vous écrivez sur une ligne (en faisant la moyenne sur une dizaine de lignes). Vous regardez combien de lignes il y a sur une page, et vous aurez ainsi une approximation du nombre de mots dans votre copie.
+
+
 ## Évaluation
 - est évalué
 - évaluation
@@ -668,6 +694,7 @@ Il faut éviter d’utiliser le “je”, car le risque c’est d’en rester à
 - noté
 - critères d'évaluation
 - notes
+- combien je vais avoir
 
 Une copie en philosophie est évaluée sur deux types de critères.
 
