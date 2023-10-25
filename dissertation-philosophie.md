@@ -388,6 +388,19 @@ Au minimum, il faudrait avoir une référence par partie.
 
 1. [J'aimerais revoir comment on fait un plan](Faire un plan)
 
+## Citations
+- citation
+- citations
+
+Il n'est pas nécessaire d'utiliser des citations dans sa copie, mais c'est parfois intéressant de mobiliser une citation.
+
+Attention, dans ce cas :
+- La citation doit être courte. On ne fait pas du remplissage avec une longue citation.
+- Elle doit être introduite et s'insérer naturellement dans le cours de votre phrase. On ne met pas directement la citation.
+- On met la citation entre guillemets
+- On explique toujours la citation et on montre bien ce qu'elle apporte à notre réflexion. Si la citation est juste décorative, pour faire joli, cela n'a aucun intérêt.
+
+
 ## Combien d'exemples
 - combien d'exemples
 - beaucoup d'exemples
