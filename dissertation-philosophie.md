@@ -458,6 +458,26 @@ Que voulez-vous savoir plus précisément ?
 5. [Je voudrais voir un exemple de dissertation rédigée](Exemple de dissertation rédigée)
 6. [J'ai du mal à formuler mes idées, que puis-je faire ?](Formuler ses idées)
 
+## Rédiger organisation
+- tout rédiger
+- s'organiser dans sa rédaction
+- organiser sa rédaction
+- rédiger en premier
+- dans quel ordre on rédige
+- dans quel ordre il faut rédiger
+- commencer la rédaction
+- commencer à rédiger
+- rédiger au brouillon
+- ordre pour la rédaction
+
+Quand on a terminé son brouillon, on peut commencer à rédiger, mais il ne faut pas tout rédiger au brouillon puis recopier au propre.
+
+Pour l'introduction, c'est possible de la faire d'abord au brouillon et de la recopier ensuite. On peut éventuellement rédiger seulement au propre la problématisation du sujet et laisser suffisamment de plan pour l'annonce du plan qu'on peut rédiger plus tard si on n'est pas sûr de suivre le plan qu'on a prévu au brouillon.
+
+Pour le développement, dans tous les cas on ne rédige pas au brouillon, on rédige directement sur sa copie. On s'aide du brouillon seulement quand on bloque sur un passage.
+
+Pour la conclusion, on n'a généralement pas besoin du brouillon. On prend simplement un temps pour bien avoir en tête le parcours qu'on a suivi dans son devoir, et on rédige directement sur sa copie.
+
 ## Exemple de dissertation rédigée
 - exemple de dissertation
 - exemple rédigé de dissertation
