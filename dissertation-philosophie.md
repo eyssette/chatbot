@@ -118,7 +118,7 @@ Pour trouver des idées, il y a plusieurs pistes possibles de réflexion :
 
 - On part de la notion principale du sujet, et on cherche à construire un chemin vers l’autre notion importante
 - On explore un maximum d’arguments possibles :
-	- pour cela , on explore les types de réponses : réponses “oui” et réponses “non”, réponses opposées à notre point de vue, réponses radicales …
+	- pour cela, on explore les types de réponses : réponses “oui” et réponses “non”, réponses opposées à notre point de vue, réponses radicales …
 	- on explore les différents domaines et niveaux d’analyse : éthique, politique, individuel, sociaux-culturels …
 	- on explore les différents sens possibles des notions du sujet
 - On approfondit au maximum chaque argument : avec une analyse précise des termes employés ; en mobilisant des connaissances, des références théoriques et des exemples
@@ -143,7 +143,7 @@ Quel est le sens de votre question ?
 - comment on argumente
 - pour argumenter
 - qu'est-ce qu'un argument
-- c'est quoi un argumenter
+- c'est quoi un argument
 - c'est quoi argumenter
 - ce qu'est un argument
 - prémisse
@@ -340,10 +340,11 @@ Pour faire son plan détaillé au brouillon :
 2. [Je veux voir maintenant comment on rédige](Rédiger)
 
 ## Thèse antithèse synthèse
-- thèse antithèse syntèse
+- thèse antithèse synthèse
 - antithèse
 - synthèse
 - plan dialectique
+- dialectique
 
 Le plan "thèse antithèse synthèse", parfois appelé "plan dialectique", est plutôt mal nommé, car il donne l'impression qu'on va simplement dire oui, puis non, et ensuite … on ne voit pas trop ou alors une sorte de réponse très vague (un peu oui, un peu non).
 Ce n'est pas ce qu'il faut faire !
@@ -405,7 +406,7 @@ Au maximum, on met 4 arguments dans une partie (donc on a maximum 4 sous-parties
 - il faut en mettre combien des thèses
 - beaucoup de connaissances
 
-Dans chaque sous-partie, on s'efforce d'utiliser une (et une seule) référence philosophique. 
+Dans chaque sous-partie, on s'efforce d'utiliser une (et une seule) référence philosophique.
 Le but est de pouvoir approfondir son idée avec la pensée d'un⋅e philosophie, ou avec un courant philosophique, ou de manière plus générale avec des connaissances philosophiques (des définitions, des distinctions conceptuelles).
 Au minimum, il faudrait avoir une référence par partie.
 
@@ -457,7 +458,7 @@ Que voulez-vous savoir plus précisément ?
 - exemple de dissertation
 - exemple rédigé de dissertation
 
-Voici des exemples pour comprendre il faut rédiger sa dissertation :
+Voici des exemples pour comprendre comment il faut rédiger sa dissertation :
 
 1. [Exemple d'introduction](Rédiger introduction exemple)
 2. [Exemple de sous-partie](Rédiger sous-partie exemple)
@@ -615,7 +616,7 @@ Dans la conclusion, le but est simplement de retracer le cheminement parcouru.
 
 Quelques remarques :
 1. On évite de commencer par "Pour conclure". Le mieux est de commencer en reprenant la question posée, puis de revenir sur son parcours. 
-2. Le but est juste de conclure. Il ne faut pas faire d'ouverture sur autre chose et de manière générale, on n'ajoute rien de nouveau : tout ce qu'on dit dans la conclusion doit avoir été dit dans le développement. Donc pas de nouvelle idées, de nouvel argument, de nouvel auteur …
+2. Le but est juste de conclure. Il ne faut pas faire d'ouverture sur autre chose et de manière générale, on n'ajoute rien de nouveau : tout ce qu'on dit dans la conclusion doit avoir été dit dans le développement. Donc pas de nouvelles idées, de nouvel argument, de nouvel auteur …
 3. On doit finir avec une vraie réponse : on ne finit pas par une fausse réponse vague (on évite notamment "il faut trouver un juste milieu", "dans certains cas, oui, dans certains cas, non", "ça dépend de chacun", "la question est très difficile et on ne peut pas vraiment répondre").
 4. La réponse avec laquelle on termine doit correspondre à ce qu'on a dit dans la dernière partie. On doit juste souligner l'intérêt de la progression logique qui nous a mené jusqu'à cette réponse finale.
 
@@ -811,9 +812,10 @@ Le plagiat est :
 - complexe
 - trop dur
 - pas facile
+- chaud
 
 C'est vrai que faire une dissertation en philosophie est un exercice difficile.
-Au niveau du contenu, la philosophie peut paraître complexe, mais c'est précisément cette complexité qui la rend stimulante et enrichissante. Il ne faut pas hésiter à demander de l'aide, à poser des questions si certains points restentobscurs.
+Au niveau du contenu, la philosophie peut paraître complexe, mais c'est précisément cette complexité qui la rend stimulante et enrichissante. Il ne faut pas hésiter à demander de l'aide, à poser des questions si certains points restent obscurs.
 La méthode quant à elle n'est pas très compliquée dans ses principes, il s'agit plutôt de s'entraîner régulièrement afin de bien comprendre comment la mettre en œuvre.
 Dans tous les cas, il ne faut surtout pas se décourager. Des progrès, parfois fulgurants, sont tout à fait possibles !
 
@@ -893,7 +895,7 @@ Pour développer ses idées, il faut penser à :
 
 Il est important d'utiliser ses connaissances, d'utiliser son cours.
 Le cours est là principalement pour vous aider à :
-- approndir votre analyse :
+- approfondir votre analyse :
 	- mobilisez les définitions, les distinctions conceptuelles, le vocabulaire technique vus en cours
 - vous donner des éléments théoriques sur les grandes problématiques philosophiques :
 	- mobilisez les problèmes vus en cours pour trouver des articulations dans votre plan et envisager d'autres perspectives ;
@@ -901,7 +903,7 @@ Le cours est là principalement pour vous aider à :
 	- mobilisez les références philosophiques vus en cours pour développer une idée
 - vous donner des exemples : utilisez les cas concrets vus en cours pour mieux comprendre les enjeux et donner davantage d'épaisseur à votre réflexion en la confrontant avec la réalité
 
-## Différence dissertation essai
+## Essai
 - différence entre une dissertation et un essai
 - différence avec un essai
 - HLP
