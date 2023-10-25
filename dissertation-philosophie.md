@@ -647,18 +647,32 @@ Il faut aussi que vous fassiez bien attention aux connecteurs logiques.
 ## Formules à éviter
 - formules à éviter
 - formulations à éviter
+- formules interdites
+- formulations interdites
+- expressions interdites
+- expressions à éviter
 - éviter certaines formulations
 - éviter certaines formules
 - de tous temps
 - de tout temps
+- nuit des temps
+- ça dépend
+- pour certains
+- juste milieu
+- célèbre philosophe
 
 Il y a certaines formules toutes faites qu'il faut éviter parce qu'elles sont beaucoup trop générales, vides de sens ou superflues. Quelques exemples :
 
-- “De tout temps, les hommes”, “depuis la nuit des temps, l'homme …” : c'est trop général et un peu trop “lyrique”
-- “Descartes, célèbre philosophe du XVIIe siècle” : concentrez-vous sur les idées de Descartes, ne faites pas des commentaires sur lui
-- ”Cette question est très importante et beaucoup de philosophes se sont intéressés à ce sujet, mais c'est une question à laquelle il est difficile de répondre” : ce type de propos n'apporte rien à la réflexion, car toutes les questions que vous allez examiner en philosophie sont de ce type, on le sait déjà !
-- ”Pour certains … ”, “Pour d'autres …”, “ça dépend du point de vue” : avec ces formules, vous refusez de vous engager dans la défense d'une idée, alors que c'est ce qu'on vous demande.
-– “Il faut trouver un juste milieu” : il faut éviter de vouloir à tout prix faire comme si les solutions entre deux étaient les meilleures, et souvent le “juste-milieu” n'est qu'un fourre-tout vague qui ne correspond pas à une véritable idée claire et précise.
+- “De tout temps, les hommes”, “depuis la nuit des temps, l'homme …”
+	- C'est trop général et un peu trop “lyrique”
+- “Descartes, célèbre philosophe du XVIIe siècle”
+	- Concentrez-vous sur les idées de Descartes, ne faites pas des commentaires sur lui
+- ”Cette question est très importante et beaucoup de philosophes se sont intéressés à ce sujet, mais c'est une question à laquelle il est difficile de répondre”
+	- Ce type de propos n'apporte rien à la réflexion, car toutes les questions que vous allez examiner en philosophie sont de ce type, on le sait déjà !
+- ”Pour certains … ”, “Pour d'autres …”, “ça dépend du point de vue”
+	- Avec ces formules, vous refusez de vous engager dans la défense d'une idée, alors que c'est ce qu'on vous demande.
+- “Il faut trouver un juste milieu”
+	- Il faut éviter de vouloir à tout prix faire comme si les solutions “entre deux” étaient les meilleures, et souvent le “juste-milieu” n'est qu'un fourre-tout vague qui ne correspond pas à une véritable idée claire et précise.
 
 
 ## Sous-parties
