@@ -59,6 +59,10 @@ Il va falloir prendre le temps de bien analyser le sujet, afin de trouver des id
 - comment je dois analyser
 - bien comprendre le sujet
 - comprendre le sujet
+- termes clés
+- notions du sujet
+- notions importantes du sujet
+- notions de la question
 
 Il est important de bien analyser le sujet.
 
@@ -206,6 +210,8 @@ Plus exactement, ce qu'il faut arriver à faire, c'est "problématiser le sujet"
 ## Enjeux
 - enjeux
 - repérer les enjeux
+- dégager les enjeux
+- déterminer les enjeux
 
 Pour repérer les enjeux d'une question, on peut s'aider de l'acronyme VELIBs, car les enjeux sont souvent liés à l'une de ces grandes notions : 
 - la vérité
@@ -408,6 +414,7 @@ Au minimum, il faudrait avoir une référence par partie.
 ## Citations
 - citation
 - citations
+- citer
 
 Il n'est pas nécessaire d'utiliser des citations dans sa copie, mais c'est parfois intéressant de mobiliser une citation.
 
