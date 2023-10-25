@@ -739,6 +739,13 @@ Quelques remarques :
 ## Ouverture en conclusion
 - ouverture en conclusion
 - ouverture dans la conclusion
+- terminer ma copie
+- finir ma copie
+- finir la conclusion par une question
+- terminer la conclusion par une question
+- question en fin de conclusion
+- fin de la conclusion
+- fin de la copie
 
 En conclusion … il faut conclure ! Cela ne sert à rien de faire une ouverture sur autre chose et de manière générale, on n'ajoute rien de nouveau dans sa conclusion : tout ce qu'on dit dans la conclusion doit avoir été dit dans le développement. Donc pas de nouvelles idées, de nouvel argument, de nouvel auteur …
 
@@ -941,6 +948,7 @@ Le plagiat est :
 - chaud
 - je ne comprends rien
 - comprends rien
+- découragé
 
 C'est vrai que faire une dissertation en philosophie est un exercice difficile.
 Au niveau du contenu, la philosophie peut paraître complexe, mais c'est précisément cette complexité qui la rend stimulante et enrichissante. Il ne faut pas hésiter à demander de l'aide, à poser des questions si certains points restent obscurs.
