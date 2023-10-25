@@ -791,6 +791,7 @@ Pour compter le nombre de mots dans votre copie, ce n'est pas la peine de compte
 - orthographe
 - fait des fautes
 - fait trop de fautes
+- à cause de l'orthographe
 
 On n'enlève pas au baccalauréat de points s'il y a trop de fautes d'orthographe. Mais il faut s'efforcer de faire attention et bien se relire.
 
@@ -869,6 +870,8 @@ Le plagiat est :
 - trop dur
 - pas facile
 - chaud
+- je ne comprends rien
+- comprends rien
 
 C'est vrai que faire une dissertation en philosophie est un exercice difficile.
 Au niveau du contenu, la philosophie peut paraître complexe, mais c'est précisément cette complexité qui la rend stimulante et enrichissante. Il ne faut pas hésiter à demander de l'aide, à poser des questions si certains points restent obscurs.
@@ -877,6 +880,7 @@ Dans tous les cas, il ne faut surtout pas se décourager. Des progrès, parfois 
 
 1. [OK, mais je bloque !](Je bloque)
 2. [Je veux m'entraîner sur des exemples de sujet de dissertation](S'entraîner)
+3. [Je veux revoir la méthode de la dissertation en philosophie]()
 
 ## S'entraîner
 - s'entraîner
