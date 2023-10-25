@@ -685,6 +685,14 @@ Cependant, on ne peut prétendre à un devoir de qualité si la copie est trop c
 
 Pour compter le nombre de mots dans votre copie, ce n'est pas la peine de compter tous les mots, vous pouvez compter le nombre de mots en moyenne que vous écrivez sur une ligne (en faisant la moyenne sur une dizaine de lignes). Vous regardez combien de lignes il y a sur une page, et vous aurez ainsi une approximation du nombre de mots dans votre copie.
 
+## Orthographe
+- orthographe
+- fait des fautes
+- fait trop de fautes
+
+On n'enlève pas au baccalauréat de points s'il y a trop de fautes d'orthographe. Mais il faut s'efforcer de faire attention et bien se relire.
+
+Les fautes d'orthographe et surtout les fautes de syntaxe, qui jouent sur la construction de la phrase, rendent la lecture plus difficile, ce qui fait que la personne qui vous lit aura plus de mal à vous comprendre, et donc à bien apprécier ce que vous écrivez.
 
 ## Évaluation
 - est évalué
