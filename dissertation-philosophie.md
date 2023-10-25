@@ -684,6 +684,27 @@ Il faut éviter d’utiliser le “je”, car le risque c’est d’en rester à
 2. [Je veux revoir comment on rédige chaque moment de la dissertation](Rédiger)
 3. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluer)
 
+## Sauter des lignes
+- sauter des lignes
+- sauter une ligne
+- saut de ligne
+- alinéa
+
+Le saut de ligne doit servir à marquer visuellement la distinction : 
+- entre l'introduction et le début du développement
+- entre chaque partie dans le développement
+- entre la fin du développement et la conclusion
+
+On ne saute pas de lignes :
+- dans l'introduction
+- dans une partie
+- dans la conclusion
+
+Pour distinguer les différents moments de l'introduction, ou les différentes sous-parties d'une partie dans le développement, on fait seulement des paragraphes avec à chaque fois un alinéa.
+
+Faire un alinéa, c'est commencer à écrire avec un petit décalage (on saute 2-3 carreaux horizontalement) afin de bien marquer visuellement qu'on passe à une autre étape.
+
+
 ## Combien de pages
 - combien de pages
 - nombre de pages
