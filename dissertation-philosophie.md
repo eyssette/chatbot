@@ -453,6 +453,7 @@ Que voulez-vous savoir plus précisément ?
 3. [Comment on rédige la conclusion ?](Rédiger conclusion)
 4. [Quels sont en général les conseils utiles à suivre pour bien rédiger ?](Rédiger conseils généraux)
 5. [Je voudrais voir un exemple de dissertation rédigée](Exemple de dissertation rédigée)
+6. [J'ai du mal à formuler mes idées, que puis-je faire ?](Formuler ses idées)
 
 ## Exemple de dissertation rédigée
 - exemple de dissertation
@@ -620,6 +621,24 @@ Il est important quand vous rédigez de bien articuler vos idées entre elles et
 
 Il faut éviter en revanche de commencer une partie ou une sous-partie par un connecteur logique. Le lien logique avec la partie ou la sous-partie précédente doit se faire dans la transition (à mettre en fin de partie ou sous-partie précédente).
 
+## Formuler ses idées
+- du mal à écrire
+- du mal à formuler mes idées
+- formulation
+- formuler
+- mieux écrire
+
+En philosophie, il faut formuler ses idées le plus clairement possible. On ne doit pas chercher à faire des effets de style, à faire "joli" ou "cultivé".
+
+Évitez les phrases trop longues : vous risquez de vous perdre. Il vaut mieux faire plusieurs phrases courtes et bien les articuler entre elles.
+
+Si vous avez du mal à trouver des formulations, voici un outil d'aide à l'écriture qui vous propose plusieurs formulations possibles pour définir une notion, expliquer une idée, etc. :
+
+- [Outil d'aide à l'écriture](https://eyssette.github.io/ressources-generales-enseignement-philosophie/outil-aide-ecriture-philosophie)
+
+Il faut aussi que vous fassiez bien attention aux connecteurs logiques.
+
+1. [J'aimerais avoir plus de précisions sur l'utilisation des connecteurs logiques](Connecteurs logiques)
 
 ## Sous-parties
 - sous-parties
