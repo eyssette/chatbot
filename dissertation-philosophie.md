@@ -880,6 +880,22 @@ Le cours est là principalement pour vous aider à :
 	- mobilisez les références philosophiques vus en cours pour développer une idée
 - vous donner des exemples : utilisez les cas concrets vus en cours pour mieux comprendre les enjeux et donner davantage d'épaisseur à votre réflexion en la confrontant avec la réalité
 
+## Différence dissertation essai
+- différence entre une dissertation et un essai
+- différence avec un essai
+- HLP
+- qu'un essai
+- que l'essai
+- à un essai
+- à l'essai
+
+Si vous avez suivi l'option HLP, vous avez appris à rédiger des essais philosophiques.
+La méthode n'est pas tout à fait la même pour la dissertation en philosophie.
+
+- L'introduction est absolument nécessaire dans la dissertation, et on attend au minimum dans l'introduction qu'un problème soit dégagé.
+- L'essai peut se focaliser sur la défense d'une ou quelques idées. En dissertation, on attend un parcours plus large, qui doit parvenir à explorer davantage les différentes dimensions importantes de la question posée.
+- L'essai correspond à une épreuve plus courte (2h). La dissertation correspond à une épreuve plus longue (4h). On attend donc un travail plus approfondi en dissertation. 
+
 ## Merci
 - merci
 - remercier
