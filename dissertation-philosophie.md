@@ -627,6 +627,7 @@ Il faut éviter en revanche de commencer une partie ou une sous-partie par un co
 - formulation
 - formuler
 - mieux écrire
+- formules
 
 En philosophie, il faut formuler ses idées le plus clairement possible. On ne doit pas chercher à faire des effets de style, à faire "joli" ou "cultivé".
 
@@ -639,6 +640,22 @@ Si vous avez du mal à trouver des formulations, voici un outil d'aide à l'écr
 Il faut aussi que vous fassiez bien attention aux connecteurs logiques.
 
 1. [J'aimerais avoir plus de précisions sur l'utilisation des connecteurs logiques](Connecteurs logiques)
+
+## Formules à éviter
+- formulations à éviter
+- éviter certaines formulations
+- éviter certaines formules
+- de tous temps
+- de tout temps
+
+Il y a certaines formules toutes faites qu'il faut éviter parce qu'elles sont beaucoup trop générales, vides de sens ou superflues. Quelques exemples :
+
+- “De tout temps, les hommes”, “depuis la nuit des temps, l'homme …” : c'est trop général et un peu trop “lyrique”
+- “Descartes, célèbre philosophe du XVIIe siècle” : concentrez-vous sur les idées de Descartes, ne faites pas des commentaires sur lui
+- ”Cette question est très importante et beaucoup de philosophes se sont intéressés à ce sujet, mais c'est une question à laquelle il est difficile de répondre” : ce type de propos n'apporte rien à la réflexion, car toutes les questions que vous allez examiner en philosophie sont de ce type, on le sait déjà !
+- ”Pour certains … ”, “Pour d'autres …”, “ça dépend du point de vue” : avec ces formules, vous refusez de vous engager dans la défense d'une idée, alors que c'est ce qu'on vous demande.
+– “Il faut trouver un juste milieu” : il faut éviter de vouloir à tout prix faire comme si les solutions entre deux étaient les meilleures, et souvent le “juste-milieu” n'est qu'un fourre-tout vague qui ne correspond pas à une véritable idée claire et précise.
+
 
 ## Sous-parties
 - sous-parties
@@ -735,8 +752,10 @@ Au niveau du style :
 5. On ne dit pas "on a vu dans le cours que" : on utilise directement ce qu'on a vu dans le cours
 6. On n'hésite pas à utiliser souvent des questions pour relancer la réflexion
 
-1. [Je veux revoir comment on rédige chaque moment de la dissertation](Rédiger)
-2. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluer)
+1. [J'aimerais avoir des conseils plus précis sur la manière de formuler mes idées](Formuler ses idées)
+2. [Y a-t-il des formules à éviter ?](Formules à éviter)
+3. [Je veux revoir comment on rédige chaque moment de la dissertation](Rédiger)
+4. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluer)
 
 ## Dire je
 - utiliser le je
@@ -744,11 +763,14 @@ Au niveau du style :
 - le je
 - le "je"
 
-Il faut éviter d’utiliser le “je”, car le risque c’est d’en rester à une simple affirmation sans arguments. Mais on a le droit de l'utiliser si on a une argumentation solide, ou si le "je" ne fait pas référence à soi en particulier, mais à toute personne.
+On a le droit d'utiliser le “je” si le “je” ne fait pas référence à soi en particulier, mais à toute personne (“je” signifie dans ce cas “on” ou “tout le monde”). C'est le cas par exemple dans le raisonnement suivant : “si je désire quelque chose, cela semble signifier que je considère cette chose comme un bien”.
+
+Il faut en revanche éviter d’utiliser les formules comme “je pense que”, ou “à mon avis”, car le risque c’est d’en rester à une simple affirmation sans arguments. Ce n'est pas absolument interdit de l'utiliser si on a une argumentation solide, mais cela reste déconseillé. Formulez directement l'idée et l'argument, cela suffit !
 
 1. [J'aimerais revoir les autres conseils sur le style](Rédiger style)
-2. [Je veux revoir comment on rédige chaque moment de la dissertation](Rédiger)
-3. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluer)
+2. [Y a-t-il d'autres formules à éviter ?](Formules à éviter)
+3. [Je veux revoir comment on rédige chaque moment de la dissertation](Rédiger)
+4. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluer)
 
 ## Sauter des lignes
 - sauter des lignes
