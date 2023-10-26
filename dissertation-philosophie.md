@@ -651,6 +651,9 @@ Il faut éviter en revanche de commencer une partie ou une sous-partie par un co
 - formuler
 - mieux écrire
 - formules
+- bien écrire
+- écrire
+- écriture
 
 En philosophie, il faut formuler ses idées le plus clairement possible. On ne doit pas chercher à faire des effets de style, à faire "joli" ou "cultivé".
 
