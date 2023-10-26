@@ -949,6 +949,8 @@ Le plagiat est :
 - je ne comprends rien
 - comprends rien
 - découragé
+- dur
+- du mal à
 
 C'est vrai que faire une dissertation en philosophie est un exercice difficile.
 Au niveau du contenu, la philosophie peut paraître complexe, mais c'est précisément cette complexité qui la rend stimulante et enrichissante. Il ne faut pas hésiter à demander de l'aide, à poser des questions si certains points restent obscurs.
