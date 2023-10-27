@@ -848,6 +848,13 @@ Faire un alinéa, c'est commencer à écrire avec un petit décalage (on saute 2
 - taille d'une copie
 - pages
 - taille
+- longueur
+- long
+- copie double
+- copies doubles
+- feuilles
+- feuille
+- beaucoup écrire
 
 Étant donné que chaque personne a une écriture différente, il est difficile d'indiquer un nombre de pages qu'il faudrait atteindre.
 
