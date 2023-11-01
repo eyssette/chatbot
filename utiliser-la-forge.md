@@ -88,7 +88,15 @@ Git est un outil informatique qui permet :
 - de développer en parallèle plusieurs versions d'un même fichier
 - de gérer la sauvegarde de son dossier en ligne
 
+La forge repose sur git, mais pour les usages simples de la forge, il n'est pas nécessaire de maîtriser le fonctionnement de git.
 
+Pour certains usages plus avancés (travailler en local, travailler à plusieurs sur un projet), il faudra utiliser certaines fonctionnalités de git, mais sans forcément passer par un terminal et des lignes de commande.
+
+1. [Je veux pouvoir travailler en local sur mon ordinateur : comment faire ?](Travailler en local sur son ordinateur)
+2. [Comment travailler à plusieurs sur un même projet ?](Travail collaboratif à plusieurs)
+3. [J'aimerais mieux comprendre git et son usage en ligne de commande](Git version avancée)
+
+### Git version avancée
 
 ### Libre éducatif et communs numériques
 - libre éducatif
