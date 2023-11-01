@@ -651,6 +651,9 @@ Il faut éviter en revanche de commencer une partie ou une sous-partie par un co
 - formuler
 - mieux écrire
 - formules
+- bien écrire
+- écrire
+- écriture
 
 En philosophie, il faut formuler ses idées le plus clairement possible. On ne doit pas chercher à faire des effets de style, à faire "joli" ou "cultivé".
 
@@ -845,6 +848,13 @@ Faire un alinéa, c'est commencer à écrire avec un petit décalage (on saute 2
 - taille d'une copie
 - pages
 - taille
+- longueur
+- long
+- copie double
+- copies doubles
+- feuilles
+- feuille
+- beaucoup écrire
 
 Étant donné que chaque personne a une écriture différente, il est difficile d'indiquer un nombre de pages qu'il faudrait atteindre.
 
@@ -949,6 +959,8 @@ Le plagiat est :
 - je ne comprends rien
 - comprends rien
 - découragé
+- dur
+- du mal à
 
 C'est vrai que faire une dissertation en philosophie est un exercice difficile.
 Au niveau du contenu, la philosophie peut paraître complexe, mais c'est précisément cette complexité qui la rend stimulante et enrichissante. Il ne faut pas hésiter à demander de l'aide, à poser des questions si certains points restent obscurs.
