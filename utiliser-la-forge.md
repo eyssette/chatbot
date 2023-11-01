@@ -1,6 +1,6 @@
 ---
 gestionGrosMots: true
-titresRéponses: ["## ", "### ", "###, "### " "]
+titresRéponses: ["## ", "### ", "###", "#### "]
 ---
 
 # La Forge
@@ -54,7 +54,7 @@ Une forge propose :
 - des outils de collaboration qui permettent la correction des erreurs et la suggestion de nouvelles idées
 - des outils de gestion de projet pour organiser des tâches à faire
 
-1. [Y a-t-il des limites au stockage de fichiers ?](Stockage de fichiers)
+1. [Quel type de stockage propose la forge ?](Stockage de fichiers)
 2. [Comment créer un site web sur la forge ?](Créer un site web)
 3. [Git : qu'est-ce que c'est ?](Git)
 4. [Comment collaborer sur une forge ?](Travail collaboratif à plusieurs)
@@ -63,6 +63,20 @@ Une forge propose :
 
 
 #### Stockage de fichiers
+- stockage
+- combien de go
+- combien de place
+- combien d'espace
+
+Sur la forge, on peut stocker du code informatique, mais aussi les fichiers nécessaires à la construction de son site web. 
+
+Quelques précisions :
+- La limite de stockage est de … par projet.
+- Il faut éviter de mettre des fichiers lourds (vidéos, audios, PDFs …) sur la forge : dans ce cas, il vaut mieux utiliser [Nuage](https://nuage.apps.education.fr/).
+- Il faut privilégier les formats de fichier légers et ouverts, que l'on peut éditer directement sur la forge et qui favorisent la collaboration.
+
+1. [Les formats légers et ouverts : qu'est-ce que cela veut dire ?](Formats légers et ouverts)
+2. [Comment créer un site web sur la forge ?](Créer un site web)
 
 #### Git
 - git
@@ -151,6 +165,7 @@ Mais on peut distinguer différents usages de la forge et il y a des usages simp
 1. [Comment fonctionne la page d'accueil et la fonction de recherche ?](Page d'accueil et fonction de recherche)
 2. [Comment créer un site web d'après un modèle ?](Créer un site web d'après un modèle)
 3. [Comment travailler en local sur son ordinateur ?](Travailler en local sur son ordinateur)
+4. [Comment travailler à plusieurs sur un même projet](Travail collaboratif à plusieurs)
 
 ## Créer un projet sur la forge
 
