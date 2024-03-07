@@ -237,6 +237,15 @@ On peut enfin s'aider de la distinction entre les enjeux relatifs à notre rappo
 - articulations de mon plan
 - construire un plan
 - faire un plan
+- combien de parties
+- nombre de parties
+- combien on fait de parties
+- 2 ou 3 parties
+- plan en deux parties
+- deux ou trois parties
+- faire trois parties
+- faire 3 parties
+- faire 2 parties
 
 On fait 2 ou 3 parties. On essaie de faire 3 parties, mais si le plan est en 2 parties, il faudra davantage développer chaque partie.
 
