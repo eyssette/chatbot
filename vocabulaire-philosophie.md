@@ -14,8 +14,8 @@ titresRéponses: ['### ']
 
 ### Conceptualiser
 
-- **Conceptualiser**, c'est chercher à clarifier le sens d'une notion
-- Il s'agit de **définir** la notion en formulant précisément ce qu'elle est et ce qu'elle n'est pas
+**Conceptualiser**, c'est chercher à clarifier le sens d'une notion
+Il s'agit de **définir** la notion en formulant précisément ce qu'elle est et ce qu'elle n'est pas
 
 ### Problématiser
 
@@ -46,8 +46,8 @@ L'**hédonisme** est une défense de la valeur du plaisir, c'est la thèse selon
 
 ### Aponie et ataraxie
 
-- **L'aponie** désigne l'absence de souffrances dans le corps
-- **L'ataraxie** désigne l'absence de troubles dans l'âme
+**L'aponie** désigne l'absence de souffrances dans le corps
+**L'ataraxie** désigne l'absence de troubles dans l'âme
 
 ### Réalisme moral
 Le **réalisme moral** (au sens large) est l'idée qu'il y a des vérités en morale.
@@ -106,8 +106,8 @@ Le déterminisme technique est l'idée que l'introduction de certains dispositif
 
 ### Taylorisme
 
-- Dans le taylorisme, il y a une **division verticale** du travail, entre les ingénieurs, qui conçoivent le produit et la manière la plus efficace de le produire, et les ouvriers, qui doivent simplement exécuter les tâches qu'on leur indique de faire.
-- Il y a aussi une **division horizontale** du travail qui décompose le processus de production en une série d'opérations partielles, afin que l'ouvrier n'ait qu'une tâche élémentaire à accomplir, de la manière la plus rapide possible.
+Dans le taylorisme, il y a une **division verticale** du travail, entre les ingénieurs, qui conçoivent le produit et la manière la plus efficace de le produire, et les ouvriers, qui doivent simplement exécuter les tâches qu'on leur indique de faire.
+Il y a aussi une **division horizontale** du travail qui décompose le processus de production en une série d'opérations partielles, afin que l'ouvrier n'ait qu'une tâche élémentaire à accomplir, de la manière la plus rapide possible.
 
 ### Principe d'exprimabilité
 
@@ -125,7 +125,7 @@ Une **esthétique objective du Beau** affirme que l'art vise le Beau et que le B
 
 ### Esthétique du génie
 
-ne **esthétique du génie** affirme qu'on ne peut pas imposer des règles du Beau à la création artistique : l'art est avant tout l'expression du génie de l'artiste.
+Une **esthétique du génie** affirme qu'on ne peut pas imposer des règles du Beau à la création artistique : l'art est avant tout l'expression du génie de l'artiste.
 
 <!-- On ne peut pas imposer des règles du Beau à la création artistique. La valeur d'une œuvre réside dans le génie de l'artiste capable de créer un nouveau style. -->
 
@@ -143,23 +143,24 @@ D'après le **relativisme esthétique**, les jugements sur la valeur d'une œuvr
 Le **solutionnisme technologique** désigne l'idée qu'on peut toujours trouver une solution technologique aux problèmes que rencontrent les êtres humains
 
 ### Technique
-* Une **technique** est un savoir-faire qui permet la mise en œuvre de moyens en vue d'une fin.
-* La **technique** désigne l'ensemble des techniques et des produits de ces savoir-faire.
+
+Une **technique** est un savoir-faire qui permet la mise en œuvre de moyens en vue d'une fin.
+La **technique** désigne l'ensemble des techniques et des produits de ces savoir-faire.
 
 ### Signal
 Un **signal** est un signe qui vise à déclencher un comportement
 
 ### Phonème
 
-- Les **phonèmes** sont les sons caractéristiques d'une langue
-- Plus précisément, un **phonème** est une unité de son, élémentaire, indécomposable, qui peut produire une différence de sens
+Les **phonèmes** sont les sons caractéristiques d'une langue
+Plus précisément, un **phonème** est une unité de son, élémentaire, indécomposable, qui peut produire une différence de sens
 
 ### Morphème
 Un **morphème** est une unité de sens, élémentaire, indécomposable, qui permet de construire des mots
 
 ### Novlangue
-* La **novlangue** dans _1984_ est une simplification de la langue destinée à rendre impossible l'expression d'une critique sociale et politique
-* De manière générale, une **novlangue** est une manière de parler qui a pour fonction d'empêcher la contestation et de protéger un pouvoir établi.
+La **novlangue** dans _1984_ est une simplification de la langue destinée à rendre impossible l'expression d'une critique sociale et politique
+De manière générale, une **novlangue** est une manière de parler qui a pour fonction d'empêcher la contestation et de protéger un pouvoir établi.
 
 ### Rhétorique
 La **rhétorique** est un ensemble de techniques du discours qui permettent de parler avec **éloquence**, avec aisance et d'être capable de persuader son auditoire.
@@ -196,8 +197,8 @@ Il y a **égalité réelle des chances** quand on compense les inégalités de d
 
 ### Liberté négative
 
-* La **liberté négative** désigne l'absence d'obstacles.
-* Je suis libre en ce sens s'il n'y a **pas d'obstacles extérieurs** qui m'empêchent d'agir conformément à mes choix.
+La **liberté négative** désigne l'absence d'obstacles.
+Je suis libre en ce sens s'il n'y a **pas d'obstacles extérieurs** qui m'empêchent d'agir conformément à mes choix.
 
 ### Liberté réelle
 
@@ -224,7 +225,7 @@ Un bien rival est un bien tel que si j'ai plus de ce bien, alors les autres en o
 - épistémologie
 
 **L'épistémologie** est un des grands domaines de réflexion philosophique, comme l'éthique, la philosophie de l'esprit, la philosophie de la culture, la philosophie sociale et politique …
-> - Quand on fait de l'épistémologie, cela signifie qu'on s'intéresse à la **connaissance** de manière générale, et aux différentes **sciences**, de manière plus spécifique
+Quand on fait de l'épistémologie, cela signifie qu'on s'intéresse à la **connaissance** de manière générale, et aux différentes **sciences**, de manière plus spécifique
 
 ### Relativisme de la vérité
 - relativisme de la vérité
@@ -232,8 +233,9 @@ Un bien rival est un bien tel que si j'ai plus de ce bien, alors les autres en o
 Le **relativisme de la vérité** est la thèse selon laquelle _la_ vérité n'existe pas : il n'y aurait pas de vérité absolue, mais seulement une vérité relative à chaque individu (« à chacun sa vérité »).
 
 ### Scepticisme
-- Au sens large, le **scepticisme** est une attitude de doute vis-à-vis de nos croyances et de nos prétendues certitudes.
-- Le **scepticisme** d'un point de vue philosophique est la généralisation de cette attitude et consiste à douter de tout : il serait alors impossible de prétendre savoir ce qui est vrai.
+
+Au sens large, le **scepticisme** est une attitude de doute vis-à-vis de nos croyances et de nos prétendues certitudes.
+Le **scepticisme** d'un point de vue philosophique est la généralisation de cette attitude et consiste à douter de tout : il serait alors impossible de prétendre savoir ce qui est vrai.
 
 Le scepticisme se distingue du relativisme de la vérité : il ne rejette pas l'existence de la vérité, mais seulement la possibilité de la connaître. 
 
@@ -244,19 +246,19 @@ Le scepticisme se distingue du relativisme de la vérité : il ne rejette pas l'
 Le doute radical consiste à douter de la vérité d'une affirmation, dès qu'il y a la moindre possibilité d'imaginer que ce soit faux, et ce, même si on ne croit pas à la vérité du scénario que l'on imagine.
 
 ### Raisonnement
-- De manière générale, un **raisonnement** est un enchaînement d'idées qui part d'un ensemble de **prémisses** (les idées de départ) et conduit à une conclusion.
-- On appelle **inférence** le fait de passer des prémisses à la conclusion.
+De manière générale, un **raisonnement** est un enchaînement d'idées qui part d'un ensemble de **prémisses** (les idées de départ) et conduit à une conclusion.
+On appelle **inférence** le fait de passer des prémisses à la conclusion.
 
 ### Validité
 
-- Un raisonnement **logiquement valide** est un raisonnement dont, nécessairement, la conclusion est vraie si les prémisses sont vraies.
-- Il faut bien distinguer la **validité** ou la non-validité d'un raisonnement d'une part, et la **vérité** ou la fausseté d'une affirmation (prémisse ou conclusion) d'autre part.
+Un raisonnement **logiquement valide** est un raisonnement dont, nécessairement, la conclusion est vraie si les prémisses sont vraies.
+Il faut bien distinguer la **validité** ou la non-validité d'un raisonnement d'une part, et la **vérité** ou la fausseté d'une affirmation (prémisse ou conclusion) d'autre part.
 
 ### Loi de la nature
 
-- Une loi de la nature est une relation constante entre plusieurs paramètres physiques.
-- Cette relation s'exprime sous la forme d'une équation mathématique entre des grandeurs physiques.
-- Exemple : la loi d'Ohm (U = RI)
+Une loi de la nature est une relation constante entre plusieurs paramètres physiques.
+Cette relation s'exprime sous la forme d'une équation mathématique entre des grandeurs physiques.
+Exemple : la loi d'Ohm (U = RI)
 
 ### Vérité
 
@@ -264,8 +266,8 @@ La **vérité** semble pouvoir se définir comme la correspondance entre une aff
 
 ### Nécessaire / contingent
 
-- Ce qui est **nécessaire**, c'est ce qui ne peut pas être autrement, c'est ce dont le contraire est impossible
-- Ce qui est **contingent**, c'est ce qui pourrait être autrement, c'est ce dont le contraire est possible
+Ce qui est **nécessaire**, c'est ce qui ne peut pas être autrement, c'est ce dont le contraire est impossible
+Ce qui est **contingent**, c'est ce qui pourrait être autrement, c'est ce dont le contraire est possible
 
 ### Déterminisme
 - déterminisme
@@ -279,8 +281,8 @@ Le **déterminisme** est l'idée que ce qui arrive est déterminé par des cause
 
 ### Essence
 L'**essence** : du latin _esse_ (verbe être)
-* Désigne l'être d'une chose, ce qu'est cette chose, ce qui la définit
-* On distingue ainsi : l'essence (les propriétés fondamentales sans lesquelles la chose ne peut pas être ce qu'elle est) et les “accidents” (les propriétés secondaires, non-essentielles, sans lesquelles la chose peut malgré tout être ce qu'elle est)
+Désigne l'être d'une chose, ce qu'est cette chose, ce qui la définit
+On distingue ainsi : l'essence (les propriétés fondamentales sans lesquelles la chose ne peut pas être ce qu'elle est) et les “accidents” (les propriétés secondaires, non-essentielles, sans lesquelles la chose peut malgré tout être ce qu'elle est)
 
 ### Substance
 
