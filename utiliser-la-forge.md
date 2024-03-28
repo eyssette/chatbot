@@ -30,6 +30,7 @@ titresRéponses: ["#### "]
 - fonctionnement d'une forge
 - fonctionne une forge
 - forge qu'est-ce que c'est
+- à quoi ça sert
 
 Une forge ressemble à première vue à un espace de stockage en ligne de fichiers que l'on peut synchroniser avec son propre ordinateur pour garantir la pérennité des données.
 
@@ -389,7 +390,7 @@ La Forge propose par défaut plusieurs modèles de site.
 
 ### Site web
 
-#### Créer un site web avec la forge
+#### Créer un site web
 - créer un site web
 - gitlab-ci.yml
 
