@@ -1,6 +1,6 @@
 # Chatbot : utilisation d'un microscope
 
-> <span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.github.io/) à partir du travail de Guillaume Berthelot et de Jérémy Navoizat. [https://mikerobot.netlify.app/](https://mikerobot.netlify.app/)</span>
+> <span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.github.io/) à partir du travail de Sylvain Tissier, Guillaume Berthelot et de Jérémy Navoizat. [https://mikerobot.netlify.app/](https://mikerobot.netlify.app/)</span>
 > 
 > Je peux t'aider à utiliser ton microscope. Quel est ton problème ?
 >
