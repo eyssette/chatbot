@@ -1,14 +1,14 @@
 # Chatbot : utilisation d'un microscope
 
-> <span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.github.io/) à partir du travail de Sylvain Tissier, Guillaume Berthelot et de Jérémy Navoizat. [https://mikerobot.netlify.app/](https://mikerobot.netlify.app/)</span>
-> 
-> Je peux t'aider à utiliser ton microscope. Quel est ton problème ?
->
-> 1. [L'image est floue](L'image est floue)
-> 2. [L'image est trop claire/sombre](L'image est trop claire ou trop sombre)
-> 3. [Je veux grossir l'image](Je veux grossir l'image)
-> 4. [Je veux me déplacer dans la lame](Je veux me déplacer dans la lame)
-> 5. [Je ne vois rien](Je ne vois rien)
+<span class="unique">Je suis un chatbot créé avec [ChatMD](https://eyssette.github.io/) à partir du travail de Sylvain Tissier, Guillaume Berthelot et de Jérémy Navoizat. [https://mikerobot.netlify.app/](https://mikerobot.netlify.app/)</span>
+
+Je peux t'aider à utiliser ton microscope. Quel est ton problème ?
+
+1. [L'image est floue](L'image est floue)
+2. [L'image est trop claire/sombre](L'image est trop claire ou trop sombre)
+3. [Je veux grossir l'image](Je veux grossir l'image)
+4. [Je veux me déplacer dans la lame](Je veux me déplacer dans la lame)
+5. [Je ne vois rien](Je ne vois rien)
 
 ## L'image est floue
 - l'image est floue

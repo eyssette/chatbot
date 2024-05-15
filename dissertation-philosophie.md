@@ -5,15 +5,15 @@ detectBadWords: true
 
 # La dissertation en philosophie
  
-> Je suis un chatbot programmé pour vous aider à comprendre la méthode de la dissertation en philosophie (niveau terminale).
-> 
-> Vous pouvez écrire votre question, ou bien vous laisser guider par les propositions ci-dessous.
->
-> 
-> 1. [Comment on organise son temps ?](Temps)
-> 2. [Que doit-on faire comme travail au brouillon ?](Brouillon)
-> 3. [Comment faut-il faire pour rédiger la dissertation ?](Rédiger)
-> 4. [Comment ma copie va-t-elle être évaluée ?](Évaluation)
+Je suis un chatbot programmé pour vous aider à comprendre la méthode de la dissertation en philosophie (niveau terminale).
+
+Vous pouvez écrire votre question, ou bien vous laisser guider par les propositions ci-dessous.
+
+
+1. [Comment on organise son temps ?](Temps)
+2. [Que doit-on faire comme travail au brouillon ?](Brouillon)
+3. [Comment faut-il faire pour rédiger la dissertation ?](Rédiger)
+4. [Comment ma copie va-t-elle être évaluée ?](Évaluation)
 
 ## Temps
 - temps

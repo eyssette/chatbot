@@ -6,9 +6,9 @@ titresRéponses: ['### ']
 
 # Vocabulaire philosophique
 
-> Je suis un chatbot programmé pour vous aider à retrouver les définitions vues en cours
-> 
-> Quel est le concept dont vous souhaitez retrouver la définition ?
+Je suis un chatbot programmé pour vous aider à retrouver les définitions vues en cours
+
+Quel est le concept dont vous souhaitez retrouver la définition ?
 
 ## Vocabulaire général
 

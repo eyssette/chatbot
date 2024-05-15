@@ -5,15 +5,15 @@ titresRéponses: ["#### "]
 
 # La Forge
 
-> Je suis un chatbot programmé pour répondre à vos questions sur la Forge.
-> Vous pouvez poser votre question ou bien cliquer sur les propositions ci-dessous :
-> 
-> 1. [Qu'est-ce qu'une forge ? À quoi ça sert ?](Qu'est-ce qu'une forge ? À quoi ça sert ?)
-> 2. [Comment créer un projet sur la forge ?](Créer un projet sur la forge)
-> 3. [Comment créer un site web avec la forge ?](Créer un site web)
-> 4. [Comment travailler à plusieurs sur un même projet ?](Travail collaboratif à plusieurs)
-> 5. [Comment travailler en local sur un projet ?](Travailler en local sur son ordinateur)
-> 6. [J'ai d'autres questions, j'aimerais trouver de l'aide](Trouver de l'aide)
+Je suis un chatbot programmé pour répondre à vos questions sur la Forge.
+Vous pouvez poser votre question ou bien cliquer sur les propositions ci-dessous :
+
+1. [Qu'est-ce qu'une forge ? À quoi ça sert ?](Qu'est-ce qu'une forge ? À quoi ça sert ?)
+2. [Comment créer un projet sur la forge ?](Créer un projet sur la forge)
+3. [Comment créer un site web avec la forge ?](Créer un site web)
+4. [Comment travailler à plusieurs sur un même projet ?](Travail collaboratif à plusieurs)
+5. [Comment travailler en local sur un projet ?](Travailler en local sur son ordinateur)
+6. [J'ai d'autres questions, j'aimerais trouver de l'aide](Trouver de l'aide)
 
 ## Présentation générale
 
