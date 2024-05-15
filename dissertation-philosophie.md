@@ -186,6 +186,8 @@ On peut parfois faire appel à une troisième stratégie :
 - comment je problématise
 - comment je peux problématiser
 - trouver une problématique
+- trouver un problème
+- problème
 
 Problématiser le sujet, c'est dégager ce qui fait problème dans la question posée. Il s'agit de montrer que ce n'est pas si simple de répondre à cette question.
 Le meilleur moyen est de dégager une tension entre une première réponse spontanée à cette question, qui semble justifiée, et une autre réponse, opposée, qui semble elle aussi justifiée.
