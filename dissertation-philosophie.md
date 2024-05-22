@@ -162,8 +162,9 @@ Quand on construit son raisonnement, on doit donc :
 1. [OK, mais comment on fait pour critiquer une idée ?](Objection)
 2. [J'aimerais revoir comment on fait pour trouver des idées](Trouver des idées)
 
-## Objection
+## Objections
 - objection
+- trouver des objections
 - critiquer un argument
 - critiquer une idée
 
