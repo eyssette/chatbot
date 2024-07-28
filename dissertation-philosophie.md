@@ -159,7 +159,7 @@ Quand on construit son raisonnement, on doit donc :
 - vérifier le point de départ de son argumentation : ce que je dis est-il acceptable ?
 - vérifier ce qui nous fait passer d'une idée à une autre : y a-t-il un lien logique ?
 
-1. [OK, mais comment on fait pour critiquer une idée ?](Objection)
+1. [OK, mais comment on fait pour critiquer une idée ?](Objections)
 2. [J'aimerais revoir comment on fait pour trouver des idées](Trouver des idées)
 
 ## Objections
