@@ -420,6 +420,8 @@ Au maximum, on met 4 arguments dans une partie (donc on a maximum 4 sous-parties
 - utiliser des références
 - utiliser des auteurs
 - utiliser des thèses
+- mettre des références
+- mettre des auteurs
 
 Dans chaque sous-partie, on s'efforce d'utiliser une (et une seule) référence philosophique.
 Le but est de pouvoir approfondir son idée avec la pensée d'un⋅e philosophie, ou avec un courant philosophique, ou de manière plus générale avec des connaissances philosophiques (des définitions, des distinctions conceptuelles).
