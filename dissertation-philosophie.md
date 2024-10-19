@@ -354,7 +354,10 @@ Pour faire son plan détaillé au brouillon :
 ## Thèse antithèse synthèse
 - thèse antithèse synthèse
 - faire un plan thèse antithèse synthèse
+- faire un plan thèse antithèse
 - plan thèse antithèse synthèse
+- plan thèse antithèse
+- thèse antithèse
 - antithèse
 - synthèse
 - plan dialectique
