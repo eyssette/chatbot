@@ -42,6 +42,12 @@ Il faut idéalement compter environ 1h30 (2h maximum) pour le travail au brouill
 - faire pareil que l'année dernière
 - comme en français
 - comme en Lettres
+- dissert en français
+- dissert en Lettres
+- même méthode qu'en français
+- même méthode qu'en Lettres
+- même chose qu'en français
+- même chose qu'en Lettres
 
 Il y a des similitudes entre la dissertation en français en Première et la dissertation en philosophie en Terminale.
 
