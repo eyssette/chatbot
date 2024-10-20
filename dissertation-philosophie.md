@@ -388,6 +388,9 @@ Pour faire son plan détaillé au brouillon :
 - synthèse
 - plan dialectique
 - dialectique
+- une thèse une antithèse
+- une thèse et une antithèse
+- une thèse, une antithèse, une synthèse
 
 Le plan "thèse antithèse synthèse", parfois appelé "plan dialectique", est plutôt mal nommé, car il donne l'impression qu'on va simplement dire oui, puis non, et ensuite … on ne voit pas trop ou alors une sorte de réponse très vague (un peu oui, un peu non).
 Ce n'est pas ce qu'il faut faire !
