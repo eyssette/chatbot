@@ -35,6 +35,26 @@ Il faut idéalement compter environ 1h30 (2h maximum) pour le travail au brouill
 2. [Comment on rédige ?](Rédiger)
 
 
+## Pareil qu'en français en première ?
+- français
+- Lettres
+- première
+- faire pareil que l'année dernière
+- comme en français
+- comme en Lettres
+
+Il y a des similitudes entre la dissertation en français en Première et la dissertation en philosophie en Terminale.
+
+- Dans les deux cas, il faut s'appliquer au brouillon à chercher des idées puis à les organiser.
+- Dans les deux cas, il faut structurer son devoir avec une introduction, un développement et une conclusion.
+- Dans les deux cas, il faut argumenter et justifier son propos de manière précise, en mobilisant ses connaissances.
+
+Cependant, il y a des différences.
+
+Dans la dissertation en français, l'accent est mis sur l'interprétation des œuvres, ce qui implique de comprendre les intentions de l'auteur, les thèmes abordés, les figures de style, et le contexte historique ou culturel.
+
+Dans la dissertation en philosophie, ces aspects-là n'ont pas ou peu d'intérêt. L'accent est mis sur les problèmes et les perspectives de résolution possible. Ce qui compte ce sont les idées, les concepts et les arguments. L'approche est plus analytique et l'argumentation est fondée sur les articulations logiques entre les concepts.
+
 ## Brouillon
 - brouillon
 - avant la rédaction
