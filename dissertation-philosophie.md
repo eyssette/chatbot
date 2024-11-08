@@ -456,6 +456,7 @@ Au maximum, on met 4 arguments dans une partie (donc on a maximum 4 sous-parties
 - utiliser des thèses
 - mettre des références
 - mettre des auteurs
+- des références
 
 Dans chaque sous-partie, on s'efforce d'utiliser une (et une seule) référence philosophique.
 Le but est de pouvoir approfondir son idée avec la pensée d'un⋅e philosophie, ou avec un courant philosophique, ou de manière plus générale avec des connaissances philosophiques (des définitions, des distinctions conceptuelles).
@@ -485,6 +486,7 @@ Attention, dans ce cas :
 - combien il faut mettre d'exemples
 - combien il doit y avoir d'exemples
 - il faut en mettre combien des exemples
+- des exemples
 
 Dans chaque sous-partie, on essaie de mobiliser un (et un seul) exemple concret précis. 
 Un exemple n'est pas une preuve. Le but est simplement de dégager le sens concret de son idée en montrant comme l'idée s'applique dans la réalité.
