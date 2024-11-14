@@ -691,10 +691,15 @@ _[On fait un paragraphe (250-500 mots) qui suit idéalement le modèle ARES, plu
 ## Rédiger une transition
 - rédiger une transition
 - transition
+- transition entre chaque partie
+- transition entre parties
+- transition entre sous-partie
 - articulations
 - articuler
 
-C'est important de faire des transitions entre ses idées afin de bien montrer qu'on est en train de suivre une progression logique et qu'il n'y a pas seulement une succession chronologique d'idées sans organisation (ça et puis ça, et puis ça …)
+C'est important de faire des transitions entre ses idées afin de bien montrer qu'on est en train de suivre une progression logique et qu'il n'y a pas seulement une succession chronologique d'idées sans organisation (ça et puis ça, et puis ça …).
+
+Entre chaque sous-partie, on s'efforce donc de faire une transition, et entre chaque partie il est absolument essentiel de faire une transition afin de bien clarifier la structure générale de votre plan.
 
 Pour rédiger une transition, on peut : 
 - s'aider d'une distinction conceptuelle qui va permettre d'articuler ses deux idées (par exemple passer du niveau individuel au niveau social, ou du plan théorique de la connaissance au plan pratique de l'action)
