@@ -508,6 +508,17 @@ Au minimum, il faudrait avoir un exemple précis par partie.
 
 1. [J'aimerais revoir comment on fait un plan](Faire un plan)
 
+## Même auteur, même exemple
+- même auteur
+- même référence
+- même citation
+- même philosophe
+- même exemple
+
+Il n'est pas absolument interdit d'utiliser la même référence philosophique ou le même exemple dans deux parties différentes, s'il y a une véritable progression dans l'analyse.
+
+Mais c'est souvent le signe d'un problème dans l'organisation du devoir et il vaut mieux chercher à avoir à chaque fois une référence ou un exemple différent bien approprié et spécifique à chaque idée.
+
 ## Rédiger
 - rédaction
 - rédiger
