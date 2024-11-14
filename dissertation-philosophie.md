@@ -282,7 +282,7 @@ On peut enfin s'aider de la distinction entre les enjeux relatifs à notre rappo
 - faire 3 parties
 - faire 2 parties
 
-On fait 2 ou 3 parties. On essaie de faire 3 parties, mais si le plan est en 2 parties, il faudra davantage développer chaque partie.
+On fait 2 ou 3 parties (pas plus). On essaie de faire 3 parties, mais si le plan est en 2 parties, il faudra davantage développer chaque partie.
 
 Pour faire un bon plan, il y a trois principes à respecter
 
@@ -965,6 +965,15 @@ Une copie en philosophie est évaluée sur deux types de critères.
 - La mobilisation de connaissances : références théoriques et exemples concrets
 
 1. [OK, mais concrètement on peut s'attendre à quoi comme note selon le type de copie qu'on rend ?](Échelle de notes)
+
+## Originalité
+- original
+- originales
+
+Dans une dissertation en philosophie, l'originalité n'est pas essentielle. Ce qui compte avant tout, c'est de rendre un devoir bien organisé et dont le contenu est bien en lien avec le sujet, bien analysé et bien justifié.
+En revanche, une idée originale peut apporter de la pertinence à votre devoir si elle vous permet de développer une véritable nouvelle perspective sur le sujet, et si vous arrivez à l'approfondir avec une analyse et une justification précise.
+
+1. [J'aimerais mieux comprendre de manière générale les critères d'évaluation](Évaluation)
 
 ## Échelle de notes
 
