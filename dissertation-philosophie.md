@@ -309,6 +309,14 @@ Il y a trois manières possibles de progresser d'une partie à une autre :
 
 1. [OK, j'ai compris, mais comment on construit un plan à partir de ça ?](Construction du plan)
 
+## Répétition
+- répéter
+
+Il faut éviter de faire des répétitions de la même idée : le devoir doit avancer et être organisé selon une progression logique qui permet, étape par étape, de mieux construire une réponse précise et justifiée à la question posée.
+En revanche, ce n'est pas grave de répéter régulièrement les termes du sujet : au contraire, cela montre que vous cherchez à toujours bien rester dans le cadre du sujet.
+
+1. [Comment on organise sa progression dans son devoir ?](Construction du plan)
+
 ## Construction du plan
 
 Pour construire son plan, l'essentiel c'est :
