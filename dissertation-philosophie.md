@@ -123,6 +123,12 @@ Il y a plusieurs stratégies possibles d'analyse :
 - éviter le hors sujet
 - faire du hors sujet
 - rester dans le sujet
+- ne pas s'éloigner du sujet
+- ne pas s'éloigner de la question
+- être loin du sujet
+- lien avec le sujet
+- lien avec la question
+- loin de la question
 
 Pour éviter le hors-sujet dans une dissertation philosophique, il faut bien analyser le sujet lors du travail au brouillon et toujours vérifier le lien avec la question posée quand on rédige.
 
@@ -860,6 +866,8 @@ Au niveau du style :
 - dire je
 - le je
 - le "je"
+- style neutre
+- style objectif
 
 On a le droit d'utiliser le “je” si le “je” ne fait pas référence à soi en particulier, mais à toute personne (“je” signifie dans ce cas “on” ou “tout le monde”). C'est le cas par exemple dans le raisonnement suivant : “si je désire quelque chose, cela semble signifier que je considère cette chose comme un bien”.
 
