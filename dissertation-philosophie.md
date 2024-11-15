@@ -331,6 +331,19 @@ Il suffit de choisir une des manières de progresser d'une partie à une autre, 
 1. [J'aimerais revoir les trois manières de progresser d'une partie à une autre](Types de progression)
 2. [Quels sont les types de plan classiques ?](Plans classiques)
 
+## Changement de plan
+- changer de plan
+- changer l'organisation
+- trompé de direction
+- faire autrement
+
+Si on se rend compte, en cours de rédaction de son devoir, que son plan ne fonctionne pas finalement, on peut éventuellement changer d'organisation, en gardant bien comme objectif la cohérence globale de son devoir et la nécessité d'une progression dans ses idées.
+
+Mais cela peut être compliqué au niveau de l'organisation : il ne faut pas perdre trop de temps. Il vaut donc mieux parfois finir du mieux que l'on peut une sous-partie ou une partie.
+
+Pour éviter ce genre d'inconvénient, il faut donc bien réfléchir auparavant à son plan lors du travail au brouillon.
+
+1. [Comment bien organiser ses idées au brouillon pour faire un plan correct ?](Faire un plan)
 
 ## Troisième partie
 - troisième partie
