@@ -994,6 +994,18 @@ Les notes en philosophie ne sont pas aléatoires et arbitraires. Une copie en ph
 
 1. [OK, mais concrètement on peut s'attendre à quoi comme note selon le type de copie qu'on rend ?](Échelle de notes)
 
+## Penser comme le prof, être d'accord avec les philosophes
+- d'accord avec le prof
+- d'accord avec le philosophe
+- d'accord avec les philosophes
+- répéter le cours
+- répéter ce qu'a dit
+
+En philosophie, on ne vous demande pas de répéter ce qu'a dit votre enseignant, ou ce qu'a dit un·e philosophe.
+Vous devez mobiliser vos connaissances, donc utiliser votre cours et des références philosophiques, mais vous êtes libre dans l'organisation de vos idées et vous avez le droit de critiquer une idée vue en cours ou développée par un·e philosophe. L'essentiel sera de le faire de manière pertinente : votre critique doit être intéressante, précise et justifiée. Il faut donc se méfier de la critique facile et rapide.
+
+
+
 ## Originalité
 - original
 - originales
