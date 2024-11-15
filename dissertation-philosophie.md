@@ -974,8 +974,12 @@ Les fautes d'orthographe et surtout les fautes de syntaxe, qui jouent sur la con
 - critères d'évaluation
 - notes
 - combien je vais avoir
+- notes aléatoires
+- de la chance
+- au hasard
+- note subjective
 
-Une copie en philosophie est évaluée sur deux types de critères.
+Les notes en philosophie ne sont pas aléatoires et arbitraires. Une copie en philosophie est évaluée sur deux types de critères.
 
 ### Des critères qui portent sur la forme
 - La présentation et la formulation
