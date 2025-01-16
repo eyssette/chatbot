@@ -1,2 +1,2 @@
 # chatbot
-Des chatsbots en Markdown à utiliser avec [ChatMD](https://eyssette.forge.aeif.fr/chatMD)
+Des chatsbots en Markdown à utiliser avec [ChatMD](https://chatmd.forge.apps.education.fr)

@@ -1102,8 +1102,8 @@ Dans tous les cas, il ne faut surtout pas se décourager. Des progrès, parfois 
 - sujets du baccalauréat
 
 Pour vous entraîner sur la méthode de la dissertation en philosophie, vous pouvez :
-- voir les [archives des sujets du baccalauréat](https://eyssette.forge.aeif.fr/sujets-philosophie-bac/)
-- consulter une [base de données de sujets de dissertation](https://eyssette.forge.aeif.fr/sujets-philosophie/)
+- voir les [archives des sujets du baccalauréat](https://eyssette.forge.apps.education.fr/sujets-philosophie-bac/)
+- consulter une [base de données de sujets de dissertation](https://eyssette.forge.apps.education.fr/sujets-philosophie/)
 
 ## Faire des progrès
 - faire des progrès

@@ -244,7 +244,7 @@ Quelques exemples :
 2) [Les outils de Laurent Abbal](https://laurentabbal.forge.apps.education.fr/)
 3) [Les outils de Arnaud Champollion](https://achampollion.forge.aeif.fr/)
 4) [Les outils de Cédric Eyssette](https://eyssette.forge.aeif.fr/)
-5) [Coopmaths : MathALÉA …](https://forge.aeif.fr/coopmaths/mathalea)
+5) [Coopmaths : MathALÉA …](https://forge.apps.education.fr/coopmaths/mathalea)
 
 
 ## Créer sur la Forge
