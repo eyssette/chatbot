@@ -240,10 +240,10 @@ Mais on peut distinguer différents usages de la forge et il y a des usages simp
 Sur la Forge des Communs Numériques Éducatifs, on peut trouver des logiciels libres faits par des enseignants pour des enseignants.
 
 Quelques exemples :
-1) [Emmanuel Zimmert : La Digitale](https://forge.aeif.fr/users/ladigitale/projects)
+1) [Emmanuel Zimmert : La Digitale](https://ladigitale.dev/)
 2) [Les outils de Laurent Abbal](https://laurentabbal.forge.apps.education.fr/)
-3) [Les outils de Arnaud Champollion](https://achampollion.forge.aeif.fr/)
-4) [Les outils de Cédric Eyssette](https://eyssette.forge.aeif.fr/)
+3) [Les outils de Arnaud Champollion](https://achampollion.forge.apps.education.fr/)
+4) [Les outils de Cédric Eyssette](https://eyssette.forge.apps.education.fr/)
 5) [Coopmaths : MathALÉA …](https://forge.apps.education.fr/coopmaths/mathalea)
 
 
