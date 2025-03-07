@@ -521,6 +521,16 @@ Au minimum, il faudrait avoir un exemple précis par partie.
 
 1. [J'aimerais revoir comment on fait un plan](Faire un plan)
 
+## Différence entre un argument et un exemple
+- différence entre un exemple et un argument
+- exemple et argument
+- argument et exemple
+
+Il ne faut pas confondre un exemple et un argument.
+Un exemple sert seulement à dégager le sens concret d'une idée en montrant comment cette idée s'applique dans la réalité. Un exemple n'est pas une preuve générale de la vérité d'une idée : il montre seulement un cas particulier où l'idée fonctionne.
+Une dissertation ne doit pas en rester à une simple liste d'exemples mis les uns à la suite des autres : il faut des arguments afin de véritablement justifier, de manière générale, les idées que l'on avance.
+Pour justifier, l'argumentation doit reposer sur un travail d'analyse des notions afin de dégager des liens logiques qui permettent de passer d'une idée à une autre. Une argumentation doit suivre une progression logique dans le raisonnement : il faut enchaîner les idées avec des termes comme “si …, alors …”, “Or“, “Mais”,“Donc” …
+
 ## Même auteur, même exemple
 - même auteur
 - même référence
