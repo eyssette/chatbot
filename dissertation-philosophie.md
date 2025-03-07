@@ -221,11 +221,18 @@ On peut parfois faire appel à une troisième stratégie :
 - trouver une problématique
 - trouver un problème
 - problème
+- bonne problématique
 
 Problématiser le sujet, c'est dégager ce qui fait problème dans la question posée. Il s'agit de montrer que ce n'est pas si simple de répondre à cette question.
 Le meilleur moyen est de dégager une tension entre une première réponse spontanée à cette question, qui semble justifiée, et une autre réponse, opposée, qui semble elle aussi justifiée.
 L'idée est de saisir le débat essentiel autour de la question posée et de repérer les grands enjeux de la question, c'est-à-dire les points importants qui mettent en jeu des grands aspects de notre existence.
 C'est autour de ce débat fondamental que vous allez pouvoir construire votre plan.
+
+En résumé, pour vérifier qu'on a une bonne problématique, il faut :
+1. avoir une véritable tension entre des idées opposées
+2. montrer que ces idées sont toutes les deux à première vue justifiées
+3. cerner avec cette opposition le débat principal (ne pas se perdre dans des questions secondaires, moins importantes)
+4. ne pas s'éloigner du sujet et construire son plan autour de cette problématique
 
 1. [Comment repérer les enjeux d'une question ?](Enjeux)
 2. [Comment faire un plan ?](Faire un plan)
