@@ -1220,4 +1220,10 @@ Merci ! Si vous aimez ce travail, vous aimerez peut-être aussi les autres outil
 - apprendre
 
 Pour se préparer à la dissertation, il est important tout d'abord de réviser la méthode en reprenant : les conseils généraux pour le travail au brouillon du sujet et pour la rédaction de la dissertation ; le ou les modèles de dissertation rédigée(s) vue(s) en cours ; les remarques sur ses anciens devoirs afin de les prendre en compte pour progresser.
-Il faut par ailleurs réviser son cours afin d'avoir suffisament de connaissances philosophiques pour mieux analyser, problématiser et argumenter.
+Il faut par ailleurs réviser son cours afin d'avoir suffisament de connaissances philosophiques pour mieux analyser, problématiser, trouver des idées et argumenter.
+
+1. [Comment on fait pour analyser le sujet ?](Analyser le sujet)
+2. [Comment on problématise le sujet ?](Problématiser le sujet)
+3. [Comment on trouve des idées ?](Trouver des idées)
+4. [Comment argumenter ?](Argumenter)
+5. [Comment utiliser ses connaissances](Utiliser ses connaissances)
