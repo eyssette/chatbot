@@ -1203,3 +1203,11 @@ La méthode n'est pas tout à fait la même pour la dissertation en philosophie.
 - sympa
 
 Merci ! Si vous aimez ce travail, vous aimerez peut-être aussi les autres outils ou sites que je propose sur [mon site perso](https://eyssette.github.io).
+
+## Qu'est-ce qu'il faut réviser ?
+- réviser
+- révision
+- apprendre
+
+Pour se préparer à la dissertation, il est important tout d'abord de réviser la méthode en reprenant : les conseils généraux pour le travail au brouillon du sujet et pour la rédaction de la dissertation ; le ou les modèles de dissertation rédigée(s) vue(s) en cours ; les remarques sur ses anciens devoirs afin de les prendre en compte pour progresser.
+Il faut par ailleurs réviser son cours afin d'avoir suffisament de connaissances philosophiques pour mieux analyser, problématiser et argumenter.
