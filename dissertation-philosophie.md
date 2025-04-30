@@ -874,7 +874,7 @@ Voici un exemple de conclusion rédigée sur le sujet « Le bonheur n'est-il qu'
 _[On reprend le sujet]_ Le bonheur n'est-il qu'un idéal ? _[On synthétise son développement avec les transitions entre parties]_ Le concept de bonheur semble indéterminé, nos désirs ont tendance à nous emprisonner dans un cycle d'insatisfactions et le tragique de l'existence pourrait sembler insurmontable. Cependant, un art d'être heureux n'est-il pas malgré tout possible ? Sans prétendre parvenir à une science du bonheur, nous pouvons chercher à retrouver le simple plaisir d'exister et parvenir à accepter ce qui ne dépend pas de nous. Peut-on pour autant réduire l'idéal du bonheur à un tel mode de vie ? Le plaisir simple d'exister ne suffit pas car nous désirons vivre une vie riche et pleine de sens, et nous voulons nous inscrire dans le réel plutôt que simplement l'accepter. [On finit par une réponse claire au sujet] Le bonheur n'est en définitive pas qu'un idéal : nous avons défendu ici l'idée qu'il se trouve dans l'exercice de nos facultés et notre engagement dans des formes de participation au réel et d'enrichissement de l'existence.
 
 1. [OK, j'ai compris comment rédiger chaque moment en particulier de la dissertation. Mais quels sont en général les conseils utiles à suivre pour bien rédiger ?](Rédiger conseils généraux)
-2. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluer)
+2. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluation)
 
 ## Rédiger conseils généraux
 - conseils pour rédiger
@@ -893,7 +893,7 @@ Voici quelques conseils généraux pour la rédaction de la copie :
 
 1. [J'ai aussi des questions sur le style, la manière d'écrire](Rédiger style)
 2. [Je veux revoir comment on rédige chaque moment de la dissertation](Rédiger)
-3. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluer)
+3. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluation)
 
 ## Rédiger style
 - style
@@ -913,7 +913,7 @@ Au niveau du style :
 1. [J'aimerais avoir des conseils plus précis sur la manière de formuler mes idées](Formuler ses idées)
 2. [Y a-t-il des formules à éviter ?](Formules à éviter)
 3. [Je veux revoir comment on rédige chaque moment de la dissertation](Rédiger)
-4. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluer)
+4. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluation)
 
 ## Dire je
 - utiliser le je
@@ -930,7 +930,7 @@ Il faut en revanche éviter d’utiliser les formules comme “je pense que”, 
 1. [J'aimerais revoir les autres conseils sur le style](Rédiger style)
 2. [Y a-t-il d'autres formules à éviter ?](Formules à éviter)
 3. [Je veux revoir comment on rédige chaque moment de la dissertation](Rédiger)
-4. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluer)
+4. [J'ai fini de rédiger ma dissertation. Comment ma copie va-t-elle être évaluée ?](Évaluation)
 
 ## Sauter des lignes
 - sauter des lignes
