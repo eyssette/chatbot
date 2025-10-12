@@ -1,6 +1,7 @@
 ---
 searchInContent: true
 detectBadWords: true
+scorm: true
 ---
 
 # La dissertation en philosophie
