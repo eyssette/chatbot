@@ -1,4 +1,5 @@
 ---
+darkmode: false
 theme: light
 avatar: https://upload.wikimedia.org/wikipedia/commons/7/77/Flickr_-_Government_Press_Office_%28GPO%29_-_Jean_Paul_Sartre_and_Simone_De_Beauvoir_welcomed_by_Avraham_Shlonsky_and_Leah_Goldberg_%28cropped%29.jpg
 avatarCercle: true
@@ -36,31 +37,72 @@ Bonjour, je suis là pour t'accompagner dans la lecture de ma conférence _L'exi
 
 Comment puis-je t'aider ?
 
-1. [J'aimerais en savoir un peu plus sur toi, Sartre !](qui es-tu Sartre ?)
+1. [J'aimerais en savoir un peu plus sur toi, Sartre !](Qui es-tu Sartre ?)
 1. [Je veux comprendre la structure générale de cette conférence](Comprendre la structure générale)
 2. [Je veux travailler sur un texte en particulier](Travailler sur un texte en particulier)
 
-## qui es-tu Sartre ?
+## Revenir à la conférence
 
-Je suis Jean-Paul Sartre, né en 1905 et mort en 1980. J’ai développé une philosophie existentialiste, fondée sur la liberté fondamentale de l'être humain.
+Que veux-tu faire ?
 
-Je pense que l'être humain n’est pas prédéterminé : il se définit par ses actes. Sans dieu pour imposer un sens, nous sommes condamnés à être libres, à choisir et à assumer nos choix.
+1. [Comprendre la structure générale de cette conférence](Comprendre la structure générale)
+2. [Travailler sur un texte en particulier](Travailler sur un texte en particulier)
 
-J’ai exploré ces idées à travers la philosophie, notamment dans _L’Être et le Néant_, mais aussi dans la littérature avec des romans, comme _La Nausée_, ou des pièces de théâtre, comme _Huis clos_.
+## Qui es-tu Sartre ?
 
+Je suis Jean-Paul Sartre, né en 1905 et mort en 1980.
+
+Voici une première présentation de mon parcours et de mes idées !
+
+\`
+
+:::info Mes idées principales
+J’ai développé une philosophie, **l'existentialisme**, fondée sur la liberté fondamentale de l'être humain.
+
+Je pense que l'être humain n’est pas prédéterminé : il se définit par ses actes.
+
+Sans dieu pour imposer un sens, nous sommes condamnés à être libres, à choisir et à assumer nos choix.
+:::
+
+:::info Mes œuvres
+J’ai exploré ces idées à travers :
+- la philosophie, notamment dans _L’Être et le Néant_,
+- mais aussi dans la littérature : avec des romans, comme _La Nausée_, ou des pièces de théâtre, comme _Huis clos_.
+:::
+
+:::info Mon engagement politique
 Je suis également un intellectuel engagé : je refuse de séparer la pensée de l’action. La philosophie ne doit pas être une contemplation abstraite, elle doit s’inscrire dans le monde et y prendre position.
+:::
+
+\`
 
 1. [Dans quelle mesure as-tu été un intellectuel engagé ?](Un intellectuel engagé)
+2. [Revenir à la conférence](Revenir à la conférence)
 
 ## Un intellectuel engagé
 
-J'ai souvent mis ma plume au service des minorités délaissées. Je me suis attaqué à l'antisémitisme en France (dans mes _Réflexions sur la question juive_) ou encore au racisme et aux discriminations dont sont victimes les noirs américains. J'ai critiqué le colonialisme et soutenu l'indépendance de l'Algérie.
+J'ai souvent mis ma plume au service des minorités délaissées.
 
+Je te propose ci-dessous de découvrir mes engagements !
+
+\`
+
+:::info Lutte contre l'antisémitisme, le racisme et le colonialisme
+Je me suis attaqué à l'antisémitisme en France (dans mes _Réflexions sur la question juive_) ou encore au racisme et aux discriminations dont sont victimes les noirs américains.
+
+J'ai critiqué le colonialisme et soutenu l'indépendance de l'Algérie.
+:::
+
+:::info L'écriture comme acte politique
 J’ai toujours vu l’écriture comme un acte politique. Dans _Qu’est-ce que la littérature ?_, j’explique que l’écrivain a une responsabilité et ne peut pas être neutre face aux injustices.
 
 Politiquement, je me suis rapproché des marxistes et du communisme, tout en prenant mes distances avec ces mouvements.
+:::
+
+\`
 
 1. [Explique plus précisément tes rapports avec le marxisme et le communisme](Rapports avec le marxisme et le communisme)
+2. [Revenir à la conférence](Revenir à la conférence)
 
 ## Rapports avec le marxisme et le communisme
 
@@ -69,6 +111,10 @@ Pour moi, le marxisme offre un cadre puissant pour comprendre les rapports de cl
 Dans _Critique de la raison dialectique_ (1960), j’essaie de réconcilier l’existentialisme et le marxisme. Je propose une synthèse où l’individu, tout en étant façonné par des structures sociales, conserve une liberté d’action
 
 J’ai entretenu une relation ambivalente avec le Parti communiste français (PCF). Après la Seconde Guerre mondiale, le PCF représente pour moi la résistance au fascisme et l’espoir d’un monde plus juste. J’ai néanmoins critiqué plus tard les dérives autoritaires du régime soviétique.
+
+
+1. [Je veux revenir à ta conférence <i>L'existentialisme est un humanisme</i> et en comprendre la structure générale](Comprendre la structure générale)
+2. [Je veux travailler sur un texte en particulier](Travailler sur un texte en particulier)
 
 ## Comprendre la structure générale
 
@@ -89,7 +135,7 @@ Quel texte veux-tu travailler plus précisément ?
 
 ## Texte 1
 
-:::info collapsible Texte 1
+:::info collapsible Texte 1 – Les reproches contre l'existentialisme (clique pour relire le texte)
 @{texte1}
 :::
 
@@ -101,7 +147,7 @@ Que souhaites-tu faire ?
 
 ## Texte 2
 
-:::info collapsible Texte 2
+:::info collapsible Texte 2 – Deux formes d'essentialisme (clique pour relire le texte)
 @{texte2}
 :::
 
@@ -113,7 +159,7 @@ Que souhaites-tu faire ?
 
 ## Texte 3
 
-:::info collapsible Texte 3
+:::info collapsible Texte 3 – L'existentialisme athée (clique pour relire le texte)
 @{texte3}
 :::
 
@@ -125,7 +171,7 @@ Que souhaites-tu faire ?
 
 ## Texte 4
 
-:::info collapsible Texte 4
+:::info collapsible Texte 4 – L'être humain est responsable de ce qu'il est (clique pour relire le texte)
 @{texte4}
 :::
 
@@ -138,7 +184,7 @@ Que souhaites-tu faire ?
 
 ## Texte 5
 
-:::info collapsible Texte 5
+:::info collapsible Texte 5 – L'être humain est condamné à être libre (clique pour relire le texte)
 @{texte5}
 :::
 
@@ -151,7 +197,7 @@ Que souhaites-tu faire ?
 
 ## Texte 6
 
-:::info collapsible Texte 6
+:::info collapsible Texte 6 – De la subjectivité à l'intersubjectivité (clique pour relire le texte)
 @{texte6}
 :::
 
@@ -176,7 +222,7 @@ Question que j'ai posé : `@questionEleveTexte6`
 
 Texte de Sartre : @{texte6}
 
-Réponds en me tutoyant. Ta réponse à ma question :
+Réponds en me tutoyant.
 
 `END !useLLM`
 
