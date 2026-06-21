@@ -9,6 +9,13 @@ useLLM:
    encryptedAPIkey: F0EYFS8tOANZWgUTCAshIRkWCyktPxkVWTwIAxUqBgo1CCEcSlULDA==
    model: command-r-plus-08-2024
    maxTokens: false
+style: |
+   .admonitionTitle span {
+       font-weight: normal;
+       display: block;
+       margin-left: 3em;
+       margin-top: 5px;
+   }
 variables:
    texte1: |
       Je voudrais ici défendre l'existentialisme contre un certain nombre de reproches qu'on lui a adressés.
@@ -118,8 +125,43 @@ J’ai entretenu une relation ambivalente avec le Parti communiste français (PC
 
 ## Comprendre la structure générale
 
+\`
+<style>
+   ol {
+      list-style-type: upper-alpha;
+      margin-right: 1em;
+   }
+   ol li {
+      padding-left: 0.25em;
+   }
+</style>
+\`
 
-![](https://minio.apps.education.fr/codimd-prod/uploads/upload_4da55489f83a0c3ce81a0d2d4903e907.png)
+Il n'y a pas de plan apparent dans _L'existentialisme est un humanisme_, mais on peut identifier deux grandes parties.
+
+Clique sur les titres ci-dessous pour voir un résumé de chaque partie.
+
+:::info collapsible I - Clarification du principe fondamental de l'existentialisme : <span>L'être humain est libre et responsable de ce qu'il est</span>
+
+1. Des reproches sont adressés à l'existentialisme
+   - Texte 1 : les reproches contre l'existentialisme
+2. Ces reproches montrent que l'existentialisme est mal compris et qu'il est nécessaire de clarifier son principe fondamental : l'idée que chez l'être humain l'existence précède l'essence.
+   - Texte 2 : l'existentialisme se distingue de deux formes d'essentialisme
+   - Texte 3 : l'existentialisme athée de Sartre repose sur l'idée que l'existence précède l'essence
+   - Texte 4 : si l'existence précède l'essence, cela signifie que l'être humain est responsable de ce qu'il est
+3. Cette idée implique que l'être humain est libre et responsable de ce qu'il est, ce qui concrètement se vit à travers deux expériences : l'angoisse et le délaissement
+   - Texte 5 : l'être humain est condamné à être libre
+
+:::
+
+:::info collapsible II - Défense d'une forme d'humanisme : <span>L'existentialisme valorise l'action et l'engagement de l'être humain dans un monde partagé avec autrui</span>
+
+1. L'existentialisme conduit à une forme de désespoir
+2. Mais ce désespoir n'enferme pas l'individu dans l'inaction : l'existentialisme valorise l'action et l'engagement de l'être humain
+3. Cet engagement n'a de sens que dans un monde partagé avec autrui : l'existentialisme n'enferme pas l'individu dans sa subjectivité, c'est une philosophie de l'intersubjectivité
+   - Texte 6 : de la subjectivité à l'intersubjectivité
+
+:::
 
 
 ## Travailler sur un texte en particulier
@@ -144,6 +186,7 @@ Que souhaites-tu faire ?
 1. [J'aimerais des explications sur ce texte](Texte 1 - explications)
 2. [Je veux poser une question à propos de ce texte](Texte 1 - poser une question)
 3. [Je veux tester ma compréhension du texte](Texte 1 - tester sa compréhension)
+4. [Je veux travailler sur un autre texte](Travailler sur un texte en particulier)
 
 ## Texte 2
 
@@ -156,6 +199,7 @@ Que souhaites-tu faire ?
 1. [J'aimerais des explications sur ce texte](Texte 2 - explications)
 2. [Je veux poser une question à propos de ce texte](Texte 2 - poser une question)
 3. [Je veux tester ma compréhension du texte](Texte 2 - tester sa compréhension)
+4. [Je veux travailler sur un autre texte](Travailler sur un texte en particulier)
 
 ## Texte 3
 
@@ -168,6 +212,7 @@ Que souhaites-tu faire ?
 1. [J'aimerais des explications sur ce texte](Texte 3 - explications)
 2. [Je veux poser une question à propos de ce texte](Texte 3 - poser une question)
 3. [Je veux tester ma compréhension du texte](Texte 3 - tester sa compréhension)
+4. [Je veux travailler sur un autre texte](Travailler sur un texte en particulier)
 
 ## Texte 4
 
@@ -180,6 +225,7 @@ Que souhaites-tu faire ?
 1. [J'aimerais des explications sur ce texte](Texte 4 - explications)
 2. [Je veux poser une question à propos de ce texte](Texte 4 - poser une question)
 3. [Je veux tester ma compréhension du texte](Texte 4 - tester sa compréhension)
+4. [Je veux travailler sur un autre texte](Travailler sur un texte en particulier)
 
 
 ## Texte 5
@@ -193,6 +239,7 @@ Que souhaites-tu faire ?
 1. [J'aimerais des explications sur ce texte](Texte 5 - explications)
 2. [Je veux poser une question à propos de ce texte](Texte 5 - poser une question)
 3. [Je veux tester ma compréhension du texte](Texte 5 - tester sa compréhension)
+4. [Je veux travailler sur un autre texte](Travailler sur un texte en particulier)
 
 
 ## Texte 6
@@ -206,6 +253,7 @@ Que souhaites-tu faire ?
 1. [J'aimerais des explications sur ce texte](Texte 6 - explications)
 1. [Je veux poser une question à propos de ce texte](Texte 6 - poser une question)
 2. [Je veux tester ma compréhension du texte](Texte 6 - tester sa compréhension)
+4. [Je veux travailler sur un autre texte](Travailler sur un texte en particulier)
 
 ## Texte 6 - poser une question
 
