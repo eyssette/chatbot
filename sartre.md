@@ -11,7 +11,6 @@ useLLM:
    encryptedAPIkey: true
    model: gpt-oss-120b
    stream: false
-   simulateStreaming: true
 style: |
    .admonitionTitle span {
        font-weight: normal;
@@ -320,7 +319,91 @@ As-tu une autre question ?
 1. [Retour au texte 1](Texte 1)
 2. [Je veux travailler sur un autre texte](Travailler sur un texte en particulier)
 
+## Texte 1 - tester sa compréhension
 
+!Keyboard: true
+
+Je vais te proposer une question pour tester ta compréhension du texte 1 (attends un peu, je dois réfléchir avant).
+
+
+
+<div class="questionTexte1" markdown>
+
+`!useLLM`
+
+Pose une question sur l'un des points importants du texte suivant de Sartre pour voir si j'ai bien compris le texte.
+La question ne doit pas être formulée de manière trop compliquée.
+
+### Types de questions possibles
+- Demander une définition d'un terme ou d'une notion
+- Demander une explication d'une idée ou d'un passage du texte
+- Demander un exemple concret pour illustrer une idée du texte
+- Demander une comparaison entre deux idées du texte
+
+### Texte de Sartre
+
+@{texte1}
+
+### Points importants du texte
+@{texte1-points-importants}
+
+### Instructions
+
+- Tire au hasard un des points importants du texte sur lequel poser une question
+- S'il y a une question précédente, change de thème : la question ne doit pas porter sur les mêmes notions et le même point important que la question précédente
+   - Question précédente : `@SELECTOR[".questionTexte1"]`
+- Formule une question claire et concise sur ce point important, en utilisant un langage simple et compréhensible pour un élève de lycée
+- La question doit être en rapport direct avec le texte et la philosophie de Sartre
+- Formule la question elle-même sans syntaxe Markdown ou HTML, de manière brute
+
+### Format attendu
+
+:::question Question
+
+QUESTION_POSEE_SUR_LE_TEXTE
+
+:::
+
+`END !useLLM`
+
+</div>
+
+Réponds à cette question, je vais te proposer ensuite une évaluation.
+
+!Next: Texte 1 - tester sa compréhension - évaluation de la réponse de l'élève
+
+## Texte 1 - tester sa compréhension - évaluation de la réponse de l'élève
+
+:::warning Évaluation générée par une IA
+Attention, cette évaluation de ta réponse est générée par une IA : garde l'esprit critique !
+:::
+
+Voici mon évaluation (attends un peu, je dois réfléchir avant).
+
+`!useLLM`
+
+J'ai répondu à une question sur un texte de Sartre.
+Évalue ma réponse.
+
+### Question posée
+`@SELECTOR[".questionTexte1"]`
+
+### Ma réponse
+`@INPUT`
+
+### Texte de Sartre
+@{texte1}
+
+### Instructions
+- Vérifie que ma réponse est correcte et complète
+   - Il faut que ma réponse corresponde à la question posée et qu'elle soit en accord avec le texte et la philosophie de Sartre.
+   - Il faut que ma réponse définisse bien les termes ou notions importantes dans la question posée
+- Évalue ma réponse de manière claire et concise :
+   - Si ma réponse est correcte, explique pourquoi elle est correcte et complète.
+   - Si ma réponse est incorrecte ou incomplète, dis simplement ce qui pourrait être amélioré, mais en étant bienveillant et constructif dans la formulation (sans souligner les manques et les erreurs de manière négative).
+- Rédige ton évaluation en 1 paragraphe seulement, mais en sautant une ligne entre chaque phrase pour que ce soit plus clair.
+
+`END !useLLM`
 
 ## Texte 2
 
