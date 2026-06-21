@@ -1,14 +1,17 @@
 ---
 darkmode: false
+keyboard: false
 theme: light
 avatar: https://upload.wikimedia.org/wikipedia/commons/7/77/Flickr_-_Government_Press_Office_%28GPO%29_-_Jean_Paul_Sartre_and_Simone_De_Beauvoir_welcomed_by_Avraham_Shlonsky_and_Leah_Goldberg_%28cropped%29.jpg
 avatarCercle: true
 contenuDynamique: true
 useLLM:
-   url: https://api.cohere.com/v1/chat
-   encryptedAPIkey: F0EYFS8tOANZWgUTCAshIRkWCyktPxkVWTwIAxUqBgo1CCEcSlULDA==
-   model: command-r-plus-08-2024
-   maxTokens: false
+   url: https://n8n.incubateur.education.gouv.fr/webhook/ilaas-chatmd
+   isSecureAPI: true
+   encryptedAPIkey: true
+   model: gpt-oss-120b
+   stream: false
+   simulateStreaming: true
 style: |
    .admonitionTitle span {
        font-weight: normal;
@@ -33,6 +36,12 @@ variables:
       L'existentialiste ne pensera pas non plus que l'homme peut trouver un secours dans un signe donné, sur terre, qui l'orientera ; car il pense que l'homme déchiffre lui-même le signe comme il lui plaît. Il pense donc que l'homme, sans aucun appui et sans aucun secours, est condamné à chaque instant à inventer l'homme.
    texte6: |
      Tout matérialisme a pour effet de traiter tous les hommes, y compris soi-même, comme des objets, c'est-à-dire comme un ensemble de réactions déterminées, que rien ne distingue de l'ensemble des qualités et des phénomènes qui constituent une table ou une chaise ou une pierre. Nous voulons constituer précisément le règne humain comme un ensemble de valeurs distinctes du règne matériel. Mais la subjectivité que nous atteignons là à titre de vérité n'est pas une subjectivité rigoureusement individuelle, car nous avons démontré que dans le _cogito_, on ne se découvrait pas seulement soi-même, mais aussi les autres. Par le _je pense_, contrairement à la philosophie de Descartes, contrairement à la philosophie de Kant, nous nous atteignons nous-mêmes en face de l'autre, et l'autre est aussi certain pour nous que nous-mêmes. Ainsi, l'homme qui s'atteint directement par le _cogito_ découvre aussi tous les autres, et il les découvre comme la condition de son existence. Il se rend compte qu'il ne peut rien être (au sens où l'on dit qu'on est spirituel, ou qu'on est méchant, ou qu'on est jaloux) sauf si les autres le reconnaissent comme tel. Pour obtenir une vérité quelconque sur moi, il faut que je passe par l'autre. L'autre est indispensable à mon existence, aussi bien d'ailleurs qu'à la connaissance que j'ai de moi. Dans ces conditions, la découverte de mon intimité me découvre en même temps l'autre, comme une liberté posée en face de moi, qui me pense, et qui ne veut que pour ou contre moi. Ainsi découvrons-nous tout de suite un monde que nous appellerons l'intersubjectivité, et c'est dans ce monde que l'homme décide ce qu'il est et ce que sont les autres.
+   texte1-points-importants: |
+      1. Sartre défend l'existentialisme contre des critiques venant de différentes perspectives, notamment communistes et chrétiennes. Cela montre une volonté de clarifier les malentendus autour de sa philosophie.
+      2. Les communistes reprochent à l'existentialisme de mener à un désespoir qui paralyse l'action.
+      3. Les catholiques reprochent à l'existentialisme une vision sombre de l'humanité, qui empêcherait de saisir la beauté et la bonté de l'être humain.
+      4. Les communistes et les catholiques reprochent à l'existentialisme d'enfermer l'individu dans sa subjectivité, ce qui le rendrait incapable de participer à la solidarité humaine.
+      5. De plus, les chrétiens ajoutent un autre reproche : l'existentialisme, en niant les commandements de Dieu et les valeurs éternelles, laisserait l'homme libre de faire ce qu'il veut, ce qui rendrait impossible tout jugement moral.
    questionsSartreTexte6: |
       Définis ce qu'est le matérialisme /// Ce texte défend-il le matérialisme ? /// Qu'est-ce que la subjectivité ? /// 
 ---
@@ -126,7 +135,7 @@ J’ai entretenu une relation ambivalente avec le Parti communiste français (PC
 ## Comprendre la structure générale
 
 \`
-<style>
+<style scoped>
    ol {
       list-style-type: upper-alpha;
       margin-right: 1em;
@@ -144,13 +153,13 @@ Clique sur les titres ci-dessous pour voir un résumé de chaque partie.
 :::info collapsible I - Clarification du principe fondamental de l'existentialisme : <span>L'être humain est libre et responsable de ce qu'il est</span>
 
 1. Des reproches sont adressés à l'existentialisme
-   - Texte 1 : les reproches contre l'existentialisme
+   - [Texte 1 : les reproches contre l'existentialisme](#Texte 1)
 2. Ces reproches montrent que l'existentialisme est mal compris et qu'il est nécessaire de clarifier son principe fondamental : l'idée que chez l'être humain l'existence précède l'essence.
-   - Texte 2 : l'existentialisme se distingue de deux formes d'essentialisme
-   - Texte 3 : l'existentialisme athée de Sartre repose sur l'idée que l'existence précède l'essence
-   - Texte 4 : si l'existence précède l'essence, cela signifie que l'être humain est responsable de ce qu'il est
+   - [Texte 2 : l'existentialisme se distingue de deux formes d'essentialisme](#Texte 2)
+   - [Texte 3 : l'existentialisme athée de Sartre repose sur l'idée que l'existence précède l'essence](#Texte 3)
+   - [Texte 4 : si l'existence précède l'essence, cela signifie que l'être humain est responsable de ce qu'il est](#Texte 4)
 3. Cette idée implique que l'être humain est libre et responsable de ce qu'il est, ce qui concrètement se vit à travers deux expériences : l'angoisse et le délaissement
-   - Texte 5 : l'être humain est condamné à être libre
+   - [Texte 5 : l'être humain est condamné à être libre](#Texte 5)
 
 :::
 
@@ -158,10 +167,12 @@ Clique sur les titres ci-dessous pour voir un résumé de chaque partie.
 
 1. L'existentialisme conduit à une forme de désespoir
 2. Mais ce désespoir n'enferme pas l'individu dans l'inaction : l'existentialisme valorise l'action et l'engagement de l'être humain
-3. Cet engagement n'a de sens que dans un monde partagé avec autrui : l'existentialisme n'enferme pas l'individu dans sa subjectivité, c'est une philosophie de l'intersubjectivité
-   - Texte 6 : de la subjectivité à l'intersubjectivité
+3. Cet engagement n'a de sens que dans un monde partagé avec autrui : l'existentialisme n'enferme pas l'individu dans sa subjectivité, c'est une philosophie de l'intersubjectivité
+   - [Texte 6 : de la subjectivité à l'intersubjectivité](#Texte 6)
 
 :::
+
+1. [Je veux maintenant travailler sur un texte en particulier](Travailler sur un texte en particulier)
 
 
 ## Travailler sur un texte en particulier
@@ -187,6 +198,129 @@ Que souhaites-tu faire ?
 2. [Je veux poser une question à propos de ce texte](Texte 1 - poser une question)
 3. [Je veux tester ma compréhension du texte](Texte 1 - tester sa compréhension)
 4. [Je veux travailler sur un autre texte](Travailler sur un texte en particulier)
+
+## Texte 1 - explications
+
+Voici les points importants de ce texte :
+
+
+\`
+
+:::info Points importants du texte 1
+@{texte1-points-importants}
+:::
+
+\`
+
+1. [Explique moi le point n°1 @point-à-expliquer=1](Texte 1 - explications plus précises)
+2. [Explique moi le point n°2 @point-à-expliquer=2](Texte 1 - explications plus précises)
+3. [Explique moi le point n°3 @point-à-expliquer=3](Texte 1 - explications plus précises)
+4. [Explique moi le point n°4 @point-à-expliquer=4](Texte 1 - explications plus précises)
+5. [Explique moi le point n°5 @point-à-expliquer=5](Texte 1 - explications plus précises)
+1. [Je veux travailler sur un autre texte](Travailler sur un texte en particulier)
+
+## Texte 1 - explications plus précises
+
+Regarde avant tout le cours pour avoir une explication plus précise.
+
+Pour t'aider, voici cependant quelques explications supplémentaires sur le point n°`@point-à-expliquer` de ce texte.
+
+\`
+
+:::warning Réponse générée par une IA
+Attention, ces explications sont proposées par une IA : garde un esprit critique et n'hésite pas à poser des questions à ton professeur !
+:::
+
+\`
+
+Je vais te proposer une explication ci-dessous, mais sois patient, je dois d'abord réfléchir un peu !
+
+`!useLLM`
+Je cherche à comprendre le point @{texte1-points-importants} de ce texte de Sartre, extrait de sa conférence _L'existentialisme est un humanisme_.
+
+### Texte de Sartre
+@{texte1}
+
+### Points importants du texte
+Voici les points importants de ce texte, que tu peux relire pour bien comprendre la structure du texte et pour identifier le point que je souhaite approfondir :
+
+@{texte1-points-importants}
+
+### Instructions
+Propose des explications supplémentaires sur le point `@point-à-expliquer` de ce texte, en t'appuyant sur tes connaissances sur Sartre et sur le texte.
+
+- Relis bien le point `@point-à-expliquer` du texte et concentre-toi uniquement sur ce point.
+- Explique de manière claire l'idée principale. L'explication ne doit pas être une simple paraphrase du texte. Elle doit vraiment aider à mieux comprendre le sens de ce passage et apporter plus de clarté et de précision.
+- L'explication ne doit pas aborder les points des autres passages du texte. Focalise-toi uniquement sur le point `@point-à-expliquer`.
+- S'il y a des termes techniques dans le passage correspondant du texte, définis-les en restant proche de la philosophie de Sartre.
+- Rédige l'explication de manière à ce qu'elle soit compréhensible par un élève de lycée, en 1 paragraphe seulement
+- N'utilise pas de syntaxe Markdown : rédige le texte de manière brute.
+
+### Format de sortie attendu
+
+:::info Proposition d'explication
+
+EXPLICATION_DU_POINT_À_EXPLIQUER
+
+:::
+
+`END !useLLM`
+
+## Texte 1 - poser une question
+
+!Keyboard: true
+
+Quelle est ta question ?
+
+!Next: Texte 1 - réponse à la question de l'élève
+
+## Texte 1 - réponse à la question de l'élève
+
+!Keyboard: true
+
+:::warning Réponse générée par une IA
+Attention, réponse générée par une IA : garde l'esprit critique !
+:::
+
+Je vais te proposer une réponse, mais sois patient, je dois d'abord réfléchir un peu !
+
+`!useLLM`
+!useHistory
+
+J'ai posé une question à propos d'un texte de Sartre. Vérifie que la question porte sur ce le texte, et réponds à cette question en utilisant tes connaissances sur Sartre et sur le texte.
+
+### Question que j'ai posé
+`@INPUT`
+
+### Texte de Sartre
+@{texte1}
+
+### Instructions
+
+- Réponds en me tutoyant, de manière courte et accessible pour un élève en lycée.
+- Reste très proche dans ta réponse de la philosophie de Sartre.
+- Si tu utilises des termes techniques, définis-les.
+- Réponds en 1 paragraphe.
+- N'utilise pas de syntaxe Markdown, rédige le texte de manière brute.
+
+### Format de sortie attendu
+
+:::info Proposition de réponse
+
+REPONSE_A_LA_QUESTION
+
+:::
+
+`END !useLLM`
+
+As-tu une autre question ?
+
+!Next: Texte 1 - réponse à la question de l'élève
+
+1. [Retour au texte 1](Texte 1)
+2. [Je veux travailler sur un autre texte](Travailler sur un texte en particulier)
+
+
 
 ## Texte 2
 
@@ -266,7 +400,7 @@ Quelle est ta question ?
 `!useLLM`
 J'ai posé une question à propos d'un texte de Sartre. Vérifie que la question porte sur ce le texte, et réponds à cette question en utilisant tes connaissances sur Sartre et sur le texte.
 
-Question que j'ai posé : `@questionEleveTexte6`
+Question que j'ai posé : `@INPUT`
 
 Texte de Sartre : @{texte6}
 
