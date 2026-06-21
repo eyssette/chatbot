@@ -1,5 +1,6 @@
 ---
 darkmode: false
+keyboard: false
 avatar: https://chatmd.forge.apps.education.fr/css/themes/emoji_information_desk.svg
 theme: light
 variablesDynamiques: true
@@ -122,6 +123,114 @@ Le jury peut s'appuyer sur la grille d'évaluation suivante :
 \`
 
 ## Trouver des idées de sujet
+
+!Keyboard: true
+
+Si tu n'as pas d'idées de sujet, je vais te poser quelques questions pour t'aider à en trouver.
+
+Quels sont les thèmes ou les questions qui t'intéressent le plus en HLP ?
+
+!Next: Trouver des idées de sujet - Références culturelles que tu aimes
+
+## Trouver des idées de sujet - Références culturelles que tu aimes
+
+!Keyboard: true
+
+`@themesOuQuestions=calc(@INPUT)`
+
+Quelles sont les livres, films, séries, musiques ou autres références culturelles que tu aimes le plus ?
+
+Il peut s'agir d'œuvres étudiées en cours, ou d'autres œuvres que tu as découvertes par toi-même.
+
+Tu peux en citer plusieurs, et si tu veux, tu peux aussi préciser ce que tu aimes dans ces œuvres.
+
+!Next: Trouver des idées de sujet - Proposition de sujets
+
+## Trouver des idées de sujet - Proposition de sujets
+
+!Keyboard: true
+
+À partir des informations que tu m'as données, je vais te proposer 5 idées de sujet pour ton Grand Oral en HLP.
+
+:::warning Réponse générée par une IA
+Attention, ces propositions sont générées par une IA : garde un esprit critique et n'hésite pas à poser des questions à ton professeur !
+:::
+
+Voici mes propositions de sujet (sois patient, je dois d'abord réfléchir un peu !).
+
+`@référencesCulturelles=calc(@INPUT)`
+
+`!useLLM`
+
+À partir des thèmes ou questions qui m'intéressent et des références culturelles que j'aime particulièrement, propose-moi 5 idées de sujet pour mon Grand Oral en HLP.
+
+### Thèmes ou questions qui m'intéressent
+`@themesOuQuestions`
+
+### Références culturelles que j'aime particulièrement
+`@référencesCulturelles`
+
+### Critères pour les sujets proposés
+- Un sujet en HLP doit être une question ouverte de réflexion.
+- Ce sujet doit porter sur au moins une des thématiques du programme : l'éducation, la recherche de soi, la sensibilité, l'histoire et la violence, la création artistique, les limites de humain (au sens soit des limites de la maîtrise de la nature par la technique, soit des limites ordinaires que la technique nous fait dépasser et qui nous interrogent sur l'effet que la technique peut avoir sur les humains).
+	- Le lien avec le sujet doit être explicite : il doit y avoir dans la question du 
+- Les sujets doivent être en lien avec les thèmes ou questions qui m'intéressent.
+- Les sujets doivent être au maximum en lien avec les références culturelles que j'aime particulièrement, mais tu peux aussi proposer des sujets qui ne sont pas directement liés à ces références, mais qui restent en lien avec les thèmes ou questions qui m'intéressent.
+sujet un mot ou une expression qui renvoie à l'une de ces thématiques.
+- Ce sujet doit idéalement porter sur une œuvre (roman, film, ou essai...), ou sur une thématique dans une série d'oeuvres. 
+- Pour chaque sujet, propose non seulement le sujet, mais aussi un lien avec le programme et des suggestions d'œuvres à étudier pour ce sujet.
+
+### Format de sortie attendu
+
+**QUESTION_DE_REFLEXION**
+EXPLICATION_DU_LIEN_AVEC_LE_PROGRAMME
+SUGGESTIONS_D_OEUVRES
+
+### Précisions sur le format
+
+Hormis la question de réflexion, qui doit être en gras et les titres des œuvres qui doivent être en italique, au format Markdown, le texte doit être rédigé de manière brute, sans syntaxe Markdown.
+
+`END !useLLM`
+
+!Next: Trouver des idées de sujet - discussion avec IA
+
+1. [J'ai trouvé un sujet, je veux passer à la suite](Trouver des idées de sujet - Passer à la suite)
+
+## Trouver des idées de sujet - discussion avec IA
+
+!Keyboard: true
+
+`!useLLM`
+
+Nous sommes toujours en train de chercher un sujet pour le Grand oral en THLP.
+Poursuis la discussion avec moi pour m'aider à trouver un sujet qui me convienne.
+Si la discussion sort du cadre de la recherche d'un sujet pour le Grand oral en HLP, recentre la discussion sur ce sujet.
+
+
+Voici ma question ou remarque.
+Fais une nouvelle proposition (un seul sujet) ou bien réponds à ma question, en prenant en compte cette nouvelle information.
+
+`@INPUT`
+
+### Nouveau format de sortie attendu
+
+REPONSE_A_LA_QUESTION_OU_REMARQUE
+
+`END !useLLM`
+
+!Next: Trouver des idées de sujet - discussion avec IA
+
+1. [J'ai trouvé un sujet, je veux passer à la suite](Trouver des idées de sujet - Passer à la suite)
+
+## Trouver des idées de sujet - Passer à la suite
+
+Tu as trouvé un sujet pour ton Grand Oral en HLP ? Super ! Tu peux maintenant passer à la suite !
+
+1. [J'aimerais évaluer mon idée de sujet](Évaluer une idée de sujet)
+2. [J'aimerais chercher des pistes de réflexion pour mon sujet](Chercher des pistes de réflexion)
+3. [Retour au menu principal]()
+
+
 
 ## Évaluer une idée de sujet
 
