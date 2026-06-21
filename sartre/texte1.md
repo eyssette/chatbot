@@ -140,7 +140,7 @@ Je vais te proposer une question pour tester ta compréhension du texte 1 (atten
 
 
 
-<div class="questionTexte1" markdown>
+<div class="question-texte1" markdown>
 
 `!useLLM`
 
@@ -164,7 +164,7 @@ La question ne doit pas être formulée de manière trop compliquée.
 
 - Tire au hasard un des points importants du texte sur lequel poser une question
 - S'il y a une question précédente, change de thème : la question ne doit pas porter sur les mêmes notions et le même point important que la question précédente
-   - Question précédente : `@SELECTOR[".questionTexte1"]`
+   - Question précédente : `@SELECTOR[".question-texte1"]`
 - Formule une question claire et concise sur ce point important, en utilisant un langage simple et compréhensible pour un élève de lycée
 - La question doit être en rapport direct avec le texte et la philosophie de Sartre
 - Formule la question elle-même sans syntaxe Markdown ou HTML, de manière brute
@@ -199,7 +199,7 @@ J'ai répondu à une question sur un texte de Sartre.
 Évalue ma réponse.
 
 ### Question posée
-`@SELECTOR[".questionTexte1"]`
+`@SELECTOR[".question-texte1"]`
 
 ### Ma réponse
 `@INPUT`

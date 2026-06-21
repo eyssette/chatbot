@@ -48,8 +48,26 @@ variables:
       3. Les catholiques reprochent à l'existentialisme une vision sombre de l'humanité, qui empêcherait de saisir la beauté et la bonté de l'être humain.
       4. Les communistes et les catholiques reprochent à l'existentialisme d'enfermer l'individu dans sa subjectivité, ce qui le rendrait incapable de participer à la solidarité humaine.
       5. De plus, les chrétiens ajoutent un autre reproche : l'existentialisme, en niant les commandements de Dieu et les valeurs éternelles, laisserait l'homme libre de faire ce qu'il veut, ce qui rendrait impossible tout jugement moral.
-   questionsSartreTexte6: |
-      Définis ce qu'est le matérialisme /// Ce texte défend-il le matérialisme ? /// Qu'est-ce que la subjectivité ? /// 
+   texte2-points-importants: |
+      1. L'idée que l'essence précède l'existence se retrouve dans les philosophies qui admettent l'existence d'un Dieu créateur, car elles conçoivent Dieu comme un artisan supérieur qui crée l'homme selon un concept précis, de la même manière qu'un artisan fabrique un objet selon une définition et une technique.
+      2. L'idée que l'essence précède l'existence se retrouve également dans les philosophies athées des Lumières, car elles conservent l'idée que l'homme possède une nature humaine universelle
+   texte3-points-importants: |
+      1. L'existentialisme athée affirme que si Dieu n'existe pas, l'homme est le seul être dont l'existence précède l'essence, ce qui signifie qu'il existe avant d'être défini par un concept.
+      2. L'existentialisme athée soutient que l'homme n'a pas de nature humaine prédéfinie, car il n'y a pas de Dieu pour la concevoir, et que l'homme est ce qu'il se fait lui-même à travers ses choix et ses actions.
+      3. L'existentialisme athée met en avant la subjectivité de l'homme, c'est-à-dire sa capacité à se projeter dans l'avenir et à se définir par ses propres choix, plutôt que d'être déterminé par des caractéristiques fixes ou des concepts universels.
+   texte4-points-importants: |
+      1. L'existence précède l'essence, ce qui signifie que l'homme est responsable de ce qu'il est et de ses choix.
+      2. L'homme est responsable non seulement de lui-même, mais aussi de tous les hommes : le choix est individuel et fondamentalement ancré dans la subjectivité humaine, mais cela ne signifie pas que ce choix nous enferme dans notre subjectivité. Au contraire, il engage les autres êtres humains.
+      3. La responsabilité vis-à-vis de soi-même implique une responsabilité vis-à-vis de l'humanité entière, car nos choix et nos actions influencent la perception de ce que l'homme doit être.
+   texte5-points-importants: |
+      1. Si Dieu n'existe pas, alors l'être humain est délaissé dans ses choix car il ne peut pas trouver de valeurs en dehors de lui-même qui lui indiqueraient ce qu'il doit faire.
+      2. L'être humain est condamné à être libre, car il n'a pas été créé par Dieu et n'a donc pas de nature humaine prédéfinie, mais il est responsable de tout ce qu'il fait. Il ne peut pas se défausser de sa liberté en invoquant des excuses ou des justifications extérieures.
+      3. Si l'être humain croit qu'il peut trouver un secours dans un signe donné, sur terre, qui l'orientera, il se trompe, car il déchiffre lui-même le signe comme il lui plaît. Il est donc condamné à chaque instant à trouver par lui-même ce qu'il doit faire et à inventer ce qu'il doit être.
+   texte6-points-importants: |
+      1. Le matérialisme traite tous les hommes comme des objets, sans distinction avec les objets matériels.
+      2. L'être humain a une subjectivité qui le caractérise, mais cette subjectivité n'est pas strictement individuelle : elle se découvre et n'existe que dans la relation avec les autres
+      3. En effet, les autres sont à la fois la condition de mon existence et de la connaissance que je peux avoir de moi-même.
+      4. Ainsi, l'homme découvre un monde d'intersubjectivité, dans lequel il décide ce qu'il est et ce que sont les autres.
 ---
 
 
