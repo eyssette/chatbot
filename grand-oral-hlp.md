@@ -56,10 +56,12 @@ Où en es-tu dans la préparation de ton Grand Oral ?
 
 ## Comprendre l'épreuve du Grand oral
 
+!Typewriter: false
+
 Voici quelques informations pour t'aider à comprendre l'épreuve du Grand oral.
 
 
-\`
+
 :::info Définition de l'épreuve
 
 > L'épreuve du Grand oral permet au candidat de montrer sa capacité à prendre la parole en public de façon claire et convaincante. Elle lui offre aussi l'opportunité d'utiliser les connaissances liées à ses spécialités pour démontrer ses capacités argumentatives.
@@ -97,15 +99,16 @@ Ensuite, pendant 10 minutes, le jury échange avec le candidat.
 - Le candidat peut à nouveau s'appuyer sur son support, mais pas le remettre au jury.
 - Le candidat peut utiliser, pendant l'échange, le tableau présent dans la salle d'examen pour illustrer ses propos, s'il le souhaite.
 
-\`
 
 1. [Comment vais-je être évalué ?](Comprendre l'épreuve du Grand oral - l'évaluation du Grand oral)
+2. [Retour au menu principal]()
 
 ## Comprendre l'épreuve du Grand oral - l'évaluation du Grand oral
 
+!Typewriter: false
+
 Voici les éléments sur lesquels le jury va se fonder pour évaluer la prestation du candidat.
 
-\`
 
 :::info Évaluation du Grand oral
 Lors de la prestation du candidat, une attention particulière est portée par les membres du jury sur les points suivants :
@@ -120,7 +123,8 @@ Le jury peut s'appuyer sur la grille d'évaluation suivante :
 
 ![](https://minio.apps.education.fr/codimd-prod/uploads/cs48tfck9w8oko6jubyfkdt9v.43.17.png)
 
-\`
+
+1. [Retour au menu principal]()
 
 ## Trouver des idées de sujet
 
@@ -162,10 +166,14 @@ Voici mes propositions de sujet (sois patient, je dois d'abord réfléchir un pe
 
 `!useLLM`
 
-À partir des thèmes ou questions qui m'intéressent et des références culturelles que j'aime particulièrement, propose-moi 5 idées de sujet pour mon Grand Oral en HLP.
+À partir des thèmes ou questions qui m'intéressent et des références culturelles que j'aime particulièrement, fais-moi une première proposition de 5 idées de sujet pour mon Grand Oral en HLP.
 
-### Thèmes ou questions qui m'intéressent
+Ensuite, on pourra en discuter et tu répondras à mes questions.
+
+### Thèmes ou questions qui m'intéressent au départ
 `@themesOuQuestions`
+
+Ces thèmes ou questions peuvent évoluer au fil de nos échanges.
 
 ### Références culturelles que j'aime particulièrement
 `@référencesCulturelles`
@@ -180,7 +188,7 @@ sujet un mot ou une expression qui renvoie à l'une de ces thématiques.
 - Ce sujet doit idéalement porter sur une œuvre (roman, film, ou essai...), ou sur une thématique dans une série d'oeuvres. 
 - Pour chaque sujet, propose non seulement le sujet, mais aussi un lien avec le programme et des suggestions d'œuvres à étudier pour ce sujet.
 
-### Format de sortie attendu
+### Format de sortie attendu pour la première proposition
 
 **QUESTION_DE_REFLEXION**
 EXPLICATION_DU_LIEN_AVEC_LE_PROGRAMME
@@ -201,20 +209,13 @@ Hormis la question de réflexion, qui doit être en gras et les titres des œuvr
 !Keyboard: true
 
 `!useLLM`
+!useHistory
 
-Nous sommes toujours en train de chercher un sujet pour le Grand oral en THLP.
-Poursuis la discussion avec moi pour m'aider à trouver un sujet qui me convienne.
-Si la discussion sort du cadre de la recherche d'un sujet pour le Grand oral en HLP, recentre la discussion sur ce sujet.
-
-
-Voici ma question ou remarque.
-Fais une nouvelle proposition (un seul sujet) ou bien réponds à ma question, en prenant en compte cette nouvelle information.
+Voici ma nouvelle question pour poursuivre la discussion :
 
 `@INPUT`
 
-### Nouveau format de sortie attendu
-
-REPONSE_A_LA_QUESTION_OU_REMARQUE
+Si la discussion s'écarte de la recherche d'un sujet pour le Grand Oral en HLP, recentre la discussion sur ce sujet.
 
 `END !useLLM`
 
