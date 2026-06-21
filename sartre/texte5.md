@@ -26,9 +26,7 @@ Voici les points importants de ce texte :
 1. [Explique moi le point n°1 @point-à-expliquer=1](Texte 5 - explications plus précises)
 2. [Explique moi le point n°2 @point-à-expliquer=2](Texte 5 - explications plus précises)
 3. [Explique moi le point n°3 @point-à-expliquer=3](Texte 5 - explications plus précises)
-4. [Explique moi le point n°4 @point-à-expliquer=4](Texte 5 - explications plus précises)
-5. [Explique moi le point n°5 @point-à-expliquer=5](Texte 5 - explications plus précises)
-1. [Je veux travailler sur un autre texte](Travailler sur un texte en particulier)
+4. [Je veux travailler sur un autre texte](Travailler sur un texte en particulier)
 
 ## Texte 5 - explications plus précises
 
