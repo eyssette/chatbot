@@ -208,6 +208,8 @@ Hormis la question de réflexion, qui doit être en gras et les titres des œuvr
 
 !Keyboard: true
 
+Je vais répondre à ta question (patiente un peu, je dois d'abord réfléchir).
+
 `!useLLM`
 !useHistory
 
@@ -234,6 +236,40 @@ Tu as trouvé un sujet pour ton Grand Oral en HLP ? Super ! Tu peux maintenant p
 
 
 ## Évaluer une idée de sujet
+
+!Keyboard: true
+
+Donne-moi ton idée de sujet pour le Grand Oral en HLP, et je vais t'aider à l'évaluer.
+
+!Next: Évaluer une idée de sujet - proposition d'évaluation
+
+## Évaluer une idée de sujet - proposition d'évaluation
+
+Voici ma proposition d'évaluation pour ton idée de sujet.
+
+Patiente un peu, je dois d'abord réfléchir.
+
+`!useLLM`
+
+J'ai trouvé une idée de sujet pour le Grand Oral en HLP :
+
+`@INPUT`
+
+Que penses-tu de cette idée de sujet ?
+
+Propose une évaluation de ce sujet qui doit vérifier les points suivants :
+
+1. Le sujet est-il une question ouverte de réflexion et s'agit-il d'une question assez claire et vraiment pertinente, qui ouvre sur un vrai débat philosophique et/ou littéraire ?
+2. Le sujet porte-t-il sur au moins une des thématiques du programme : l'éducation, la recherche de soi, la sensibilité, l'histoire et la violence, la création artistique, les limites de l'humain (au sens soit des limites de la maîtrise de la nature par la technique, soit des limites ordinaires que la technique nous fait dépasser et qui nous interrogent sur l'effet que la technique peut avoir sur les humains) ?
+3. Le lien avec le sujet est-il explicite : y a-t-il dans la question du sujet un mot ou une expression qui renvoie à l'une de ces thématiques ?
+4. Le sujet porte-t-il idéalement sur une œuvre (roman, film, ou essai...), ou sur une thématique dans une série d'œuvres ?
+5. L'œuvre ou les œuvres proposées sont-elles pertinentes et intéressantes pour le sujet ? S'agit-il d'œuvres reconnues pour leur qualité ? Il faut éviter par exemple les dessins animés Walt Disney.
+
+Rédige ton évaluation de manière constructive, en donnant des conseils pour améliorer le sujet si nécessaire. N'hésite pas à faire des suggestions d'œuvres à étudier pour ce sujet, ou à proposer des pistes pour reformuler le sujet si nécessaire.
+
+Rédige ta réponse en un ou deux paragraphes maximum, de manière claire et concise, et sans utiliser de syntaxe Markdown : écris simplement du texte brut, en sautant des lignes entre les paragraphes.
+
+`END !useLLM`
 
 ## Chercher des pistes de réflexion
 
