@@ -47,12 +47,13 @@ Où en es-tu dans la préparation de ton Grand Oral ?
 </style>
 
 1. [Je n'ai pas bien compris comment se passe le Grand Oral](Comprendre l'épreuve du Grand oral)
-1. [Je n'ai pas d'idées de sujet](Trouver des idées de sujet)
-2. [J'ai une idée de sujet : qu'en penses-tu ?](Évaluer une idée de sujet)
-3. [J'ai mon sujet, je cherche des pistes de réflexion](Chercher des pistes de réflexion)
-4. [J'ai beaucoup de pistes de réflexion, aide-moi à les organiser et à faire un plan](Organiser ses idées et faire un plan)
-5. [J'ai mon plan, je veux travailler en détail une partie ou une sous-partie](Travailler sur une partie ou sous-partie)
-6. [J'ai tout le contenu : évalue-moi et pose-moi des questions](Évaluer le contenu du grand oral)
+2. [Je n'ai pas d'idées de sujet](Trouver des idées de sujet)
+3. [J'ai une idée de sujet : qu'en penses-tu ?](Évaluer une idée de sujet)
+4. [J'ai mon sujet, je cherche des pistes de réflexion](Chercher des pistes de réflexion)
+5. [J'ai beaucoup de pistes de réflexion, aide-moi à les organiser et à faire un plan](Organiser ses idées et faire un plan)
+6. [J'ai mon plan, je veux travailler en détail sur une idée](Travailler sur une idée)
+7. [J'ai tout le contenu : évalue mon exposé !](Évaluer le contenu du grand oral)
+8. [Je veux m'entraîner à la phase d'échange avec le jury : pose-moi des questions](S'entraîner à l'échange avec le jury)
 
 ## Comprendre l'épreuve du Grand oral
 
@@ -273,8 +274,305 @@ Rédige ta réponse en un ou deux paragraphes maximum, de manière claire et con
 
 ## Chercher des pistes de réflexion
 
+Dis-moi d'abord quel est ton sujet ?
+
+!Next: Chercher des pistes de réflexion - proposition de pistes
+
+## Chercher des pistes de réflexion - proposition de pistes
+
+Voici ma proposition de pistes de réflexion pour ton sujet.
+
+:::warning Réponse générée par une IA
+Attention, ces propositions sont générées par une IA : garde un esprit critique et n'hésite pas à poser des questions à ton professeur !
+:::
+
+Sois patient, je dois d'abord réfléchir un peu !
+
+`@INPUT`
+
+`!useLLM`
+
+Voici le sujet que j'ai choisi en HLP (Humanités, Littérature et Philosophie) pour mon Grand Oral : 
+
+`@INPUT`
+
+Je veux que tu me proposes des pistes de réflexion pour ce sujet, en m'indiquant les idées principales à développer, les arguments possibles, et les références culturelles pertinentes (œuvres littéraires, philosophiques, artistiques, etc.) qui pourraient être utilisées pour illustrer ces idées.
+
+### Instructions pour la réponse
+- Propose-moi plusieurs pistes de réflexion, en les organisant de manière claire et structurée
+- Pour chaque piste, indique les idées principales à développer, les arguments possibles, et les références théoriques (philosophes, courants philosophiques, ou personnes expertes d'une discipline utile pour ce sujet)
+- Pour chaque piste, indique également des références culturelles pertinentes (œuvres littéraires, artistiques, cinématographiques, etc.) qui pourraient être utilisées pour illustrer ces idées.
+- N'hésite pas à me suggérer des questions qui pourraient m'aider à approfondir ma réflexion sur le sujet
+
+
+### Format de la réponse
+Rédige ta réponse en texte brut, sans syntaxe Markdown, en sautant des lignes entre les différentes pistes de réflexion.
+Utilise un langage clair et accessible, en évitant les phrases trop longues ou complexes.
+
+`END !useLLM`
+
+1. [J'ai suffisamment de pistes de réflexion, je veux maintenant les organiser](Organiser ses idées et faire un plan)
+
+## Chercher des pistes de réflexion - proposition de pistes - discussion avec IA
+
+Attends, je dois d'abord réfléchir un peu !
+
+`!useLLM`
+!useHistory
+
+Voici ma nouvelle question pour poursuivre la discussion :
+
+`@INPUT`
+
+Si la discussion s'écarte de la recherche de pistes de réflexion pour le Grand Oral en HLP, recentre la discussion sur ce sujet.
+
+`END !useLLM`
+
+!Next: Chercher des pistes de réflexion - proposition de pistes - discussion avec IA
+
+1. [J'ai suffisamment de pistes de réflexion, je veux maintenant les organiser](Organiser ses idées et faire un plan)
+
 ## Organiser ses idées et faire un plan
 
-## Travailler sur une partie ou sous-partie
+D'abord indique-moi ton sujet et les pistes de réflexion que tu as trouvées.
+
+:::info Conseil
+Tu peux copier-coller les pistes de réflexion que tu as notées dans un document texte.
+:::
+
+!Next: Organiser ses idées et faire un plan - proposition de plan
+
+## Organiser ses idées et faire un plan - proposition de plan
+
+Voici mes remarques et mes suggestions pour t'aider à organiser tes idées et à faire un plan pour ton Grand Oral en HLP.
+
+:::warning Réponse générée par une IA
+Attention, ces propositions sont générées par une IA : garde un esprit critique et n'hésite pas à poser des questions à ton professeur !
+:::
+
+Sois patient, je dois d'abord réfléchir un peu !
+
+`@INPUT`
+
+`!useLLM`
+
+J'ai trouvé un sujet pour mon Grand Oral en HLP (Humanités, Littérature et Philosophie) et des pistes de réflexion pour ce sujet. Je veux maintenant que tu m'aides à organiser mes idées et à faire un plan pour mon oral.
+
+### Sujet et pistes de réflexion
+
+`@INPUT`
+
+### Instructions pour la réponse
+
+- S'il y a déjà un plan proposé, évalue-le et propose des améliorations si nécessaire.
+- Si aucun plan n'a été proposé, propose-moi un plan structuré pour mon oral.
+
+### Consignes pour le plan
+- Le plan doit être structuré en parties et sous-parties, avec des titres clairs
+- Le plan doit être logique et cohérent, avec une progression claire des idées. On doit comprendre sans difficultés la transition qui mène d'une idée à une autre (d'une partie à une autre et d'une sous-partie à une autre)
+- Le titre d'un partie doit être une phrase complète qui affirme quelque chose, et qui est en lien clair avec le sujet
+- Le titre d'une sous-partie n'est pas nécessairement une phrase complète, mais il doit désigner une étape claire dans le raisonnement pour défendre la thèse de la partie
+- Dans chaque sous-partie, il doit y avoir un résumé très court de l'idée directrice
+- Dans chaque sous-partie, il doit y avoir une liste des concepts et termes importants à utiliser et à définir
+- Dans chaque sous-partie, il doit y avoir une liste des références théoriques pertinentes (philosophes, courants philosophiques, ou personnes expertes d'une discipline utile pour ce sujet)
+- Dans chaque sous-partie, il doit y avoir une liste d'exemples issus de références culturelles pertinentes (œuvres littéraires, artistiques, cinématographiques etc.) qui pourraient être utilisées pour illustrer les idées de la sous-partie
+
+### Format de la réponse
+- Le titre d'une partie doit être un titre Markdown de niveau 3
+- Le titre d'une sous-partie doit être un titre Markdown de niveau 4
+- Le résumé de l'idée directrice doit être en texte brut, sans syntaxe Markdown
+- Les listes de concepts et termes importants, de références théoriques et de références culturelles doivent être une liste à puces, mais avec un contenu en texte brut, sans syntaxe Markdown (seul usage autorisé : les titres d'œuvres en italique, au format Markdown). Au début de chaque liste, indique le type de contenu de la liste ("concepts", "références théoriques", "exemples") en gras.
+
+`END !useLLM`
+
+!Next: Organiser ses idées et faire un plan - proposition de plan - discussion avec IA
+
+1. [J'ai mon plan, je veux travailler en détail sur une idée](Travailler sur une idée)
+2. [J'ai tout mon plan et le contenu, je veux maintenant évaluer le contenu de mon Grand Oral](Évaluer le contenu du grand oral)
+
+## Organiser ses idées et faire un plan - proposition de plan - discussion avec IA
+Attends, je dois d'abord réfléchir un peu !
+
+`!useLLM`
+!useHistory
+
+Voici ma nouvelle question pour poursuivre la discussion :
+
+`@INPUT`
+
+Si la discussion s'écarte de l'organisation des idées et de la construction d'un plan pour le Grand Oral en HLP, recentre la discussion sur ce sujet.
+
+`END !useLLM`
+
+1. [J'ai mon plan, je veux travailler en détail sur une idée](Travailler sur une idée)
+2. [J'ai tout mon plan et le contenu, je veux maintenant évaluer le contenu de mon Grand Oral](Évaluer le contenu du grand oral)
+
+## Travailler sur une idée
+
+Je te propose de travailler en détail une idée afin d'aller le plus loin possible dans ta réflexion.
+
+Quelle est l'idée sur laquelle tu veux travailler ?
+
+!Next: Travailler sur une idée - propositions sur une idée
+
+## Travailler sur une idée - propositions sur une idée
+
+Voici mes propositions pour t'aider à travailler en détail sur ton idée.
+
+:::warning Réponse générée par une IA
+Attention, ces propositions sont générées par une IA : garde un esprit critique et n'hésite pas à poser des questions à ton professeur !
+:::
+
+`!useLLM`
+
+J'ai choisi une idée sur laquelle je veux travailler en détail pour mon Grand Oral en HLP (Humanités, Littérature et Philosophie).
+
+Le but est d'approfondir et d'aller le plus loin possible dans ma réflexion sur cette idée, en développant des arguments, en proposant des exemples et en m'appuyant sur des références théoriques pertinentes.
+
+Aide-moi à travailler cette idée en profondeur et en finesse.
+
+### Idée sur laquelle je veux travailler
+
+`@INPUT`
+
+### Instructions pour la réponse
+Voici ce que tu peux faire :
+- Proposer des arguments pour développer cette idée, en m'indiquant les concepts et termes importants à utiliser et à définir
+- Proposer des références théoriques pertinentes (philosophes, courants philosophiques, ou personnes expertes d'une discipline utile pour ce sujet)
+- Proposer des exemples issus de références culturelles pertinentes (œuvres littéraires, artistiques, cinématographiques etc.) qui pourraient être utilisés pour illustrer cette idée
+- Proposer des questions qui pourraient m'aider à approfondir ma réflexion sur cette idée
+
+Attention, le but n'est pas de tout dire d'un coup et de tout donner tout de suite.
+
+Au contraire, il faut que tu m'aides à construire ma réflexion pas à pas, en me donnant des pistes petit à petit.
+
+### Format de la réponse
+- Rédige ta réponse en texte brut, sans syntaxe Markdown, en sautant des lignes entre les différentes propositions.
+- Utilise un langage clair et accessible, en évitant les phrases trop longues ou complexes.
+
+
+`END !useLLM`
+
 
 ## Évaluer le contenu du grand oral
+
+Tu as fini de préparer ton Grand Oral en HLP (Humanités, Littérature et Philosophie) ? 
+
+Super ! Je vais t'aider à évaluer le contenu de ton oral.
+
+Copie-colle ci-dessous le contenu que tu as préparé pour ton Grand Oral, et je vais te donner mon avis.
+
+!Next: Évaluer le contenu du grand oral - proposition d'évaluation
+
+## Évaluer le contenu du grand oral - proposition d'évaluation
+
+Voici ma proposition d'évaluation pour le contenu de ton Grand Oral en HLP (Humanités, Littérature et Philosophie).
+
+:::warning Réponse générée par une IA
+Attention, ces propositions sont générées par une IA : garde un esprit critique et n'hésite pas à poser des questions à ton professeur !
+:::
+
+Patiente un peu, je dois d'abord réfléchir !
+
+`!useLLM`
+
+J'ai préparé le contenu de mon Grand Oral en HLP (Humanités, Littérature et Philosophie) et je veux que tu m'aides à l'évaluer.
+
+### Contenu que j'ai préparé pour mon Grand Oral
+`@INPUT`
+
+### Instructions pour la réponse
+Évalue le contenu que j'ai préparé pour mon Grand Oral en HLP en vérifiant les points suivants :
+1. Le contenu est-il clair et bien structuré ? Y a-t-il une progression logique dans les idées ? Les transitions entre les différentes parties sont-elles fluides ?
+2. Le contenu est-il pertinent par rapport au sujet choisi ? Les idées développées sont-elles en lien avec le sujet et les thématiques du programme ?
+3. Le contenu est-il suffisamment approfondi ? Les arguments sont-ils solides et bien développés ? Les exemples et références culturelles sont-ils pertinents et bien choisis
+4. Le contenu est-il original et intéressant ? Y a-t-il des idées nouvelles ou des perspectives originales dans le contenu que j'ai préparé ?
+5. Le contenu est-il adapté à l'épreuve du Grand Oral ? Le contenu est-il suffisamment synthétique pour tenir dans le temps imparti (10 minutes d'exposé)
+
+
+### Format de la réponse
+- Rédige ton évaluation de manière constructive, en donnant des conseils pour améliorer le contenu si nécessaire. N'hésite pas à faire des suggestions pour approfondir certaines idées, proposer des références culturelles supplémentaires, ou reformuler certaines parties du contenu si nécessaire.
+- Rédige ta réponse en un ou deux paragraphes maximum, de manière claire et concise, et sans utiliser de syntax Markdown : écris simplement du texte brut, en sautant des lignes entre les paragraphes.
+
+`END !useLLM`
+
+!Next: Évaluer le contenu du grand oral - proposition d'évaluation - discussion avec IA
+
+1. [Je veux m'entraîner à l'échange avec le jury : pose-moi des questions](S'entraîner à l'échange avec le jury)
+
+## Évaluer le contenu du grand oral - proposition d'évaluation - discussion avec IA
+
+Patiente un peu, je dois d'abord réfléchir !
+
+`!useLLM`
+!useHistory
+
+Voici ma nouvelle question pour poursuivre la discussion :
+
+`@INPUT`
+
+Si la discussion s'écarte de l'évaluation du contenu de mon Grand Oral en HLP, recentre la discussion sur ce sujet.
+
+`END !useLLM`
+
+!Next: Évaluer le contenu du grand oral - proposition d'évaluation - discussion avec IA
+
+1. [Je veux m'entraîner à l'échange avec le jury : pose-moi des questions](S'entraîner à l'échange avec le jury)
+
+## S'entraîner à l'échange avec le jury
+
+Tu as terminé la partie “exposé” de ton Grand Oral en HLP (Humanités, Littérature et Philosophie).
+
+Je te propose maintenant de t'entraîner à la phase d'échange avec le jury.
+
+Copie-colle d'abord ci-dessous ton exposé, et je vais te poser des questions pour t'entraîner à l'échange avec le jury.
+
+!Next: S'entraîner à l'échange avec le jury - proposition de questions
+
+## S'entraîner à l'échange avec le jury - proposition de questions
+
+Voici ma première question !
+
+Patiente un peu, je dois d'abord réfléchir !
+
+`!useLLM`
+
+J'ai terminé la partie “exposé” de mon Grand Oral en HLP (Humanités, Littérature et Philosophie) et je veux m'entraîner à la phase d'échange avec le jury.
+
+Tu vas me poser des questions successives (une par une) pour m'entraîner à l'échange avec le jury, en lien avec mon exposé.
+
+
+
+### Exposé que j'ai préparé pour mon Grand Oral
+`@INPUT`
+
+### Instructions pour la réponse
+- Les questions doivent être pertinentes et stimulantes, et m'inviter à approfondir ma réflexion et à mobiliser mes connaissances.
+- Les questions doivent cibler des points qui ne sont pas assez clairs ou pas assez approfondi dans mon exposé et dans mes réponses précédentes.
+- Les questions doivent être ouvertes et inviter à la réflexion, plutôt que des questions fermées qui appellent une réponse par “oui” ou “non”.
+- Les questions doivent s'enchaîner de manière logique, en suivant le fil de ma réflexion et de mes réponses précédentes.
+
+### Format de la réponse
+- Pose-moi une question à la fois
+- La question doit être claire et courte, et formulée de manière à m'inviter à réfléchir et à développer ma réponse.
+
+`END !useLLM`
+
+!Next: S'entraîner à l'échange avec le jury - proposition de questions - discussion avec IA
+
+
+## S'entraîner à l'échange avec le jury - proposition de questions - discussion avec IA
+
+Patiente un peu, je dois d'abord réfléchir !
+
+`!useLLM`
+!useHistory
+
+Voici ma réponse à la question pour poursuivre la discussion :
+
+`@INPUT`
+
+Si la discussion s'écarte de l'entraînement à l'échange avec le jury pour le Grand Oral en HLP, recentre la discussion sur ce sujet.
+
+`END !useLLM`
+
